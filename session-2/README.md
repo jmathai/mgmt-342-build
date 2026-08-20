@@ -125,40 +125,42 @@ The judgment you want is **match the model to the job**, not "always use the bes
 
 You met the attach button in the list above. Use it once now, so the rest of the semester has something to point back at.
 
-<!-- AUTHOR: drop the PDF at session-2/sample-internship-posting.pdf, or rename the link and both prompts below to match the file you use. -->
+**Download this file:** [womens_clothing_sales.csv](files/womens_clothing_sales.csv). Click it — GitHub shows you the contents as a table — then use the download button to save it to your laptop. Notice what just happened: you pulled a file out of a repository, and it was not code. A year of sales for a women's clothing retailer, one row per order.
 
-**Download this file:** [sample-internship-posting.pdf](sample-internship-posting.pdf). Click it, then click **Download** on the page that opens. Notice what just happened — you pulled a file out of a repository. That is the sharing half of what a repo is for.
-
-First ask without it. Send this on its own:
+First ask without it. Send this on its own, with nothing attached:
 
 ```
-List the five things the internship posting in sample-internship-posting.pdf
-says it requires.
+What are the most popular women's clothing items?
 ```
 
-Read what comes back. Now click the paperclip, attach the PDF you just downloaded, and send this:
+Read what comes back. Now click the paperclip, attach the CSV you just downloaded, and send **the exact same question again.**
 
 ```
-List the five things this posting says it requires.
+What are the most popular women's clothing items?
 ```
 
-**Compare the two. What did the first answer actually do?**
+**Identical wording both times. Compare the two answers.**
 
 <details><summary>Answer</summary>
 
-One of two things happened, and the room will have both.
+**The first answer was confident, reasonable, and about nothing.** You most likely got jeans, a little black dress, a white t-shirt, leggings — the standard list. Read it again and notice it never says where it came from. It is the statistical middle of everything ever written about women's clothing, and it is not about a business, a year, or a single real customer.
 
-**It told you it cannot see that file.** That is the honest failure, and it is the one you want.
+The uncomfortable part is that it did not feel like a failure. It answered immediately and it sounded right. **That is the failure mode to fear** — not a model that refuses, but a model that answers. A refusal is obvious. A confident generic answer reads exactly like knowledge.
 
-**Or it gave you five confident, plausible, entirely invented requirements.** Nothing in that model knows what is in our PDF. It filled the gap with the statistical middle of every internship posting it has ever read, and it did not warn you that it was doing so.
+**The second answer had to count.** With the file attached there are 1,000 real orders in front of it, and it can no longer reach for the standard list. If it read the file properly you should see the Maxi Dress at the top, Dresses as the leading category by a wide margin, and names like Culottes and Pleated Skirt that no generic answer would ever produce.
 
-**The second one is the failure to be afraid of** — not the model refusing, but the model answering. A refusal is obvious. An invention reads exactly like an answer.
+> **You changed not one word. The paperclip did all of it.**
 
-Now look at the second prompt. It was shorter and vaguer than the first, and it was far better. Not because of the wording — the wording got worse. Because the material was in front of it.
+**Now the second thing, and it is the one to carry into Part 4.** Look at *how* it decided what "popular" means. That word is doing a lot of unexamined work — this file supports at least two answers:
 
-> **The paperclip did more for that answer than any sentence you could have written.**
+| "Popular" means | Top item |
+|---|---|
+| Most units sold | Button-Up Shirt and Maxi Dress, tied at 71 |
+| Most money brought in | Maxi Dress, at $7,280 — and the Button-Up Shirt is nowhere near the top |
 
-Hold onto that, because the next three parts are all about wording, and it would be easy to walk out overrating it. Aug 27 is a whole session on the other half.
+Both are correct. They are not the same answer, and a buyer deciding what to reorder would care enormously about which one you handed them. The model picked one for you and probably did not mention that it had a choice.
+
+**It picked because you left it room to pick.** That is not a bug and it is not the model being careless — a vague word gets a vague reading, and something has to fill the gap. The rest of today is about deciding when to leave that room open and when to close it.
 
 </details>
 
@@ -396,7 +398,7 @@ Use this whenever you are starting something you have not done before. It is the
 2. **Upload it to Canvas**.
 3. **Also save a copy** into `my-work/class-notes/` in your course folder.
 
-**Bring a document with you on Aug 27.** You attached one file today, with our PDF, and saw what it did to the answer. Next session that stops being a demo and becomes the whole method — you hand the model things that already exist instead of typing them out. It only works if you show up with something. Find one document that is about you or was written by you, and have it on your laptop:
+**Bring a document with you on Aug 27.** You attached one file today — the sales spreadsheet — and saw what it did to the answer. Next session that stops being a demo and becomes the whole method — you hand the model things that already exist instead of typing them out. It only works if you show up with something. Find one document that is about you or was written by you, and have it on your laptop:
 
 - A resume
 - A paper or long assignment you wrote

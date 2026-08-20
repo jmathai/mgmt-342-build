@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,region,channel,store_location,category,product_name,size,color,quantity,unit_price,discount_pct,discount_amount,net_sales,payment_method,returned
+ORD-100937,2024-08-21,Hazel Diaz,Midwest,In-Store,Airport Kiosk,Tops,Knit Sweater,S,Rust,1,50.55,10,5.05,45.5,Credit Card,False
+ORD-100286,2024-08-21,Evelyn Gonzalez,West,Online,Web,Accessories,Sun Hat,One Size,Charcoal,1,46.85,25,11.71,35.14,Debit Card,False
+ORD-100871,2024-08-21,Emily Diaz,Southwest,Online,Web,Bottoms,Pleated Skirt,M,Rust,1,94.36,0,0.0,94.36,Debit Card,False
+ORD-100384,2024-08-21,Aisha Chen,Northeast,Online,Web,Tops,Knit Sweater,S,Rust,1,31.79,0,0.0,31.79,Credit Card,False
+ORD-100323,2024-08-22,Grace Garcia,Northeast,Online,Web,Dresses,Shift Dress,M,Cream,1,121.29,25,30.32,90.97,Credit Card,False
+ORD-100043,2024-08-22,Charlotte Lee,Northeast,In-Store,Westfield Mall,Footwear,Ballet Flats,6,Blush Pink,4,106.72,0,0.0,426.88,PayPal,False
+ORD-100699,2024-08-23,Naomi Anderson,Midwest,In-Store,Riverside Plaza,Outerwear,Cardigan,S,Camel,3,251.38,0,0.0,754.14,Credit Card,False
+ORD-100458,2024-08-23,Riley Chen,Southwest,Online,Web,Tops,Button-Up Shirt,XL,Black,2,67.94,0,0.0,135.88,Credit Card,False
+ORD-100828,2024-08-24,Olivia Andersson,West,In-Store,Airport Kiosk,Dresses,Maxi Dress,XS,Blush Pink,1,159.46,0,0.0,159.46,Credit Card,False
+ORD-100840,2024-08-25,Ella Diaz,West,Online,Web,Tops,Tunic,M,Sky Blue,1,34.81,0,0.0,34.81,Gift Card,False
+ORD-100136,2024-08-25,Ella Rossi,Midwest,Online,Web,Bottoms,Pleated Skirt,M,Sky Blue,2,82.44,25,41.22,123.66,Credit Card,False
+ORD-100246,2024-08-26,Layla Okafor,Midwest,Online,Web,Bottoms,Culottes,XL,Camel,1,87.83,20,17.57,70.26,Debit Card,False
+ORD-100416,2024-08-27,Grace Diaz,Midwest,Online,Web,Dresses,Slip Dress,M,White,1,54.88,0,0.0,54.88,Credit Card,False
+ORD-100734,2024-08-27,Layla Brown,Southeast,Online,Web,Footwear,Ankle Boots,10,Rust,1,97.17,30,29.15,68.02,Credit Card,False
+ORD-100417,2024-08-30,Maya Wright,Northeast,In-Store,Airport Kiosk,Tops,Tank Top,L,Cream,2,46.33,15,13.9,78.76,Credit Card,False
+ORD-100818,2024-08-30,Riley Gonzalez,West,In-Store,Downtown Flagship,Bottoms,Pleated Skirt,M,Navy,1,50.16,10,5.02,45.14,Credit Card,False
+ORD-100489,2024-08-30,Nora Müller,West,In-Store,Riverside Plaza,Outerwear,Cardigan,L,Charcoal,2,99.68,0,0.0,199.36,Credit Card,False
+ORD-100485,2024-08-31,Emma Singh,West,In-Store,Airport Kiosk,Dresses,Slip Dress,L,Sky Blue,2,83.81,0,0.0,167.62,Credit Card,False
+ORD-100720,2024-08-31,Layla Hernandez,Southeast,In-Store,Downtown Flagship,Bottoms,Denim Shorts,L,Black,2,94.5,0,0.0,189.0,Cash,False
+ORD-100697,2024-08-31,Ava Diaz,Midwest,Online,Web,Bottoms,Denim Shorts,L,Rust,3,32.13,0,0.0,96.39,Cash,False
+ORD-100186,2024-08-31,Nora Müller,West,In-Store,Westfield Mall,Bottoms,Leggings,S,White,1,69.25,0,0.0,69.25,Credit Card,False
+ORD-100267,2024-08-31,Amelia Nguyen,West,Online,Web,Activewear,Track Jacket,XL,Camel,1,64.28,0,0.0,64.28,Credit Card,False
+ORD-100440,2024-08-31,Sophia Martinez,Southeast,In-Store,Westfield Mall,Tops,Tunic,XS,Olive,1,38.71,0,0.0,38.71,Credit Card,False
+ORD-100115,2024-08-31,Abigail Rodriguez,West,In-Store,Airport Kiosk,Dresses,Midi Dress,S,Mustard,4,66.27,0,0.0,265.08,Credit Card,False
+ORD-100647,2024-09-01,Aisha Lopez,Southeast,Online,Web,Bottoms,Leggings,M,Sky Blue,1,78.56,0,0.0,78.56,Apple Pay,True
+ORD-100552,2024-09-01,Ella Rodriguez,Southwest,In-Store,Westfield Mall,Bottoms,Denim Shorts,L,Emerald,2,101.72,0,0.0,203.44,Apple Pay,False
+ORD-100573,2024-09-01,Aisha Brown,Southwest,Online,Web,Accessories,Leather Belt,One Size,Rust,3,34.54,10,10.36,93.26,Credit Card,False
+ORD-100497,2024-09-01,Amelia Jones,Southwest,In-Store,Westfield Mall,Outerwear,Puffer Jacket,XL,Olive,4,245.71,0,0.0,982.84,Credit Card,False
+ORD-100331,2024-09-03,Ella Smith,Southwest,Online,Web,Accessories,Statement Earrings,One Size,Olive,1,44.67,0,0.0,44.67,Credit Card,False
+ORD-100113,2024-09-03,Riley Wilson,Midwest,Online,Web,Outerwear,Blazer,XXL,Mustard,2,226.0,25,113.0,339.0,Apple Pay,False
+ORD-100869,2024-09-04,Maya Rodriguez,Southwest,Online,Web,Footwear,Loafers,8,Olive,1,153.72,10,15.37,138.35,Debit Card,False
+ORD-100468,2024-09-04,Aurora Rossi,Southeast,Online,Web,Dresses,Maxi Dress,L,Mustard,1,63.68,0,0.0,63.68,Credit Card,False
+ORD-100447,2024-09-04,Harper Jones,Northeast,In-Store,Riverside Plaza,Activewear,Track Jacket,L,Rust,1,33.66,0,0.0,33.66,PayPal,False
+ORD-100027,2024-09-04,Priya Patel,Midwest,In-Store,Westfield Mall,Bottoms,Denim Shorts,L,Rust,3,100.44,0,0.0,301.32,Credit Card,False
+ORD-100696,2024-09-05,Riley Chen,Southeast,Online,Web,Dresses,Shift Dress,L,Burgundy,1,128.17,0,0.0,128.17,PayPal,False
+ORD-100653,2024-09-05,Grace Anderson,Southeast,Online,Web,Accessories,Statement Earrings,One Size,Black,1,55.33,25,13.83,41.5,Credit Card,False
+ORD-100363,2024-09-05,Aria Hernandez,Southeast,In-Store,Airport Kiosk,Outerwear,Blazer,L,Navy,2,171.58,0,0.0,343.16,PayPal,False
+ORD-100752,2024-09-05,Mei Hernandez,Southwest,Online,Web,Bottoms,Denim Shorts,S,Mustard,1,86.8,0,0.0,86.8,Credit Card,False
+ORD-100581,2024-09-06,Grace Lopez,Midwest,Online,Web,Accessories,Statement Earrings,One Size,Lavender,1,70.3,0,0.0,70.3,Credit Card,False
+ORD-100695,2024-09-07,Nora Müller,Northeast,In-Store,Riverside Plaza,Outerwear,Blazer,L,Black,1,210.49,0,0.0,210.49,Debit Card,False
+ORD-100642,2024-09-07,Nora Jones,Southeast,Online,Web,Bottoms,Denim Shorts,S,Black,3,56.63,40,67.96,101.93,Credit Card,False
+ORD-100030,2024-09-08,Emma Martinez,Northeast,Online,Web,Bottoms,Culottes,XXL,Sky Blue,2,63.87,30,38.32,89.42,Debit Card,False
+ORD-100906,2024-09-09,Charlotte Singh,Midwest,In-Store,Airport Kiosk,Dresses,Slip Dress,XL,Emerald,1,55.01,0,0.0,55.01,Debit Card,False
+ORD-100926,2024-09-09,Sophia Williams,Northeast,In-Store,Westfield Mall,Footwear,Sneakers,7,Olive,2,141.3,20,56.52,226.08,PayPal,False
+ORD-100859,2024-09-10,Amelia Garcia,West,Online,Web,Bottoms,Skinny Jeans,L,Navy,1,51.98,0,0.0,51.98,Debit Card,True
+ORD-100762,2024-09-10,Olivia Rossi,West,In-Store,Downtown Flagship,Activewear,Running Shorts,L,Blush Pink,1,76.01,0,0.0,76.01,Cash,False
+ORD-100519,2024-09-10,Layla Lee,Midwest,Online,Web,Bottoms,Pleated Skirt,M,Camel,3,75.15,0,0.0,225.45,Debit Card,False
+ORD-100455,2024-09-13,Aisha Lee,Midwest,Online,Web,Footwear,Ankle Boots,10,Charcoal,1,44.42,0,0.0,44.42,Credit Card,False
+ORD-100838,2024-09-13,Grace Garcia,Southeast,Online,Web,Bottoms,Leggings,M,Navy,1,76.31,0,0.0,76.31,Credit Card,False
+ORD-100735,2024-09-13,Harper Williams,Northeast,In-Store,Downtown Flagship,Outerwear,Denim Jacket,S,Charcoal,1,76.49,0,0.0,76.49,Gift Card,False
+ORD-100031,2024-09-13,Olivia Andersson,West,Online,Web,Dresses,Midi Dress,L,Camel,1,106.33,0,0.0,106.33,Gift Card,False
+ORD-100308,2024-09-13,Naomi Patel,Southeast,Online,Web,Activewear,Sports Bra,M,Lavender,1,65.8,0,0.0,65.8,Apple Pay,False
+ORD-100627,2024-09-15,Maya Johnson,Southwest,In-Store,Downtown Flagship,Tops,Tank Top,M,Navy,2,72.89,15,21.87,123.91,Credit Card,True
+ORD-100045,2024-09-15,Maya Johnson,Midwest,Online,Web,Activewear,Running Shorts,M,Sky Blue,3,80.38,0,0.0,241.14,Debit Card,False
+ORD-100178,2024-09-15,Ruby Reyes,Southwest,In-Store,Downtown Flagship,Outerwear,Denim Jacket,M,Lavender,2,71.77,0,0.0,143.54,Credit Card,False
+ORD-100162,2024-09-16,Amelia Miller,Southeast,In-Store,Airport Kiosk,Footwear,Loafers,7,Camel,2,58.07,15,17.42,98.72,Credit Card,False
+ORD-100525,2024-09-16,Mia Wilson,Northeast,In-Store,Airport Kiosk,Tops,Tank Top,L,Charcoal,1,21.54,0,0.0,21.54,Credit Card,False
+ORD-100687,2024-09-17,Olivia Cohen,Southeast,Online,Web,Dresses,Bodycon Dress,M,Emerald,2,133.63,0,0.0,267.26,Cash,False
+ORD-100781,2024-09-17,Nora Cohen,Southeast,Online,Web,Outerwear,Puffer Jacket,S,Camel,1,109.95,0,0.0,109.95,Credit Card,False
+ORD-100064,2024-09-17,Zoe Patel,Northeast,Online,Web,Bottoms,Leggings,XL,Blush Pink,3,41.42,0,0.0,124.26,Debit Card,False
+ORD-100548,2024-09-18,Nora Reyes,Midwest,In-Store,Airport Kiosk,Accessories,Leather Belt,One Size,Burgundy,4,49.51,0,0.0,198.04,Credit Card,False
+ORD-100981,2024-09-18,Olivia Johnson,West,In-Store,Riverside Plaza,Bottoms,Leggings,M,Emerald,1,71.56,0,0.0,71.56,Cash,False
+ORD-100235,2024-09-18,Emily Miller,Southwest,In-Store,Airport Kiosk,Dresses,Maxi Dress,L,White,1,117.01,30,35.1,81.91,Cash,True
+ORD-100007,2024-09-20,Riley Okafor,Southwest,Online,Web,Bottoms,Culottes,L,Cream,1,100.55,5,5.03,95.52,Debit Card,False
+ORD-100087,2024-09-21,Harper Wright,Northeast,In-Store,Airport Kiosk,Tops,Blouse,M,Burgundy,1,36.76,0,0.0,36.76,Credit Card,False
+ORD-100711,2024-09-21,Hazel Diaz,West,Online,Web,Bottoms,Culottes,M,Camel,2,81.26,0,0.0,162.52,Credit Card,False
+ORD-100676,2024-09-21,Harper Wright,Southeast,In-Store,Airport Kiosk,Outerwear,Blazer,S,Blush Pink,3,106.13,10,31.84,286.55,Cash,True
+ORD-100295,2024-09-21,Riley Rossi,Southeast,In-Store,Riverside Plaza,Outerwear,Puffer Jacket,M,White,1,108.09,0,0.0,108.09,Debit Card,False
+ORD-100833,2024-09-22,Evelyn Gonzalez,West,In-Store,Westfield Mall,Activewear,Running Shorts,M,Blush Pink,1,74.14,0,0.0,74.14,Credit Card,False
+ORD-100876,2024-09-22,Aria Johnson,Southeast,In-Store,Airport Kiosk,Accessories,Silk Scarf,One Size,Black,1,40.27,15,6.04,34.23,Credit Card,False
+ORD-100951,2024-09-22,Naomi Rossi,Midwest,Online,Web,Tops,Button-Up Shirt,M,Cream,1,75.71,15,11.36,64.35,Debit Card,False
+ORD-100183,2024-09-22,Zoe Williams,Southwest,Online,Web,Dresses,Shift Dress,M,Olive,2,146.46,0,0.0,292.92,Apple Pay,False
+ORD-100150,2024-09-24,Emma Brown,West,In-Store,Airport Kiosk,Accessories,Tote Bag,One Size,Mustard,1,74.93,10,7.49,67.44,Cash,False
+ORD-100932,2024-09-25,Ruby Singh,Southeast,In-Store,Airport Kiosk,Dresses,Wrap Dress,L,Rust,1,124.67,0,0.0,124.67,PayPal,False
+ORD-100338,2024-09-26,Amelia Garcia,Northeast,In-Store,Airport Kiosk,Bottoms,Denim Shorts,S,Rust,1,105.23,0,0.0,105.23,Credit Card,False
+ORD-100253,2024-09-26,Ella Brown,Southwest,In-Store,Downtown Flagship,Tops,Button-Up Shirt,S,Olive,4,39.72,0,0.0,158.88,PayPal,False
+ORD-100082,2024-09-28,Isabella Miller,Northeast,In-Store,Riverside Plaza,Bottoms,Denim Shorts,M,Navy,2,111.64,0,0.0,223.28,Credit Card,False
+ORD-100943,2024-09-28,Riley Rossi,West,In-Store,Downtown Flagship,Dresses,Slip Dress,M,Lavender,1,102.14,0,0.0,102.14,Credit Card,False
+ORD-100952,2024-09-29,Nora Hernandez,Northeast,Online,Web,Dresses,Maxi Dress,S,Charcoal,3,79.47,0,0.0,238.41,Apple Pay,False
+ORD-100784,2024-09-29,Fatima Patel,Southeast,Online,Web,Outerwear,Cardigan,L,Black,1,169.49,20,33.9,135.59,Credit Card,False
+ORD-100785,2024-09-29,Nora Brown,Northeast,Online,Web,Bottoms,Wide-Leg Trousers,XS,Black,4,33.67,25,33.67,101.01,PayPal,False
+ORD-100449,2024-09-29,Evelyn Miller,Northeast,In-Store,Riverside Plaza,Activewear,Sports Bra,XL,Cream,1,49.05,0,0.0,49.05,Credit Card,False
+ORD-100988,2024-09-30,Sophia Lopez,West,In-Store,Westfield Mall,Outerwear,Blazer,S,Blush Pink,1,146.38,0,0.0,146.38,Debit Card,False
+ORD-100068,2024-09-30,Mei Hernandez,Midwest,Online,Web,Accessories,Statement Earrings,One Size,Sky Blue,1,35.88,0,0.0,35.88,Credit Card,False
+ORD-100212,2024-10-01,Riley Wilson,Southeast,Online,Web,Dresses,Midi Dress,M,Navy,1,170.8,0,0.0,170.8,Credit Card,False
+ORD-100527,2024-10-02,Isabella Chen,Southeast,In-Store,Westfield Mall,Tops,Knit Sweater,L,White,1,66.52,0,0.0,66.52,Debit Card,False
+ORD-100176,2024-10-04,Aria Miller,Southeast,In-Store,Riverside Plaza,Tops,Tunic,M,Sky Blue,1,41.31,0,0.0,41.31,Debit Card,False
+ORD-100994,2024-10-04,Evelyn Cohen,Northeast,In-Store,Downtown Flagship,Dresses,Midi Dress,S,Black,2,134.92,0,0.0,269.84,Debit Card,False
+ORD-100273,2024-10-04,Olivia Davis,Southwest,Online,Web,Footwear,Sneakers,5,Camel,2,43.4,5,4.34,82.46,Credit Card,False
+ORD-100863,2024-10-04,Maya Rodriguez,Southeast,Online,Web,Accessories,Leather Belt,One Size,Navy,1,26.48,0,0.0,26.48,Credit Card,False
+ORD-100056,2024-10-05,Chloe Anderson,West,Online,Web,Activewear,Yoga Pants,M,Cream,1,75.95,0,0.0,75.95,Gift Card,False
+ORD-100138,2024-10-05,Isabella Davis,Southwest,Online,Web,Tops,Button-Up Shirt,XL,Burgundy,1,83.7,0,0.0,83.7,Gift Card,False
+ORD-100911,2024-10-07,Lily Williams,West,Online,Web,Dresses,Midi Dress,XS,Navy,1,48.61,0,0.0,48.61,Debit Card,True
+ORD-100990,2024-10-07,Charlotte Martinez,Northeast,In-Store,Airport Kiosk,Activewear,Track Jacket,S,Lavender,1,43.72,0,0.0,43.72,Credit Card,False
+ORD-100361,2024-10-08,Nora Cohen,Northeast,Online,Web,Dresses,Wrap Dress,M,Burgundy,1,81.64,0,0.0,81.64,Debit Card,False
+ORD-100637,2024-10-08,Amelia Andersson,West,Online,Web,Footwear,Heeled Sandals,7,Navy,1,105.95,0,0.0,105.95,Debit Card,False
+ORD-100018,2024-10-09,Olivia Singh,Southwest,In-Store,Riverside Plaza,Outerwear,Blazer,S,Blush Pink,3,86.21,0,0.0,258.63,Cash,False
+ORD-100214,2024-10-10,Amelia Reyes,Southwest,Online,Web,Outerwear,Trench Coat,L,Olive,2,219.75,0,0.0,439.5,Debit Card,False
+ORD-100169,2024-10-11,Ella Jones,Southeast,In-Store,Riverside Plaza,Dresses,Slip Dress,S,Rust,1,136.1,0,0.0,136.1,Apple Pay,False
+ORD-100875,2024-10-12,Nora Rossi,Southeast,Online,Web,Accessories,Silk Scarf,One Size,Olive,1,44.66,0,0.0,44.66,PayPal,False
+ORD-100844,2024-10-12,Layla Wilson,West,Online,Web,Accessories,Tote Bag,One Size,Black,4,61.53,0,0.0,246.12,Credit Card,False
+ORD-100755,2024-10-12,Priya Andersson,Southwest,Online,Web,Dresses,Wrap Dress,XXL,Lavender,1,178.12,0,0.0,178.12,PayPal,False
+ORD-100478,2024-10-12,Harper Davis,Southeast,In-Store,Westfield Mall,Dresses,Bodycon Dress,L,Sky Blue,3,163.58,40,196.3,294.44,Debit Card,False
+ORD-100633,2024-10-12,Emily Wilson,Midwest,In-Store,Airport Kiosk,Dresses,Wrap Dress,M,Camel,3,173.53,25,130.15,390.44,Gift Card,False
+ORD-100345,2024-10-12,Fatima Lopez,West,Online,Web,Dresses,Shift Dress,M,Olive,1,92.97,40,37.19,55.78,Debit Card,False
+ORD-100400,2024-10-12,Aurora Diaz,Northeast,Online,Web,Dresses,Shift Dress,M,Olive,2,50.92,0,0.0,101.84,Debit Card,False
+ORD-100372,2024-10-13,Hazel Miller,West,Online,Web,Dresses,Slip Dress,S,Burgundy,1,74.83,10,7.48,67.35,Credit Card,False
+ORD-100874,2024-10-13,Naomi Thomas,Southeast,Online,Web,Tops,Blouse,XS,Burgundy,2,66.54,0,0.0,133.08,Cash,False
+ORD-100254,2024-10-13,Grace Smith,Northeast,Online,Web,Tops,Cami Top,XXL,Navy,1,83.84,0,0.0,83.84,Credit Card,False
+ORD-100426,2024-10-15,Evelyn Wright,Northeast,Online,Web,Accessories,Tote Bag,One Size,Blush Pink,1,71.97,0,0.0,71.97,Cash,False
+ORD-100105,2024-10-15,Aria Diaz,Midwest,Online,Web,Bottoms,Wide-Leg Trousers,XS,Burgundy,2,30.42,25,15.21,45.63,Debit Card,False
+ORD-100373,2024-10-15,Nora Wilson,Midwest,Online,Web,Activewear,Track Jacket,S,Olive,1,33.21,0,0.0,33.21,Credit Card,False
+ORD-100714,2024-10-15,Ava Williams,Southeast,In-Store,Riverside Plaza,Tops,Cami Top,XL,Rust,2,83.32,0,0.0,166.64,Cash,False
+ORD-100354,2024-10-15,Hazel Diaz,West,Online,Web,Activewear,Track Jacket,S,Lavender,1,26.26,0,0.0,26.26,Credit Card,False
+ORD-100391,2024-10-16,Aisha Reyes,Northeast,In-Store,Westfield Mall,Tops,Button-Up Shirt,S,Rust,1,84.98,20,17.0,67.98,Debit Card,False
+ORD-100769,2024-10-16,Harper Andersson,West,Online,Web,Footwear,Sneakers,5,Rust,1,97.84,10,9.78,88.06,Credit Card,False
+ORD-100803,2024-10-16,Priya Lopez,Southeast,Online,Web,Dresses,Maxi Dress,M,Navy,2,52.58,0,0.0,105.16,Credit Card,True
+ORD-100602,2024-10-16,Aurora Williams,West,Online,Web,Dresses,Midi Dress,M,Sky Blue,1,63.64,0,0.0,63.64,Debit Card,True
+ORD-100484,2024-10-16,Ruby Reyes,Southwest,Online,Web,Tops,Tank Top,M,Camel,1,69.57,5,3.48,66.09,Credit Card,False
+ORD-100900,2024-10-17,Aria Williams,West,Online,Web,Dresses,Slip Dress,L,Black,1,59.47,0,0.0,59.47,Credit Card,False
+ORD-100078,2024-10-18,Riley Chen,Northeast,Online,Web,Tops,Cami Top,M,Rust,2,23.26,0,0.0,46.52,Apple Pay,False
+ORD-100632,2024-10-18,Aurora Rossi,Southeast,Online,Web,Footwear,Ballet Flats,7,Burgundy,1,119.94,30,35.98,83.96,Credit Card,True
+ORD-100643,2024-10-18,Aria Hernandez,Southwest,Online,Web,Tops,Cami Top,L,Charcoal,1,57.62,0,0.0,57.62,Debit Card,False
+ORD-100634,2024-10-18,Fatima Rodriguez,Southeast,In-Store,Airport Kiosk,Outerwear,Puffer Jacket,M,Olive,1,195.38,0,0.0,195.38,Debit Card,False
+ORD-100436,2024-10-19,Ella Smith,Midwest,In-Store,Downtown Flagship,Tops,Tunic,S,Burgundy,1,82.68,15,12.4,70.28,Apple Pay,False
+ORD-100196,2024-10-19,Abigail Williams,Midwest,Online,Web,Outerwear,Denim Jacket,L,Black,2,73.72,0,0.0,147.44,Credit Card,False
+ORD-100683,2024-10-19,Layla Okafor,Southeast,Online,Web,Footwear,Ankle Boots,6,Blush Pink,1,112.13,0,0.0,112.13,Apple Pay,True
+ORD-100972,2024-10-19,Emma Williams,Northeast,In-Store,Westfield Mall,Bottoms,Culottes,L,Emerald,1,77.05,5,3.85,73.2,Credit Card,False
+ORD-100023,2024-10-20,Naomi Rodriguez,Southwest,Online,Web,Dresses,Slip Dress,XL,Cream,4,158.88,0,0.0,635.52,Credit Card,False
+ORD-100275,2024-10-20,Sophia Johnson,Southeast,Online,Web,Dresses,Maxi Dress,S,Cream,2,85.43,30,51.26,119.6,PayPal,False
+ORD-100890,2024-10-20,Emily Miller,Southeast,Online,Web,Activewear,Running Shorts,XXL,Burgundy,1,29.01,0,0.0,29.01,PayPal,False
+ORD-100765,2024-10-20,Emily Anderson,Midwest,In-Store,Westfield Mall,Footwear,Sneakers,7,White,3,159.49,0,0.0,478.47,Credit Card,False
+ORD-100112,2024-10-20,Olivia Okafor,Northeast,In-Store,Downtown Flagship,Accessories,Silk Scarf,One Size,Blush Pink,1,47.75,50,23.88,23.87,Credit Card,False
+ORD-100131,2024-10-20,Evelyn Wright,Southwest,Online,Web,Tops,Tank Top,S,White,1,32.27,0,0.0,32.27,Cash,False
+ORD-100005,2024-10-21,Ella Jones,Midwest,Online,Web,Outerwear,Denim Jacket,L,Charcoal,1,201.03,5,10.05,190.98,Debit Card,False
+ORD-100672,2024-10-21,Harper Davis,Northeast,In-Store,Airport Kiosk,Bottoms,Denim Shorts,L,Cream,3,99.63,0,0.0,298.89,Apple Pay,False
+ORD-100432,2024-10-22,Aisha Davis,West,Online,Web,Dresses,Shift Dress,L,Black,2,62.44,0,0.0,124.88,Credit Card,False
+ORD-100317,2024-10-22,Nora Brown,Midwest,Online,Web,Bottoms,Leggings,M,Black,1,82.75,10,8.28,74.47,Credit Card,False
+ORD-100015,2024-10-22,Aisha Williams,Southwest,Online,Web,Accessories,Tote Bag,One Size,Sky Blue,3,59.16,0,0.0,177.48,PayPal,False
+ORD-100806,2024-10-23,Aisha Williams,Southeast,In-Store,Westfield Mall,Accessories,Silk Scarf,One Size,Emerald,1,50.41,5,2.52,47.89,Credit Card,False
+ORD-100466,2024-10-23,Fatima Williams,Southeast,Online,Web,Tops,Button-Up Shirt,S,Charcoal,2,40.25,0,0.0,80.5,Credit Card,True
+ORD-100095,2024-10-24,Lily Müller,Northeast,Online,Web,Dresses,Shift Dress,M,Black,1,133.23,0,0.0,133.23,Credit Card,False
+ORD-100973,2024-10-24,Fatima Andersson,Northeast,In-Store,Westfield Mall,Outerwear,Trench Coat,S,Charcoal,2,60.84,0,0.0,121.68,PayPal,False
+ORD-100101,2024-10-25,Aria Diaz,West,Online,Web,Dresses,Wrap Dress,S,Rust,3,99.17,0,0.0,297.51,Debit Card,False
+ORD-100521,2024-10-25,Naomi Anderson,Southeast,Online,Web,Bottoms,Pleated Skirt,L,Rust,1,52.87,0,0.0,52.87,Credit Card,False
+ORD-100793,2024-10-25,Naomi Brown,Southwest,Online,Web,Dresses,Wrap Dress,XL,White,1,62.44,0,0.0,62.44,PayPal,False
+ORD-100816,2024-10-26,Emily Wilson,Midwest,In-Store,Westfield Mall,Outerwear,Trench Coat,M,White,4,144.8,0,0.0,579.2,Apple Pay,False
+ORD-100407,2024-10-26,Fatima Jones,West,Online,Web,Tops,Button-Up Shirt,XXL,Burgundy,1,43.68,0,0.0,43.68,Debit Card,False
+ORD-100641,2024-10-26,Naomi Rossi,Northeast,Online,Web,Tops,Cami Top,S,Mustard,1,80.55,0,0.0,80.55,Credit Card,False
+ORD-100880,2024-10-27,Isabella Lee,Northeast,Online,Web,Dresses,Bodycon Dress,XL,Sky Blue,1,103.4,0,0.0,103.4,Gift Card,False
+ORD-100975,2024-10-27,Isabella Lopez,West,In-Store,Downtown Flagship,Footwear,Heeled Sandals,5,Lavender,2,73.14,0,0.0,146.28,Credit Card,False
+ORD-100631,2024-10-27,Layla Garcia,Southwest,Online,Web,Accessories,Statement Earrings,One Size,Blush Pink,1,39.97,0,0.0,39.97,Credit Card,False
+ORD-100801,2024-10-27,Naomi Rodriguez,Northeast,Online,Web,Dresses,Bodycon Dress,XL,Burgundy,1,103.87,0,0.0,103.87,Credit Card,False
+ORD-100558,2024-10-27,Abigail Williams,Southwest,Online,Web,Dresses,Midi Dress,L,Camel,2,174.05,20,69.62,278.48,Credit Card,False
+ORD-100111,2024-10-29,Charlotte Okafor,Northeast,In-Store,Riverside Plaza,Dresses,Bodycon Dress,S,Olive,3,140.28,0,0.0,420.84,Credit Card,False
+ORD-100555,2024-10-30,Ella Brown,Southeast,In-Store,Westfield Mall,Footwear,Loafers,9,Rust,1,119.22,50,59.61,59.61,Credit Card,False
+ORD-100753,2024-10-30,Naomi Rodriguez,Northeast,In-Store,Riverside Plaza,Accessories,Silk Scarf,One Size,Camel,1,34.72,0,0.0,34.72,Debit Card,False
+ORD-100662,2024-10-31,Emily Miller,Northeast,In-Store,Airport Kiosk,Bottoms,Leggings,M,Olive,4,63.56,0,0.0,254.24,Debit Card,False
+ORD-100618,2024-10-31,Riley Chen,Southwest,Online,Web,Tops,Knit Sweater,S,Sky Blue,1,56.01,0,0.0,56.01,Debit Card,False
+ORD-100746,2024-10-31,Aisha Johnson,Northeast,Online,Web,Bottoms,Culottes,XS,Navy,1,117.83,20,23.57,94.26,Debit Card,False
+ORD-100311,2024-10-31,Naomi Nguyen,Midwest,In-Store,Westfield Mall,Dresses,Midi Dress,XS,Blush Pink,2,108.45,0,0.0,216.9,Credit Card,False
+ORD-100255,2024-11-01,Naomi Andersson,Northeast,In-Store,Airport Kiosk,Outerwear,Trench Coat,XXL,Burgundy,2,202.15,0,0.0,404.3,Debit Card,False
+ORD-101000,2024-11-01,Mei Williams,West,In-Store,Airport Kiosk,Activewear,Yoga Pants,M,Olive,2,87.2,0,0.0,174.4,Credit Card,False
+ORD-100660,2024-11-01,Abigail Andersson,Northeast,Online,Web,Dresses,Midi Dress,L,Olive,1,121.48,0,0.0,121.48,Credit Card,False
+ORD-100669,2024-11-02,Amelia Davis,West,Online,Web,Activewear,Yoga Pants,XS,Sky Blue,1,86.22,5,4.31,81.91,PayPal,False
+ORD-100393,2024-11-02,Charlotte Okafor,Southeast,Online,Web,Tops,Cami Top,S,Blush Pink,2,81.18,0,0.0,162.36,Credit Card,False
+ORD-100770,2024-11-02,Layla Okafor,Southeast,Online,Web,Dresses,Midi Dress,XS,White,1,124.62,0,0.0,124.62,Debit Card,False
+ORD-100221,2024-11-02,Lily Gonzalez,West,In-Store,Airport Kiosk,Outerwear,Cardigan,XS,Burgundy,2,175.06,0,0.0,350.12,Credit Card,False
+ORD-100199,2024-11-02,Mei Wright,Midwest,Online,Web,Bottoms,Pleated Skirt,S,Lavender,1,39.11,0,0.0,39.11,Credit Card,False
+ORD-100334,2024-11-02,Ava Patel,Southeast,In-Store,Riverside Plaza,Bottoms,Wide-Leg Trousers,M,Black,1,33.01,20,6.6,26.41,Credit Card,False
+ORD-100613,2024-11-03,Riley Rossi,Southeast,In-Store,Westfield Mall,Accessories,Statement Earrings,One Size,Burgundy,3,38.74,10,11.62,104.6,Apple Pay,False
+ORD-100543,2024-11-03,Emily Nguyen,Midwest,In-Store,Downtown Flagship,Bottoms,Pleated Skirt,XS,Burgundy,1,58.96,40,23.58,35.38,Apple Pay,True
+ORD-100195,2024-11-04,Layla Okafor,Northeast,Online,Web,Bottoms,Pleated Skirt,S,Lavender,1,73.84,40,29.54,44.3,PayPal,False
+ORD-100513,2024-11-04,Layla Okafor,Southwest,In-Store,Airport Kiosk,Accessories,Tote Bag,One Size,Camel,2,28.04,0,0.0,56.08,Apple Pay,False
+ORD-100166,2024-11-04,Emma Nguyen,Northeast,Online,Web,Dresses,Maxi Dress,XL,Sky Blue,1,106.09,0,0.0,106.09,Credit Card,False
+ORD-100982,2024-11-05,Aurora Hernandez,Northeast,Online,Web,Accessories,Silk Scarf,One Size,Camel,1,70.27,30,21.08,49.19,Credit Card,False
+ORD-100868,2024-11-06,Lily Rodriguez,Southeast,Online,Web,Footwear,Loafers,8,Cream,2,155.17,15,46.55,263.79,PayPal,False
+ORD-100490,2024-11-06,Layla Hernandez,Southeast,In-Store,Westfield Mall,Footwear,Ankle Boots,7,Olive,1,100.71,20,20.14,80.57,Credit Card,False
+ORD-100106,2024-11-06,Fatima Wilson,West,Online,Web,Tops,Blouse,S,Navy,1,56.73,15,8.51,48.22,Apple Pay,False
+ORD-100827,2024-11-07,Lily Kim,West,In-Store,Downtown Flagship,Dresses,Shift Dress,S,Burgundy,1,129.56,0,0.0,129.56,Apple Pay,False
+ORD-100038,2024-11-07,Hazel Brown,Northeast,In-Store,Downtown Flagship,Tops,Tank Top,S,Burgundy,1,46.57,15,6.99,39.58,Debit Card,False
+ORD-100486,2024-11-08,Emma Müller,Southwest,Online,Web,Bottoms,Culottes,L,Camel,1,88.51,0,0.0,88.51,Credit Card,False
+ORD-100397,2024-11-08,Amelia Singh,Northeast,In-Store,Airport Kiosk,Dresses,Slip Dress,M,Sky Blue,1,66.47,15,9.97,56.5,Debit Card,False
+ORD-100428,2024-11-09,Evelyn Wilson,Southeast,Online,Web,Tops,Tank Top,M,Black,1,80.46,15,12.07,68.39,Credit Card,False
+ORD-100892,2024-11-09,Ava Kim,Midwest,Online,Web,Bottoms,Skinny Jeans,S,Olive,1,34.55,20,6.91,27.64,Credit Card,False
+ORD-100069,2024-11-09,Mei Rodriguez,Southwest,In-Store,Airport Kiosk,Activewear,Track Jacket,S,Lavender,2,31.49,0,0.0,62.98,Apple Pay,False
+ORD-100595,2024-11-09,Riley Cohen,Midwest,Online,Web,Tops,Tank Top,M,Camel,2,81.53,0,0.0,163.06,Credit Card,False
+ORD-100544,2024-11-09,Evelyn Cohen,Southwest,Online,Web,Tops,Tunic,L,Rust,2,51.05,0,0.0,102.1,Debit Card,False
+ORD-100355,2024-11-09,Ruby Reyes,Northeast,Online,Web,Dresses,Maxi Dress,S,Rust,1,145.24,0,0.0,145.24,Debit Card,True
+ORD-100849,2024-11-10,Ruby Garcia,Midwest,In-Store,Westfield Mall,Bottoms,Wide-Leg Trousers,XL,Navy,2,109.05,20,43.62,174.48,Cash,False
+ORD-100534,2024-11-10,Evelyn Davis,West,In-Store,Downtown Flagship,Outerwear,Puffer Jacket,M,Mustard,2,226.41,20,90.56,362.26,Debit Card,False
+ORD-100813,2024-11-10,Naomi Wright,West,In-Store,Airport Kiosk,Footwear,Ballet Flats,10,Charcoal,1,47.98,15,7.2,40.78,Credit Card,False
+ORD-100076,2024-11-10,Riley Hernandez,West,In-Store,Riverside Plaza,Bottoms,Culottes,M,Blush Pink,1,78.29,0,0.0,78.29,Credit Card,False
+ORD-100058,2024-11-10,Ava Smith,Midwest,In-Store,Airport Kiosk,Dresses,Shift Dress,M,Sky Blue,1,85.78,30,25.73,60.05,Debit Card,True
+ORD-100425,2024-11-10,Sophia Lopez,West,Online,Web,Activewear,Yoga Pants,S,Camel,3,68.3,0,0.0,204.9,Apple Pay,False
+ORD-100839,2024-11-10,Amelia Davis,West,Online,Web,Bottoms,Culottes,L,Sky Blue,1,68.8,20,13.76,55.04,Debit Card,False
+ORD-100364,2024-11-11,Evelyn Williams,West,In-Store,Riverside Plaza,Bottoms,Leggings,L,Olive,3,38.1,5,5.71,108.59,Debit Card,True
+ORD-100836,2024-11-11,Ava Diaz,Southwest,Online,Web,Bottoms,Pleated Skirt,M,Charcoal,1,65.47,40,26.19,39.28,Apple Pay,True
+ORD-100682,2024-11-11,Naomi Wright,Midwest,Online,Web,Tops,Tunic,S,White,2,30.55,5,3.06,58.04,PayPal,False
+ORD-100922,2024-11-11,Olivia Garcia,Southeast,Online,Web,Bottoms,Pleated Skirt,L,Cream,3,99.6,0,0.0,298.8,Debit Card,False
+ORD-100737,2024-11-11,Riley Hernandez,Northeast,In-Store,Riverside Plaza,Accessories,Silk Scarf,One Size,Rust,2,33.23,0,0.0,66.46,PayPal,False
+ORD-100001,2024-11-11,Amelia Davis,West,Online,Web,Outerwear,Denim Jacket,XXL,Lavender,2,78.84,15,23.65,134.03,PayPal,False
+ORD-100067,2024-11-12,Aurora Martinez,Northeast,In-Store,Airport Kiosk,Outerwear,Denim Jacket,XXL,Rust,1,89.87,0,0.0,89.87,Debit Card,False
+ORD-100452,2024-11-12,Isabella Chen,Northeast,Online,Web,Outerwear,Trench Coat,S,Mustard,2,80.83,5,8.08,153.58,Credit Card,False
+ORD-100182,2024-11-12,Harper Williams,Midwest,In-Store,Westfield Mall,Footwear,Sneakers,5,Navy,2,102.64,20,41.06,164.22,Credit Card,False
+ORD-100611,2024-11-13,Riley Rossi,Northeast,In-Store,Westfield Mall,Tops,Tank Top,S,Cream,2,41.74,0,0.0,83.48,Debit Card,False
+ORD-100369,2024-11-13,Maya Johnson,West,In-Store,Airport Kiosk,Dresses,Slip Dress,XXL,Mustard,1,73.53,15,11.03,62.5,Cash,False
+ORD-100864,2024-11-13,Riley Wilson,Southeast,Online,Web,Bottoms,Leggings,XXL,Lavender,1,91.52,5,4.58,86.94,Credit Card,False
+ORD-100284,2024-11-14,Ruby Reyes,Northeast,In-Store,Riverside Plaza,Dresses,Shift Dress,M,Lavender,1,96.43,30,28.93,67.5,Credit Card,False
+ORD-100175,2024-11-14,Mei Smith,Southeast,In-Store,Riverside Plaza,Accessories,Sun Hat,One Size,Camel,1,18.17,15,2.73,15.44,Debit Card,False
+ORD-100006,2024-11-14,Aria Nguyen,Northeast,In-Store,Westfield Mall,Bottoms,Leggings,XS,Lavender,1,57.36,30,17.21,40.15,Credit Card,False
+ORD-100020,2024-11-14,Riley Reyes,Southeast,Online,Web,Bottoms,Wide-Leg Trousers,M,Blush Pink,1,67.13,0,0.0,67.13,Credit Card,False
+ORD-100885,2024-11-15,Abigail Gonzalez,West,In-Store,Airport Kiosk,Tops,Blouse,L,Olive,1,80.54,0,0.0,80.54,Credit Card,False
+ORD-100346,2024-11-15,Harper Diaz,Southeast,Online,Web,Tops,Tank Top,M,Navy,1,48.91,25,12.23,36.68,Credit Card,False
+ORD-100935,2024-11-15,Emily Kim,Midwest,Online,Web,Activewear,Track Jacket,L,Sky Blue,1,68.82,30,20.65,48.17,Apple Pay,False
+ORD-100191,2024-11-15,Nora Rossi,West,In-Store,Riverside Plaza,Tops,Tank Top,M,Camel,1,53.89,15,8.08,45.81,Debit Card,False
+ORD-100850,2024-11-16,Mia Andersson,Midwest,In-Store,Riverside Plaza,Outerwear,Blazer,M,Sky Blue,1,226.08,0,0.0,226.08,PayPal,False
+ORD-100507,2024-11-16,Isabella Chen,Northeast,In-Store,Airport Kiosk,Outerwear,Blazer,XS,Cream,2,102.37,0,0.0,204.74,Debit Card,False
+ORD-100164,2024-11-16,Aisha Williams,Northeast,In-Store,Airport Kiosk,Tops,Cami Top,M,Blush Pink,2,49.68,0,0.0,99.36,Debit Card,False
+ORD-100903,2024-11-16,Naomi Anderson,Midwest,Online,Web,Accessories,Silk Scarf,One Size,White,2,54.83,50,54.83,54.83,Credit Card,False
+ORD-100297,2024-11-16,Aria Johnson,Midwest,In-Store,Airport Kiosk,Footwear,Ballet Flats,5,Rust,1,113.82,0,0.0,113.82,PayPal,False
+ORD-100510,2024-11-16,Aurora Williams,Southwest,Online,Web,Bottoms,Leggings,L,Emerald,2,54.62,0,0.0,109.24,Credit Card,False
+ORD-100942,2024-11-17,Harper Brown,Northeast,Online,Web,Activewear,Running Shorts,M,Camel,1,25.75,0,0.0,25.75,Credit Card,True
+ORD-100774,2024-11-17,Amelia Miller,Northeast,In-Store,Airport Kiosk,Dresses,Maxi Dress,M,Navy,1,114.79,40,45.92,68.87,Credit Card,False
+ORD-100315,2024-11-17,Aria Anderson,Midwest,Online,Web,Tops,Tank Top,L,Navy,3,63.45,0,0.0,190.35,Apple Pay,False
+ORD-100997,2024-11-17,Maya Johnson,Southeast,In-Store,Riverside Plaza,Tops,Tank Top,S,Emerald,1,59.38,0,0.0,59.38,Credit Card,False
+ORD-100265,2024-11-17,Riley Brown,Northeast,Online,Web,Dresses,Midi Dress,S,Cream,1,172.24,0,0.0,172.24,Credit Card,True
+ORD-100098,2024-11-17,Emma Rossi,Northeast,Online,Web,Accessories,Statement Earrings,One Size,White,1,52.72,15,7.91,44.81,Credit Card,False
+ORD-100230,2024-11-17,Sophia Johnson,Southwest,In-Store,Airport Kiosk,Dresses,Slip Dress,L,Blush Pink,1,53.67,25,13.42,40.25,Apple Pay,False
+ORD-100294,2024-11-18,Chloe Patel,Northeast,In-Store,Westfield Mall,Tops,Tunic,S,Charcoal,1,75.85,10,7.58,68.27,Credit Card,False
+ORD-100728,2024-11-18,Ava Singh,West,Online,Web,Tops,Tank Top,M,Charcoal,1,39.08,10,3.91,35.17,Debit Card,True
+ORD-100348,2024-11-18,Aisha Davis,West,Online,Web,Bottoms,Leggings,XS,Black,1,85.67,25,21.42,64.25,Credit Card,False
+ORD-100610,2024-11-19,Isabella Patel,Midwest,Online,Web,Dresses,Slip Dress,XS,Blush Pink,1,161.57,5,8.08,153.49,Credit Card,False
+ORD-100145,2024-11-19,Amelia Cohen,Midwest,In-Store,Downtown Flagship,Accessories,Leather Belt,One Size,Charcoal,1,30.59,0,0.0,30.59,Debit Card,False
+ORD-100505,2024-11-19,Charlotte Wright,Northeast,In-Store,Westfield Mall,Tops,Tunic,XXL,Blush Pink,1,28.34,0,0.0,28.34,Debit Card,False
+ORD-100280,2024-11-19,Sophia Martinez,Midwest,In-Store,Riverside Plaza,Accessories,Silk Scarf,One Size,Navy,1,70.72,0,0.0,70.72,PayPal,False
+ORD-100282,2024-11-20,Maya Wright,Midwest,Online,Web,Activewear,Sports Bra,XL,Navy,1,50.48,20,10.1,40.38,Debit Card,False
+ORD-100881,2024-11-20,Emma Williams,Southwest,Online,Web,Bottoms,Leggings,M,White,1,44.92,0,0.0,44.92,Credit Card,False
+ORD-100593,2024-11-20,Emily Kim,Southwest,Online,Web,Bottoms,Leggings,XS,Emerald,2,79.07,0,0.0,158.14,Credit Card,False
+ORD-100019,2024-11-20,Aurora Hernandez,West,Online,Web,Bottoms,Pleated Skirt,L,Emerald,1,113.97,5,5.7,108.27,Credit Card,False
+ORD-100654,2024-11-20,Riley Rodriguez,West,Online,Web,Outerwear,Puffer Jacket,XL,White,1,252.91,15,37.94,214.97,PayPal,False
+ORD-100738,2024-11-21,Mei Lopez,West,In-Store,Westfield Mall,Dresses,Slip Dress,M,Rust,2,51.94,20,20.78,83.1,Debit Card,False
+ORD-100831,2024-11-21,Priya Patel,Northeast,Online,Web,Footwear,Loafers,6,Cream,2,46.21,20,18.48,73.94,Cash,False
+ORD-100810,2024-11-21,Charlotte Okafor,Southeast,Online,Web,Outerwear,Blazer,XS,Olive,1,74.8,0,0.0,74.8,Gift Card,False
+ORD-100771,2024-11-21,Zoe Miller,Northeast,Online,Web,Outerwear,Puffer Jacket,L,Mustard,1,238.85,0,0.0,238.85,Debit Card,False
+ORD-100788,2024-11-22,Evelyn Gonzalez,Midwest,Online,Web,Tops,Knit Sweater,M,Blush Pink,1,49.88,5,2.49,47.39,Credit Card,False
+ORD-100539,2024-11-22,Zoe Smith,West,In-Store,Riverside Plaza,Tops,Cami Top,M,Emerald,1,83.29,0,0.0,83.29,PayPal,False
+ORD-100592,2024-11-22,Charlotte Reyes,West,In-Store,Airport Kiosk,Outerwear,Trench Coat,M,White,2,64.81,15,19.44,110.18,Apple Pay,False
+ORD-100434,2024-11-23,Ella Brown,Southwest,Online,Web,Activewear,Running Shorts,M,Black,1,34.19,40,13.68,20.51,Credit Card,False
+ORD-100623,2024-11-23,Ella Rodriguez,West,Online,Web,Tops,Blouse,M,Burgundy,1,25.43,0,0.0,25.43,Credit Card,False
+ORD-100946,2024-11-23,Aisha Brown,Southwest,Online,Web,Dresses,Shift Dress,XL,Emerald,2,130.79,0,0.0,261.58,Debit Card,False
+ORD-100745,2024-11-23,Ruby Reyes,West,In-Store,Westfield Mall,Bottoms,Pleated Skirt,L,Rust,2,41.4,10,8.28,74.52,Debit Card,False
+ORD-100051,2024-11-23,Emily Diaz,Northeast,In-Store,Downtown Flagship,Dresses,Shift Dress,M,Sky Blue,2,76.66,0,0.0,153.32,Credit Card,False
+ORD-100467,2024-11-23,Emma Nguyen,West,Online,Web,Footwear,Heeled Sandals,10,Emerald,1,110.62,25,27.66,82.96,Debit Card,False
+ORD-100968,2024-11-24,Grace Kim,Midwest,Online,Web,Dresses,Slip Dress,S,Cream,1,64.73,0,0.0,64.73,Apple Pay,False
+ORD-100811,2024-11-24,Hazel Diaz,Southeast,In-Store,Westfield Mall,Activewear,Yoga Pants,M,White,1,36.51,10,3.65,32.86,Gift Card,False
+ORD-100052,2024-11-24,Naomi Andersson,Southeast,Online,Web,Outerwear,Trench Coat,XL,Olive,1,107.53,20,21.51,86.02,Apple Pay,False
+ORD-100217,2024-11-24,Harper Jones,Northeast,Online,Web,Tops,Blouse,XL,Rust,1,53.22,0,0.0,53.22,Gift Card,False
+ORD-100512,2024-11-24,Zoe Williams,Midwest,In-Store,Westfield Mall,Bottoms,Denim Shorts,XS,Blush Pink,2,40.35,10,8.07,72.63,Apple Pay,False
+ORD-100584,2024-11-24,Abigail Müller,Northeast,Online,Web,Bottoms,Denim Shorts,XXL,Rust,1,31.23,25,7.81,23.42,Debit Card,False
+ORD-100029,2024-11-24,Fatima Nguyen,Southeast,In-Store,Riverside Plaza,Tops,Blouse,S,Cream,1,43.67,0,0.0,43.67,PayPal,False
+ORD-100741,2024-11-24,Aurora Hernandez,Southwest,Online,Web,Bottoms,Pleated Skirt,L,Olive,1,76.15,0,0.0,76.15,Apple Pay,False
+ORD-100130,2024-11-24,Harper Wright,Northeast,In-Store,Westfield Mall,Dresses,Slip Dress,XXL,White,1,122.11,0,0.0,122.11,Credit Card,False
+ORD-100865,2024-11-24,Zoe Thomas,West,Online,Web,Activewear,Running Shorts,L,Blush Pink,1,85.4,0,0.0,85.4,Debit Card,False
+ORD-100767,2024-11-25,Abigail Müller,Southeast,In-Store,Westfield Mall,Tops,Cami Top,M,Sky Blue,1,50.22,5,2.51,47.71,Credit Card,False
+ORD-100772,2024-11-25,Riley Hernandez,Northeast,Online,Web,Dresses,Bodycon Dress,S,Rust,1,144.45,20,28.89,115.56,Credit Card,False
+ORD-100433,2024-11-25,Charlotte Martinez,Southwest,Online,Web,Dresses,Midi Dress,L,Burgundy,1,122.55,0,0.0,122.55,Credit Card,False
+ORD-100565,2024-11-25,Amelia Andersson,Southwest,Online,Web,Footwear,Ankle Boots,7,Sky Blue,1,90.09,15,13.51,76.58,PayPal,False
+ORD-100918,2024-11-26,Chloe Gonzalez,Southwest,In-Store,Airport Kiosk,Bottoms,Denim Shorts,L,Mustard,1,74.54,0,0.0,74.54,Credit Card,False
+ORD-100522,2024-11-26,Amelia Anderson,West,In-Store,Airport Kiosk,Dresses,Maxi Dress,XS,White,2,59.66,0,0.0,119.32,Credit Card,False
+ORD-100149,2024-11-26,Aria Wilson,Southwest,In-Store,Airport Kiosk,Dresses,Midi Dress,S,White,2,172.05,0,0.0,344.1,Credit Card,False
+ORD-100234,2024-11-26,Chloe Chen,Southwest,Online,Web,Dresses,Bodycon Dress,M,Charcoal,1,129.11,50,64.56,64.55,Cash,False
+ORD-100928,2024-11-27,Nora Jones,Southeast,In-Store,Riverside Plaza,Tops,Blouse,M,Olive,4,66.73,0,0.0,266.92,Credit Card,False
+ORD-100693,2024-11-27,Aurora Martinez,West,Online,Web,Tops,Button-Up Shirt,XL,Camel,2,65.11,0,0.0,130.22,Gift Card,False
+ORD-100279,2024-11-27,Sophia Wright,Midwest,In-Store,Westfield Mall,Bottoms,Culottes,S,Camel,4,57.11,20,45.69,182.75,Debit Card,False
+ORD-100394,2024-11-28,Chloe Kim,West,Online,Web,Bottoms,Pleated Skirt,S,Emerald,1,60.72,25,15.18,45.54,Credit Card,False
+ORD-100168,2024-11-28,Maya Rodriguez,Southeast,Online,Web,Tops,Tank Top,M,Olive,1,75.61,10,7.56,68.05,Credit Card,True
+ORD-100431,2024-11-28,Ava Hernandez,Southwest,In-Store,Airport Kiosk,Activewear,Running Shorts,M,Charcoal,1,85.31,0,0.0,85.31,Credit Card,False
+ORD-100292,2024-11-28,Charlotte Singh,Midwest,Online,Web,Outerwear,Cardigan,XL,Emerald,2,172.13,5,17.21,327.05,Credit Card,False
+ORD-100028,2024-11-28,Mia Anderson,Southwest,In-Store,Airport Kiosk,Bottoms,Wide-Leg Trousers,XL,Burgundy,1,83.96,20,16.79,67.17,PayPal,False
+ORD-100081,2024-11-28,Nora Jones,Southwest,In-Store,Downtown Flagship,Activewear,Yoga Pants,M,Burgundy,2,89.47,0,0.0,178.94,Credit Card,False
+ORD-100915,2024-11-29,Aurora Diaz,Southeast,Online,Web,Accessories,Sun Hat,One Size,Emerald,1,15.12,20,3.02,12.1,Credit Card,False
+ORD-100156,2024-11-29,Hazel Nguyen,Northeast,In-Store,Downtown Flagship,Bottoms,Skinny Jeans,M,Sky Blue,1,57.02,10,5.7,51.32,Debit Card,False
+ORD-100860,2024-11-29,Aisha Lopez,Southwest,In-Store,Riverside Plaza,Tops,Tunic,L,Camel,3,59.43,0,0.0,178.29,Debit Card,False
+ORD-100366,2024-11-29,Grace Patel,Northeast,In-Store,Westfield Mall,Footwear,Loafers,5,Camel,2,69.12,0,0.0,138.24,Debit Card,False
+ORD-100707,2024-11-29,Naomi Rodriguez,Northeast,Online,Web,Tops,Tunic,S,Navy,1,59.68,0,0.0,59.68,Credit Card,False
+ORD-100044,2024-11-30,Ava Smith,Southeast,Online,Web,Tops,Button-Up Shirt,M,White,2,74.83,0,0.0,149.66,Debit Card,True
+ORD-100852,2024-11-30,Layla Lee,Northeast,Online,Web,Activewear,Yoga Pants,L,Mustard,2,26.8,30,16.08,37.52,Credit Card,False
+ORD-100970,2024-11-30,Charlotte Rodriguez,Midwest,Online,Web,Outerwear,Denim Jacket,S,Lavender,1,73.27,0,0.0,73.27,Apple Pay,False
+ORD-100104,2024-11-30,Nora Hernandez,Northeast,Online,Web,Bottoms,Skinny Jeans,S,Emerald,2,98.0,0,0.0,196.0,Apple Pay,False
+ORD-100884,2024-11-30,Emma Brown,West,Online,Web,Outerwear,Denim Jacket,S,Rust,1,87.87,5,4.39,83.48,Credit Card,False
+ORD-100118,2024-11-30,Emily Wilson,Midwest,Online,Web,Dresses,Maxi Dress,M,Camel,1,59.49,50,29.75,29.74,Debit Card,False
+ORD-100577,2024-11-30,Olivia Johnson,West,In-Store,Downtown Flagship,Dresses,Maxi Dress,XXL,Sky Blue,1,162.36,5,8.12,154.24,PayPal,False
+ORD-100710,2024-11-30,Charlotte Okafor,West,In-Store,Riverside Plaza,Accessories,Tote Bag,One Size,Burgundy,2,36.58,5,3.66,69.5,PayPal,True
+ORD-100518,2024-11-30,Aurora Rossi,West,In-Store,Downtown Flagship,Tops,Knit Sweater,XS,Rust,1,74.59,0,0.0,74.59,Credit Card,False
+ORD-100237,2024-12-01,Charlotte Rodriguez,West,In-Store,Riverside Plaza,Bottoms,Denim Shorts,XS,Black,1,58.94,0,0.0,58.94,Credit Card,False
+ORD-100621,2024-12-01,Isabella Patel,Southeast,In-Store,Riverside Plaza,Bottoms,Skinny Jeans,M,White,1,105.58,0,0.0,105.58,Apple Pay,False
+ORD-100724,2024-12-01,Emily Diaz,West,Online,Web,Tops,Knit Sweater,M,Olive,1,27.33,0,0.0,27.33,Debit Card,False
+ORD-100085,2024-12-01,Hazel Brown,Southeast,Online,Web,Outerwear,Trench Coat,M,Mustard,3,64.65,40,77.58,116.37,Debit Card,False
+ORD-100933,2024-12-01,Grace Singh,Southwest,Online,Web,Dresses,Bodycon Dress,M,White,2,116.56,20,46.62,186.5,Credit Card,False
+ORD-100119,2024-12-01,Emma Nguyen,West,Online,Web,Footwear,Sneakers,8,Rust,3,96.28,30,86.65,202.19,Debit Card,False
+ORD-100566,2024-12-01,Olivia Johnson,Southeast,In-Store,Riverside Plaza,Dresses,Midi Dress,XXL,Olive,3,60.59,15,27.27,154.5,Credit Card,False
+ORD-100965,2024-12-02,Riley Rossi,Southeast,In-Store,Riverside Plaza,Dresses,Shift Dress,S,Cream,2,129.85,15,38.95,220.75,Debit Card,False
+ORD-100814,2024-12-02,Lily Müller,Southwest,Online,Web,Bottoms,Leggings,S,White,1,61.87,5,3.09,58.78,Apple Pay,False
+ORD-100302,2024-12-02,Amelia Davis,Southeast,Online,Web,Tops,Tunic,XS,Lavender,1,33.02,0,0.0,33.02,Credit Card,False
+ORD-100299,2024-12-02,Nora Johnson,West,Online,Web,Footwear,Heeled Sandals,10,Burgundy,2,130.52,0,0.0,261.04,Debit Card,False
+ORD-100314,2024-12-02,Emma Garcia,Northeast,In-Store,Westfield Mall,Bottoms,Pleated Skirt,XL,Sky Blue,2,77.09,5,7.71,146.47,Gift Card,False
+ORD-100891,2024-12-02,Nora Rodriguez,Northeast,Online,Web,Dresses,Maxi Dress,XS,Cream,1,152.01,0,0.0,152.01,Debit Card,False
+ORD-100159,2024-12-02,Layla Anderson,Southeast,Online,Web,Footwear,Heeled Sandals,10,Olive,1,106.04,0,0.0,106.04,Debit Card,False
+ORD-100336,2024-12-03,Olivia Singh,Midwest,Online,Web,Bottoms,Leggings,XXL,Charcoal,2,71.36,25,35.68,107.04,Cash,False
+ORD-100549,2024-12-03,Nora Müller,Midwest,Online,Web,Tops,Tunic,M,Charcoal,1,79.09,5,3.95,75.14,Credit Card,False
+ORD-100127,2024-12-03,Priya Müller,Midwest,Online,Web,Accessories,Sun Hat,One Size,Rust,3,74.67,15,33.6,190.41,Apple Pay,False
+ORD-100795,2024-12-03,Maya Wright,West,In-Store,Westfield Mall,Footwear,Heeled Sandals,8,Rust,1,124.65,0,0.0,124.65,Credit Card,False
+ORD-100225,2024-12-03,Ella Williams,Midwest,Online,Web,Tops,Knit Sweater,XS,Mustard,2,74.33,0,0.0,148.66,Credit Card,False
+ORD-100930,2024-12-03,Charlotte Wright,West,In-Store,Westfield Mall,Footwear,Ankle Boots,10,Camel,3,74.85,10,22.45,202.1,Credit Card,False
+ORD-100917,2024-12-03,Lily Martinez,Southeast,Online,Web,Bottoms,Leggings,XXL,Camel,1,104.93,0,0.0,104.93,Credit Card,False
+ORD-100502,2024-12-03,Hazel Gonzalez,Midwest,In-Store,Riverside Plaza,Activewear,Sports Bra,L,Charcoal,1,84.75,10,8.47,76.28,Debit Card,False
+ORD-100332,2024-12-04,Layla Okafor,Southeast,Online,Web,Accessories,Silk Scarf,One Size,Olive,1,32.03,0,0.0,32.03,Cash,False
+ORD-100184,2024-12-05,Aurora Chen,Southwest,Online,Web,Outerwear,Blazer,S,Camel,1,144.04,5,7.2,136.84,Credit Card,False
+ORD-100716,2024-12-05,Ruby Reyes,West,Online,Web,Tops,Tunic,S,Lavender,1,24.26,5,1.21,23.05,Gift Card,False
+ORD-100316,2024-12-06,Nora Cohen,Southeast,Online,Web,Tops,Button-Up Shirt,M,Sky Blue,1,39.82,10,3.98,35.84,Apple Pay,False
+ORD-100264,2024-12-06,Riley Wilson,Midwest,Online,Web,Tops,Blouse,M,Charcoal,1,25.86,0,0.0,25.86,Cash,False
+ORD-100733,2024-12-06,Ava Singh,Southwest,Online,Web,Dresses,Wrap Dress,M,Rust,2,141.45,0,0.0,282.9,Apple Pay,False
+ORD-100993,2024-12-06,Layla Wilson,Midwest,Online,Web,Outerwear,Blazer,S,Black,1,60.89,0,0.0,60.89,Credit Card,False
+ORD-100604,2024-12-07,Olivia Garcia,Northeast,In-Store,Riverside Plaza,Outerwear,Puffer Jacket,S,Lavender,1,198.85,25,49.71,149.14,Debit Card,False
+ORD-100526,2024-12-07,Mia Nguyen,Midwest,Online,Web,Tops,Blouse,XXL,Lavender,2,62.94,0,0.0,125.88,Cash,False
+ORD-100636,2024-12-07,Fatima Williams,West,In-Store,Westfield Mall,Bottoms,Denim Shorts,L,Rust,1,37.52,0,0.0,37.52,Credit Card,False
+ORD-100847,2024-12-07,Aria Miller,West,In-Store,Downtown Flagship,Footwear,Loafers,5,Camel,2,108.91,15,32.67,185.15,Apple Pay,False
+ORD-100039,2024-12-07,Chloe Jones,West,Online,Web,Tops,Blouse,M,Rust,1,71.18,15,10.68,60.5,Apple Pay,False
+ORD-100670,2024-12-07,Aurora Rossi,Southeast,Online,Web,Outerwear,Denim Jacket,XL,Navy,2,191.68,15,57.5,325.86,Debit Card,False
+ORD-100904,2024-12-07,Isabella Patel,West,Online,Web,Bottoms,Leggings,L,Sky Blue,1,67.46,10,6.75,60.71,Debit Card,False
+ORD-100600,2024-12-07,Ella Gonzalez,Northeast,Online,Web,Footwear,Loafers,5,Lavender,1,158.14,0,0.0,158.14,Credit Card,False
+ORD-100430,2024-12-08,Sophia Williams,West,In-Store,Downtown Flagship,Dresses,Shift Dress,S,Olive,1,174.59,25,43.65,130.94,PayPal,True
+ORD-100259,2024-12-08,Mei Reyes,Midwest,Online,Web,Dresses,Bodycon Dress,L,Mustard,1,154.06,15,23.11,130.95,Credit Card,False
+ORD-100257,2024-12-08,Aisha Brown,Southwest,Online,Web,Bottoms,Pleated Skirt,S,Blush Pink,3,38.47,0,0.0,115.41,Apple Pay,False
+ORD-100262,2024-12-09,Aurora Hernandez,Southwest,Online,Web,Tops,Cami Top,S,Burgundy,2,34.83,40,27.86,41.8,PayPal,False
+ORD-100651,2024-12-09,Nora Rossi,West,Online,Web,Outerwear,Cardigan,S,Mustard,3,106.17,0,0.0,318.51,Debit Card,False
+ORD-100815,2024-12-09,Aria Wilson,Southwest,Online,Web,Footwear,Sneakers,6,Burgundy,3,63.94,5,9.59,182.23,Apple Pay,False
+ORD-100740,2024-12-09,Riley Chen,Midwest,In-Store,Downtown Flagship,Bottoms,Culottes,L,Sky Blue,2,61.23,0,0.0,122.46,Credit Card,False
+ORD-100625,2024-12-09,Aisha Brown,Southwest,In-Store,Airport Kiosk,Outerwear,Cardigan,XS,Navy,3,176.82,20,106.09,424.37,Cash,False
+ORD-100743,2024-12-09,Layla Wilson,Midwest,In-Store,Downtown Flagship,Bottoms,Culottes,L,Navy,1,109.8,0,0.0,109.8,Credit Card,False
+ORD-100147,2024-12-10,Ava Nguyen,Southwest,Online,Web,Activewear,Track Jacket,M,White,1,55.72,15,8.36,47.36,Credit Card,False
+ORD-100193,2024-12-10,Nora Hernandez,Midwest,Online,Web,Activewear,Running Shorts,XS,Mustard,1,48.35,10,4.83,43.52,Debit Card,False
+ORD-100390,2024-12-10,Grace Diaz,Southeast,In-Store,Riverside Plaza,Bottoms,Denim Shorts,L,Burgundy,1,49.97,20,9.99,39.98,Apple Pay,False
+ORD-100977,2024-12-10,Naomi Jones,West,Online,Web,Tops,Knit Sweater,M,Olive,1,63.45,0,0.0,63.45,Debit Card,False
+ORD-100858,2024-12-11,Olivia Rossi,Southwest,Online,Web,Tops,Button-Up Shirt,XS,Navy,1,69.43,5,3.47,65.96,Credit Card,False
+ORD-100638,2024-12-11,Amelia Singh,West,In-Store,Airport Kiosk,Tops,Knit Sweater,XL,Rust,2,66.13,0,0.0,132.26,Credit Card,False
+ORD-100782,2024-12-11,Charlotte Singh,Midwest,Online,Web,Tops,Cami Top,XL,Burgundy,2,34.65,40,27.72,41.58,Credit Card,False
+ORD-100790,2024-12-12,Ella Gonzalez,Southeast,Online,Web,Bottoms,Pleated Skirt,XXL,White,2,84.68,10,16.94,152.42,Credit Card,False
+ORD-100908,2024-12-12,Fatima Jones,Northeast,In-Store,Downtown Flagship,Footwear,Sneakers,6,Camel,2,84.07,5,8.41,159.73,Debit Card,False
+ORD-100992,2024-12-12,Layla Hernandez,West,In-Store,Westfield Mall,Accessories,Silk Scarf,One Size,Emerald,1,25.57,30,7.67,17.9,Debit Card,False
+ORD-100398,2024-12-12,Emily Chen,Southeast,Online,Web,Tops,Blouse,S,Navy,2,50.23,0,0.0,100.46,Credit Card,False
+ORD-100429,2024-12-12,Evelyn Cohen,West,Online,Web,Dresses,Shift Dress,S,Charcoal,1,96.87,10,9.69,87.18,Credit Card,False
+ORD-100561,2024-12-12,Ruby Patel,Midwest,In-Store,Westfield Mall,Tops,Button-Up Shirt,XXL,Mustard,3,20.44,0,0.0,61.32,Apple Pay,False
+ORD-100730,2024-12-13,Priya Lopez,West,In-Store,Riverside Plaza,Footwear,Heeled Sandals,9,Navy,1,133.01,0,0.0,133.01,Credit Card,False
+ORD-100025,2024-12-13,Grace Garcia,West,Online,Web,Accessories,Sun Hat,One Size,Charcoal,1,42.3,0,0.0,42.3,Debit Card,False
+ORD-100760,2024-12-14,Ava Patel,Midwest,In-Store,Westfield Mall,Bottoms,Denim Shorts,L,Lavender,1,47.57,0,0.0,47.57,Cash,False
+ORD-100715,2024-12-14,Zoe Gonzalez,West,Online,Web,Bottoms,Culottes,M,Cream,2,95.05,5,9.51,180.59,Credit Card,False
+ORD-100894,2024-12-14,Isabella Chen,Southeast,Online,Web,Dresses,Maxi Dress,M,Black,1,126.58,50,63.29,63.29,Credit Card,False
+ORD-100350,2024-12-14,Chloe Anderson,Northeast,Online,Web,Outerwear,Trench Coat,L,Olive,3,249.93,0,0.0,749.79,PayPal,False
+ORD-100821,2024-12-15,Aurora Hernandez,Northeast,In-Store,Airport Kiosk,Outerwear,Denim Jacket,L,Black,1,201.89,0,0.0,201.89,Gift Card,False
+ORD-100913,2024-12-15,Amelia Andersson,West,In-Store,Riverside Plaza,Tops,Button-Up Shirt,M,Navy,1,34.96,0,0.0,34.96,Gift Card,True
+ORD-100022,2024-12-15,Naomi Anderson,Southeast,In-Store,Riverside Plaza,Bottoms,Leggings,XL,Cream,1,108.75,10,10.88,97.87,Credit Card,False
+ORD-100305,2024-12-15,Abigail Gonzalez,Northeast,Online,Web,Dresses,Wrap Dress,XL,Lavender,1,157.88,0,0.0,157.88,Credit Card,False
+ORD-100380,2024-12-15,Emma Brown,Midwest,In-Store,Riverside Plaza,Bottoms,Pleated Skirt,S,Cream,2,48.85,5,4.88,92.82,Apple Pay,False
+ORD-100456,2024-12-15,Naomi Hernandez,Southwest,In-Store,Westfield Mall,Activewear,Yoga Pants,M,Cream,1,85.57,0,0.0,85.57,Gift Card,False
+ORD-100515,2024-12-15,Amelia Rodriguez,Northeast,In-Store,Downtown Flagship,Activewear,Track Jacket,S,Sky Blue,2,34.65,25,17.32,51.98,Credit Card,False
+ORD-100337,2024-12-16,Isabella Davis,Midwest,Online,Web,Dresses,Maxi Dress,M,Burgundy,3,139.42,5,20.91,397.35,Credit Card,False
+ORD-100614,2024-12-16,Nora Rodriguez,West,Online,Web,Dresses,Maxi Dress,M,White,4,143.22,5,28.64,544.24,PayPal,False
+ORD-100866,2024-12-16,Olivia Andersson,Midwest,Online,Web,Activewear,Running Shorts,M,Rust,2,25.07,10,5.01,45.13,Apple Pay,False
+ORD-100276,2024-12-16,Aurora Williams,Northeast,Online,Web,Footwear,Ballet Flats,5,Olive,1,138.59,0,0.0,138.59,Debit Card,False
+ORD-100340,2024-12-16,Maya Rodriguez,Northeast,In-Store,Airport Kiosk,Outerwear,Trench Coat,XS,Blush Pink,1,96.35,30,28.91,67.44,Debit Card,False
+ORD-100271,2024-12-16,Isabella Chen,Northeast,In-Store,Riverside Plaza,Accessories,Sun Hat,One Size,Black,2,14.29,0,0.0,28.58,Apple Pay,False
+ORD-100228,2024-12-16,Riley Rodriguez,Midwest,Online,Web,Footwear,Loafers,5,Mustard,1,128.69,0,0.0,128.69,Debit Card,False
+ORD-100408,2024-12-17,Isabella Chen,Midwest,Online,Web,Activewear,Yoga Pants,S,Mustard,1,54.29,0,0.0,54.29,PayPal,False
+ORD-100453,2024-12-18,Isabella Rodriguez,Southwest,Online,Web,Accessories,Statement Earrings,One Size,Lavender,1,52.98,10,5.3,47.68,Apple Pay,False
+ORD-100679,2024-12-18,Charlotte Patel,Northeast,Online,Web,Outerwear,Puffer Jacket,M,Mustard,3,218.81,40,262.57,393.86,Credit Card,False
+ORD-100441,2024-12-19,Riley Brown,Northeast,In-Store,Airport Kiosk,Tops,Tunic,S,Emerald,3,26.58,0,0.0,79.74,Apple Pay,False
+ORD-100925,2024-12-19,Emma Müller,Southeast,In-Store,Airport Kiosk,Bottoms,Denim Shorts,XS,Mustard,1,99.9,0,0.0,99.9,Credit Card,False
+ORD-100012,2024-12-19,Grace Singh,West,Online,Web,Bottoms,Denim Shorts,S,Emerald,1,72.61,5,3.63,68.98,Credit Card,False
+ORD-100109,2024-12-20,Aria Johnson,West,In-Store,Airport Kiosk,Dresses,Slip Dress,M,Burgundy,1,107.33,10,10.73,96.6,Credit Card,False
+ORD-100929,2024-12-20,Sophia Rossi,West,Online,Web,Outerwear,Blazer,XL,Camel,1,96.19,30,28.86,67.33,Gift Card,False
+ORD-100648,2024-12-20,Grace Kim,Midwest,Online,Web,Activewear,Track Jacket,XL,Mustard,1,68.45,0,0.0,68.45,Credit Card,False
+ORD-100066,2024-12-21,Aisha Davis,Southeast,Online,Web,Bottoms,Skinny Jeans,XXL,Emerald,1,98.26,25,24.57,73.69,Credit Card,False
+ORD-100895,2024-12-21,Layla Okafor,West,Online,Web,Accessories,Tote Bag,One Size,White,3,57.94,0,0.0,173.82,Cash,False
+ORD-100198,2024-12-21,Amelia Rodriguez,Southwest,Online,Web,Bottoms,Denim Shorts,M,Navy,1,34.42,0,0.0,34.42,Gift Card,False
+ORD-100655,2024-12-22,Lily Hernandez,Northeast,Online,Web,Activewear,Running Shorts,S,Blush Pink,1,85.17,15,12.78,72.39,Credit Card,False
+ORD-100780,2024-12-23,Emily Kim,West,Online,Web,Bottoms,Leggings,M,Emerald,1,43.78,15,6.57,37.21,Credit Card,True
+ORD-100063,2024-12-23,Lily Rodriguez,Midwest,In-Store,Riverside Plaza,Outerwear,Trench Coat,XL,Charcoal,1,123.43,20,24.69,98.74,Cash,False
+ORD-100586,2024-12-23,Evelyn Davis,Northeast,Online,Web,Dresses,Maxi Dress,XL,White,2,125.92,0,0.0,251.84,Debit Card,False
+ORD-100867,2024-12-23,Riley Wilson,West,Online,Web,Bottoms,Wide-Leg Trousers,S,Rust,2,65.01,40,52.01,78.01,Debit Card,False
+ORD-100250,2024-12-23,Layla Wilson,West,In-Store,Downtown Flagship,Bottoms,Culottes,XS,Black,1,34.27,40,13.71,20.56,PayPal,False
+ORD-100796,2024-12-23,Layla Hernandez,Southeast,Online,Web,Outerwear,Blazer,XL,Mustard,1,254.35,20,50.87,203.48,Cash,False
+ORD-100388,2024-12-24,Sophia Gonzalez,Southwest,In-Store,Riverside Plaza,Dresses,Bodycon Dress,L,Camel,1,143.74,0,0.0,143.74,Credit Card,False
+ORD-100096,2024-12-24,Naomi Andersson,Southeast,In-Store,Riverside Plaza,Bottoms,Culottes,L,Blush Pink,2,79.58,20,31.83,127.33,Credit Card,False
+ORD-100924,2024-12-24,Fatima Wright,West,Online,Web,Activewear,Yoga Pants,S,Burgundy,1,52.12,0,0.0,52.12,Debit Card,False
+ORD-100794,2024-12-24,Olivia Martinez,Southwest,Online,Web,Accessories,Tote Bag,One Size,Blush Pink,1,51.2,15,7.68,43.52,Credit Card,False
+ORD-100291,2024-12-24,Abigail Wright,Midwest,In-Store,Airport Kiosk,Accessories,Statement Earrings,One Size,Emerald,2,49.96,10,9.99,89.93,Credit Card,False
+ORD-100325,2024-12-24,Isabella Patel,Southeast,In-Store,Riverside Plaza,Tops,Button-Up Shirt,M,Charcoal,2,73.4,0,0.0,146.8,Credit Card,False
+ORD-100945,2024-12-25,Charlotte Lee,West,In-Store,Westfield Mall,Outerwear,Cardigan,S,Charcoal,1,210.29,0,0.0,210.29,Gift Card,False
+ORD-100834,2024-12-25,Hazel Rodriguez,West,Online,Web,Accessories,Tote Bag,One Size,Charcoal,1,59.21,0,0.0,59.21,PayPal,False
+ORD-100463,2024-12-25,Emily Anderson,West,In-Store,Westfield Mall,Accessories,Sun Hat,One Size,Blush Pink,1,71.3,0,0.0,71.3,Credit Card,False
+ORD-100306,2024-12-25,Zoe Miller,Southwest,In-Store,Downtown Flagship,Tops,Tunic,XS,Rust,1,37.78,5,1.89,35.89,Debit Card,False
+ORD-100181,2024-12-25,Riley Wilson,Southeast,In-Store,Riverside Plaza,Dresses,Midi Dress,L,White,3,173.23,15,77.95,441.74,Credit Card,False
+ORD-100383,2024-12-25,Lily Reyes,Northeast,Online,Web,Bottoms,Leggings,XL,Emerald,1,117.03,20,23.41,93.62,Credit Card,False
+ORD-100909,2024-12-25,Riley Hernandez,Northeast,Online,Web,Outerwear,Cardigan,M,Emerald,2,146.46,10,29.29,263.63,Credit Card,True
+ORD-100916,2024-12-25,Aisha Rodriguez,Midwest,In-Store,Riverside Plaza,Bottoms,Pleated Skirt,L,Camel,1,40.04,0,0.0,40.04,Apple Pay,False
+ORD-100659,2024-12-25,Hazel Kim,Northeast,In-Store,Downtown Flagship,Dresses,Slip Dress,XS,White,1,131.38,0,0.0,131.38,Credit Card,False
+ORD-100761,2024-12-27,Ava Nguyen,Northeast,In-Store,Downtown Flagship,Bottoms,Skinny Jeans,XS,Black,1,51.1,20,10.22,40.88,PayPal,False
+ORD-100701,2024-12-27,Chloe Singh,Northeast,In-Store,Downtown Flagship,Activewear,Yoga Pants,M,Cream,1,88.47,0,0.0,88.47,Apple Pay,False
+ORD-100371,2024-12-27,Sophia Gonzalez,Southeast,Online,Web,Accessories,Silk Scarf,One Size,Rust,2,18.88,10,3.78,33.98,Debit Card,False
+ORD-100893,2024-12-28,Grace Garcia,Northeast,In-Store,Airport Kiosk,Dresses,Maxi Dress,S,Burgundy,3,88.08,10,26.42,237.82,Credit Card,False
+ORD-100157,2024-12-28,Layla Okafor,Midwest,Online,Web,Activewear,Yoga Pants,S,Rust,1,71.26,5,3.56,67.7,Credit Card,False
+ORD-100360,2024-12-28,Harper Johnson,Southeast,Online,Web,Tops,Knit Sweater,L,Camel,1,61.33,25,15.33,46.0,Debit Card,False
+ORD-100395,2024-12-28,Ella Williams,Midwest,In-Store,Downtown Flagship,Outerwear,Cardigan,S,Navy,2,186.33,0,0.0,372.66,Gift Card,False
+ORD-100617,2024-12-29,Hazel Nguyen,Northeast,In-Store,Riverside Plaza,Bottoms,Skinny Jeans,L,Black,2,50.05,0,0.0,100.1,Debit Card,True
+ORD-100947,2024-12-29,Ava Singh,West,In-Store,Riverside Plaza,Tops,Cami Top,M,Camel,1,32.02,0,0.0,32.02,Debit Card,False
+ORD-100450,2024-12-29,Aria Wilson,Southeast,Online,Web,Accessories,Silk Scarf,One Size,Mustard,1,46.38,0,0.0,46.38,Credit Card,False
+ORD-100126,2024-12-29,Emma Nguyen,West,In-Store,Westfield Mall,Dresses,Midi Dress,M,Burgundy,1,47.13,0,0.0,47.13,Credit Card,False
+ORD-100220,2024-12-29,Grace Andersson,Southeast,Online,Web,Activewear,Yoga Pants,M,Mustard,1,48.09,0,0.0,48.09,Apple Pay,False
+ORD-100208,2024-12-30,Emily Diaz,West,In-Store,Westfield Mall,Bottoms,Pleated Skirt,L,Blush Pink,2,85.79,0,0.0,171.58,Credit Card,True
+ORD-100825,2024-12-30,Mei Müller,Northeast,Online,Web,Dresses,Midi Dress,L,Camel,2,72.13,15,21.64,122.62,Debit Card,True
+ORD-100079,2024-12-30,Aurora Wright,West,In-Store,Riverside Plaza,Tops,Button-Up Shirt,M,Mustard,1,24.03,0,0.0,24.03,Credit Card,False
+ORD-100301,2024-12-31,Mia Lopez,Southwest,In-Store,Riverside Plaza,Accessories,Tote Bag,One Size,White,1,48.13,0,0.0,48.13,Gift Card,False
+ORD-100309,2024-12-31,Zoe Miller,West,In-Store,Riverside Plaza,Bottoms,Pleated Skirt,M,Black,1,67.24,0,0.0,67.24,Credit Card,True
+ORD-100588,2024-12-31,Olivia Singh,Midwest,Online,Web,Bottoms,Pleated Skirt,M,Sky Blue,2,116.02,20,46.41,185.63,Credit Card,False
+ORD-100471,2024-12-31,Fatima Williams,Southeast,In-Store,Riverside Plaza,Outerwear,Puffer Jacket,S,Lavender,2,178.86,5,17.89,339.83,PayPal,False
+ORD-100832,2024-12-31,Mia Andersson,Southwest,In-Store,Airport Kiosk,Footwear,Ankle Boots,9,Cream,3,92.65,0,0.0,277.95,Credit Card,False
+ORD-100121,2024-12-31,Grace Miller,West,In-Store,Riverside Plaza,Tops,Blouse,L,Olive,1,34.01,0,0.0,34.01,Credit Card,False
+ORD-100802,2024-12-31,Aria Andersson,Northeast,In-Store,Airport Kiosk,Dresses,Shift Dress,L,Blush Pink,1,144.29,30,43.29,101.0,Debit Card,False
+ORD-100026,2025-01-01,Aisha Lee,West,Online,Web,Dresses,Wrap Dress,XL,Sky Blue,1,138.8,25,34.7,104.1,Credit Card,False
+ORD-100520,2025-01-04,Lily Williams,Northeast,Online,Web,Footwear,Loafers,7,White,1,155.18,15,23.28,131.9,Cash,False
+ORD-100812,2025-01-04,Layla Garcia,Southeast,Online,Web,Footwear,Loafers,10,White,1,149.22,0,0.0,149.22,Credit Card,False
+ORD-100551,2025-01-04,Lily Wright,Northeast,Online,Web,Tops,Blouse,S,Emerald,2,69.82,5,6.98,132.66,Credit Card,True
+ORD-100070,2025-01-04,Isabella Lopez,Northeast,Online,Web,Bottoms,Skinny Jeans,M,White,3,66.82,15,30.07,170.39,Credit Card,False
+ORD-100200,2025-01-04,Aurora Martinez,Midwest,In-Store,Downtown Flagship,Activewear,Yoga Pants,M,Cream,1,63.57,0,0.0,63.57,Credit Card,False
+ORD-100758,2025-01-04,Harper Williams,West,Online,Web,Dresses,Maxi Dress,S,Olive,1,137.12,10,13.71,123.41,Apple Pay,False
+ORD-100392,2025-01-05,Grace Garcia,Northeast,Online,Web,Bottoms,Denim Shorts,S,Blush Pink,3,55.96,0,0.0,167.88,PayPal,False
+ORD-100310,2025-01-05,Mia Anderson,Northeast,Online,Web,Outerwear,Denim Jacket,M,Blush Pink,3,190.53,0,0.0,571.59,Credit Card,False
+ORD-100585,2025-01-05,Ella Gonzalez,Southwest,In-Store,Airport Kiosk,Dresses,Wrap Dress,M,Black,1,163.48,10,16.35,147.13,Credit Card,False
+ORD-100307,2025-01-07,Olivia Andersson,Southeast,In-Store,Riverside Plaza,Bottoms,Denim Shorts,M,Cream,1,42.38,0,0.0,42.38,PayPal,False
+ORD-100675,2025-01-07,Olivia Chen,Southwest,Online,Web,Tops,Blouse,L,Sky Blue,2,28.85,0,0.0,57.7,Credit Card,False
+ORD-100403,2025-01-08,Zoe Williams,Southeast,In-Store,Riverside Plaza,Dresses,Shift Dress,L,Navy,1,164.41,0,0.0,164.41,Cash,False
+ORD-100986,2025-01-08,Naomi Wright,Southwest,Online,Web,Activewear,Running Shorts,XL,Lavender,2,84.48,0,0.0,168.96,Credit Card,True
+ORD-100318,2025-01-10,Hazel Nguyen,Southwest,In-Store,Westfield Mall,Dresses,Bodycon Dress,XL,Rust,1,57.3,0,0.0,57.3,Credit Card,False
+ORD-100877,2025-01-10,Olivia Johnson,Southeast,In-Store,Westfield Mall,Dresses,Bodycon Dress,XL,Cream,1,79.6,0,0.0,79.6,Credit Card,False
+ORD-100021,2025-01-11,Sophia Wright,Northeast,In-Store,Westfield Mall,Activewear,Yoga Pants,XS,Rust,1,31.84,0,0.0,31.84,Apple Pay,False
+ORD-100826,2025-01-11,Grace Kim,Midwest,In-Store,Downtown Flagship,Dresses,Bodycon Dress,L,Lavender,1,47.41,0,0.0,47.41,Debit Card,False
+ORD-100172,2025-01-11,Lily Martinez,Southeast,In-Store,Riverside Plaza,Tops,Knit Sweater,S,Mustard,1,22.57,10,2.26,20.31,Credit Card,False
+ORD-100749,2025-01-11,Ava Singh,Northeast,Online,Web,Bottoms,Culottes,S,Cream,1,42.38,0,0.0,42.38,Credit Card,False
+ORD-100606,2025-01-11,Riley Rodriguez,Midwest,In-Store,Downtown Flagship,Tops,Button-Up Shirt,M,Olive,4,61.11,0,0.0,244.44,Debit Card,False
+ORD-100718,2025-01-12,Riley Reyes,Northeast,Online,Web,Outerwear,Trench Coat,S,Cream,1,129.41,0,0.0,129.41,Gift Card,False
+ORD-100938,2025-01-12,Mia Andersson,Midwest,Online,Web,Footwear,Loafers,10,Mustard,1,116.2,0,0.0,116.2,Debit Card,False
+ORD-100256,2025-01-12,Hazel Thomas,Northeast,In-Store,Airport Kiosk,Tops,Tank Top,S,Charcoal,1,51.95,0,0.0,51.95,Credit Card,False
+ORD-100266,2025-01-14,Aria Diaz,Northeast,In-Store,Riverside Plaza,Footwear,Loafers,9,Camel,1,105.53,0,0.0,105.53,Credit Card,False
+ORD-100404,2025-01-14,Amelia Miller,Midwest,Online,Web,Dresses,Midi Dress,S,Olive,1,177.33,25,44.33,133.0,Debit Card,False
+ORD-100448,2025-01-14,Olivia Okafor,West,In-Store,Riverside Plaza,Accessories,Silk Scarf,One Size,Olive,3,50.76,0,0.0,152.28,Credit Card,False
+ORD-100553,2025-01-14,Grace Anderson,Southwest,Online,Web,Tops,Cami Top,XS,Burgundy,1,72.75,50,36.38,36.37,Credit Card,True
+ORD-100550,2025-01-14,Maya Wright,West,In-Store,Westfield Mall,Tops,Knit Sweater,XXL,Camel,1,36.17,0,0.0,36.17,PayPal,False
+ORD-100427,2025-01-14,Harper Singh,Northeast,In-Store,Airport Kiosk,Tops,Tunic,S,Charcoal,2,66.9,0,0.0,133.8,Credit Card,False
+ORD-100777,2025-01-15,Olivia Singh,Midwest,In-Store,Downtown Flagship,Activewear,Sports Bra,M,Sky Blue,1,84.28,40,33.71,50.57,Debit Card,False
+ORD-100352,2025-01-17,Lily Gonzalez,West,In-Store,Riverside Plaza,Dresses,Maxi Dress,XS,Olive,1,166.0,15,24.9,141.1,Credit Card,False
+ORD-100011,2025-01-18,Sophia Gonzalez,Northeast,Online,Web,Bottoms,Leggings,M,Navy,1,61.22,0,0.0,61.22,Debit Card,False
+ORD-100723,2025-01-18,Grace Miller,Southwest,In-Store,Riverside Plaza,Bottoms,Wide-Leg Trousers,S,Charcoal,1,86.27,0,0.0,86.27,Credit Card,False
+ORD-100516,2025-01-18,Ella Jones,Midwest,Online,Web,Tops,Cami Top,S,Emerald,1,22.89,0,0.0,22.89,Credit Card,True
+ORD-100213,2025-01-18,Harper Williams,Southwest,In-Store,Downtown Flagship,Bottoms,Skinny Jeans,M,Lavender,1,76.89,0,0.0,76.89,PayPal,False
+ORD-100094,2025-01-18,Aisha Johnson,Northeast,In-Store,Riverside Plaza,Bottoms,Denim Shorts,M,Cream,1,97.52,25,24.38,73.14,Credit Card,False
+ORD-100501,2025-01-19,Chloe Patel,Southwest,In-Store,Westfield Mall,Accessories,Tote Bag,One Size,Rust,1,67.49,0,0.0,67.49,Debit Card,False
+ORD-100099,2025-01-19,Hazel Davis,Southeast,In-Store,Airport Kiosk,Dresses,Slip Dress,S,Charcoal,1,58.39,30,17.52,40.87,Credit Card,False
+ORD-100664,2025-01-19,Charlotte Wilson,West,Online,Web,Tops,Blouse,L,Burgundy,1,49.1,0,0.0,49.1,Gift Card,False
+ORD-100985,2025-01-19,Priya Patel,Northeast,Online,Web,Outerwear,Denim Jacket,L,Sky Blue,1,218.37,0,0.0,218.37,PayPal,False
+ORD-100180,2025-01-19,Layla Hernandez,Southwest,In-Store,Riverside Plaza,Tops,Blouse,M,Mustard,1,43.09,0,0.0,43.09,Credit Card,False
+ORD-100732,2025-01-20,Evelyn Cohen,Northeast,In-Store,Airport Kiosk,Activewear,Yoga Pants,M,Black,3,38.61,0,0.0,115.83,PayPal,False
+ORD-100335,2025-01-20,Aurora Martinez,Southwest,In-Store,Westfield Mall,Dresses,Bodycon Dress,S,Camel,1,105.87,0,0.0,105.87,Credit Card,False
+ORD-100873,2025-01-23,Lily Hernandez,West,In-Store,Riverside Plaza,Tops,Blouse,M,Camel,1,83.38,20,16.68,66.7,Cash,False
+ORD-100603,2025-01-24,Mei Andersson,Northeast,Online,Web,Bottoms,Pleated Skirt,XS,Navy,1,40.47,0,0.0,40.47,Apple Pay,False
+ORD-100170,2025-01-24,Emily Martinez,West,In-Store,Airport Kiosk,Tops,Knit Sweater,M,Blush Pink,1,22.53,0,0.0,22.53,Apple Pay,False
+ORD-100594,2025-01-24,Evelyn Williams,Midwest,In-Store,Westfield Mall,Tops,Button-Up Shirt,S,Black,1,31.2,10,3.12,28.08,Gift Card,False
+ORD-100062,2025-01-25,Layla Chen,Northeast,In-Store,Airport Kiosk,Bottoms,Denim Shorts,M,Lavender,2,118.62,0,0.0,237.24,Credit Card,False
+ORD-100263,2025-01-25,Riley Hernandez,Northeast,Online,Web,Bottoms,Pleated Skirt,S,Burgundy,1,78.0,10,7.8,70.2,Debit Card,False
+ORD-100665,2025-01-26,Nora Hernandez,Southwest,Online,Web,Dresses,Maxi Dress,L,Black,3,124.42,25,93.31,279.95,PayPal,False
+ORD-100503,2025-01-26,Mei Hernandez,West,In-Store,Riverside Plaza,Bottoms,Leggings,XL,Lavender,1,41.61,20,8.32,33.29,Credit Card,False
+ORD-100700,2025-01-26,Grace Patel,Midwest,In-Store,Airport Kiosk,Dresses,Maxi Dress,S,Sky Blue,1,138.75,0,0.0,138.75,Gift Card,False
+ORD-100122,2025-01-27,Charlotte Okafor,Northeast,Online,Web,Dresses,Maxi Dress,S,Sky Blue,1,71.69,0,0.0,71.69,Credit Card,False
+ORD-100083,2025-01-27,Fatima Martinez,Southeast,In-Store,Riverside Plaza,Outerwear,Trench Coat,XS,Emerald,1,192.58,0,0.0,192.58,PayPal,False
+ORD-100823,2025-01-27,Priya Müller,Northeast,In-Store,Westfield Mall,Bottoms,Leggings,L,White,2,31.96,0,0.0,63.92,Credit Card,False
+ORD-100446,2025-01-27,Fatima Brown,West,Online,Web,Activewear,Running Shorts,M,Mustard,1,49.41,15,7.41,42.0,Debit Card,False
+ORD-100270,2025-01-27,Harper Wright,Southwest,In-Store,Riverside Plaza,Tops,Button-Up Shirt,M,Cream,1,42.5,0,0.0,42.5,Credit Card,False
+ORD-100607,2025-01-28,Ella Rossi,West,Online,Web,Footwear,Sneakers,10,Blush Pink,2,159.63,0,0.0,319.26,Debit Card,True
+ORD-100411,2025-01-28,Fatima Rodriguez,Midwest,Online,Web,Tops,Blouse,XL,Lavender,1,74.27,20,14.85,59.42,Credit Card,False
+ORD-100333,2025-01-28,Layla Anderson,Southwest,Online,Web,Outerwear,Blazer,M,White,1,185.36,15,27.8,157.56,Gift Card,False
+ORD-100959,2025-01-29,Grace Jones,Midwest,Online,Web,Bottoms,Skinny Jeans,XS,Black,1,43.73,10,4.37,39.36,Credit Card,False
+ORD-100219,2025-01-29,Fatima Jones,Northeast,In-Store,Airport Kiosk,Tops,Tunic,S,White,3,36.23,0,0.0,108.69,Debit Card,False
+ORD-100002,2025-01-30,Priya Lopez,Midwest,Online,Web,Bottoms,Denim Shorts,M,Lavender,4,98.23,0,0.0,392.92,Credit Card,False
+ORD-100347,2025-01-30,Mei Andersson,West,Online,Web,Bottoms,Pleated Skirt,L,White,1,76.83,20,15.37,61.46,Apple Pay,False
+ORD-100671,2025-01-31,Charlotte Singh,West,Online,Web,Tops,Blouse,S,Rust,1,21.66,0,0.0,21.66,Credit Card,False
+ORD-100896,2025-01-31,Ava Patel,Midwest,In-Store,Airport Kiosk,Activewear,Running Shorts,S,Sky Blue,3,62.54,15,28.14,159.48,Credit Card,False
+ORD-100177,2025-01-31,Ruby Patel,West,Online,Web,Tops,Button-Up Shirt,L,Blush Pink,4,83.04,15,49.82,282.34,Debit Card,False
+ORD-100233,2025-02-01,Nora Rodriguez,Midwest,In-Store,Riverside Plaza,Dresses,Bodycon Dress,XL,Burgundy,1,48.27,50,24.14,24.13,Cash,False
+ORD-100382,2025-02-01,Riley Chen,Southeast,In-Store,Airport Kiosk,Tops,Button-Up Shirt,M,Navy,1,20.29,0,0.0,20.29,PayPal,False
+ORD-100190,2025-02-01,Naomi Jones,Southwest,Online,Web,Bottoms,Pleated Skirt,XXL,Lavender,1,75.06,15,11.26,63.8,PayPal,False
+ORD-100003,2025-02-02,Nora Müller,Northeast,Online,Web,Activewear,Yoga Pants,S,Lavender,1,87.89,5,4.39,83.5,PayPal,False
+ORD-100719,2025-02-02,Riley Wilson,Midwest,In-Store,Airport Kiosk,Bottoms,Pleated Skirt,L,Charcoal,1,68.2,10,6.82,61.38,Credit Card,False
+ORD-100010,2025-02-02,Priya Müller,Southeast,Online,Web,Activewear,Track Jacket,M,Black,2,71.77,0,0.0,143.54,Credit Card,False
+ORD-100775,2025-02-02,Maya Johnson,Southwest,In-Store,Riverside Plaza,Dresses,Shift Dress,XS,Emerald,1,83.71,0,0.0,83.71,Credit Card,False
+ORD-100483,2025-02-02,Riley Wilson,Southeast,In-Store,Downtown Flagship,Tops,Button-Up Shirt,XXL,Rust,1,82.84,0,0.0,82.84,Credit Card,False
+ORD-100940,2025-02-02,Sophia Williams,West,In-Store,Airport Kiosk,Footwear,Ballet Flats,5,Black,2,159.45,0,0.0,318.9,Credit Card,False
+ORD-100032,2025-02-03,Evelyn Wilson,Southwest,In-Store,Downtown Flagship,Accessories,Statement Earrings,One Size,Emerald,2,29.89,0,0.0,59.78,Credit Card,False
+ORD-100386,2025-02-04,Aurora Hernandez,West,In-Store,Downtown Flagship,Tops,Blouse,L,Navy,1,63.22,15,9.48,53.74,Debit Card,False
+ORD-100421,2025-02-04,Ava Smith,Southwest,In-Store,Westfield Mall,Activewear,Sports Bra,XXL,Olive,1,62.93,20,12.59,50.34,Credit Card,False
+ORD-100252,2025-02-04,Nora Jones,West,In-Store,Riverside Plaza,Footwear,Heeled Sandals,6,Navy,1,91.22,0,0.0,91.22,Credit Card,False
+ORD-100663,2025-02-04,Amelia Andersson,Southeast,Online,Web,Accessories,Sun Hat,One Size,Rust,1,37.78,0,0.0,37.78,Credit Card,False
+ORD-100640,2025-02-05,Olivia Martinez,West,In-Store,Downtown Flagship,Dresses,Slip Dress,S,Olive,1,107.47,50,53.73,53.74,Credit Card,True
+ORD-100807,2025-02-05,Fatima Nguyen,West,Online,Web,Dresses,Slip Dress,M,White,1,86.15,20,17.23,68.92,PayPal,False
+ORD-100226,2025-02-05,Ella Diaz,Southwest,Online,Web,Activewear,Yoga Pants,M,Burgundy,1,89.88,10,8.99,80.89,Credit Card,False
+ORD-100140,2025-02-05,Ella Jones,West,Online,Web,Activewear,Running Shorts,S,Emerald,1,82.57,10,8.26,74.31,PayPal,True
+ORD-100024,2025-02-06,Amelia Singh,Northeast,In-Store,Downtown Flagship,Bottoms,Leggings,M,Cream,1,64.66,0,0.0,64.66,Credit Card,False
+ORD-100559,2025-02-06,Fatima Andersson,Midwest,In-Store,Westfield Mall,Outerwear,Trench Coat,M,Blush Pink,1,112.7,10,11.27,101.43,Credit Card,False
+ORD-100954,2025-02-06,Riley Gonzalez,Southeast,Online,Web,Bottoms,Pleated Skirt,M,Mustard,1,61.02,0,0.0,61.02,Apple Pay,False
+ORD-100956,2025-02-07,Evelyn Anderson,West,Online,Web,Bottoms,Leggings,XS,Camel,1,42.62,0,0.0,42.62,Credit Card,False
+ORD-100861,2025-02-07,Mei Wright,Midwest,In-Store,Airport Kiosk,Tops,Knit Sweater,M,Rust,1,33.52,20,6.7,26.82,Credit Card,False
+ORD-100739,2025-02-08,Ella Rodriguez,Southeast,Online,Web,Bottoms,Skinny Jeans,XS,Blush Pink,1,58.08,20,11.62,46.46,Apple Pay,False
+ORD-100102,2025-02-08,Evelyn Cohen,Midwest,In-Store,Riverside Plaza,Tops,Button-Up Shirt,M,Blush Pink,1,45.84,5,2.29,43.55,Credit Card,False
+ORD-100344,2025-02-08,Layla Brown,West,Online,Web,Bottoms,Wide-Leg Trousers,L,Burgundy,2,68.06,0,0.0,136.12,Apple Pay,False
+ORD-100272,2025-02-09,Ella Rodriguez,West,In-Store,Riverside Plaza,Tops,Tunic,XL,Charcoal,1,76.31,0,0.0,76.31,Debit Card,False
+ORD-100274,2025-02-09,Harper Diaz,Southwest,Online,Web,Accessories,Sun Hat,One Size,Mustard,2,67.31,15,20.19,114.43,Credit Card,False
+ORD-100545,2025-02-09,Maya Hernandez,West,Online,Web,Outerwear,Puffer Jacket,XL,Emerald,1,209.95,20,41.99,167.96,Debit Card,False
+ORD-100677,2025-02-09,Olivia Williams,West,Online,Web,Bottoms,Pleated Skirt,L,Lavender,1,96.92,0,0.0,96.92,Credit Card,False
+ORD-100152,2025-02-09,Evelyn Cohen,Midwest,In-Store,Riverside Plaza,Accessories,Statement Earrings,One Size,Cream,1,62.3,0,0.0,62.3,Debit Card,False
+ORD-100269,2025-02-10,Charlotte Wilson,Midwest,In-Store,Airport Kiosk,Tops,Tunic,S,Cream,1,22.14,0,0.0,22.14,Debit Card,False
+ORD-100756,2025-02-10,Evelyn Davis,Midwest,In-Store,Downtown Flagship,Dresses,Slip Dress,S,Cream,1,129.94,0,0.0,129.94,PayPal,False
+ORD-100927,2025-02-11,Mei Müller,Southeast,Online,Web,Bottoms,Culottes,L,Charcoal,1,103.78,15,15.57,88.21,Debit Card,False
+ORD-100939,2025-02-11,Harper Andersson,Northeast,In-Store,Westfield Mall,Bottoms,Wide-Leg Trousers,XS,Camel,1,45.84,0,0.0,45.84,Credit Card,False
+ORD-100498,2025-02-11,Lily Hernandez,Northeast,Online,Web,Dresses,Wrap Dress,XL,Cream,1,138.57,30,41.57,97.0,PayPal,False
+ORD-100879,2025-02-12,Sophia Lopez,Midwest,In-Store,Airport Kiosk,Outerwear,Puffer Jacket,S,White,2,197.29,0,0.0,394.58,Apple Pay,False
+ORD-100901,2025-02-12,Nora Müller,Northeast,In-Store,Westfield Mall,Bottoms,Leggings,S,Burgundy,1,103.17,0,0.0,103.17,Apple Pay,False
+ORD-100967,2025-02-12,Aisha Lee,Southwest,In-Store,Riverside Plaza,Footwear,Sneakers,8,Burgundy,1,115.73,10,11.57,104.16,Credit Card,False
+ORD-100148,2025-02-13,Harper Johnson,Southeast,In-Store,Airport Kiosk,Bottoms,Culottes,XXL,Navy,1,72.15,5,3.61,68.54,PayPal,True
+ORD-100870,2025-02-13,Zoe Gonzalez,Southeast,Online,Web,Bottoms,Denim Shorts,M,White,3,66.42,0,0.0,199.26,Debit Card,False
+ORD-100353,2025-02-14,Sophia Rossi,Northeast,Online,Web,Bottoms,Wide-Leg Trousers,L,Camel,1,48.09,0,0.0,48.09,PayPal,False
+ORD-100601,2025-02-14,Mei Wright,Southwest,In-Store,Westfield Mall,Activewear,Running Shorts,L,Black,1,73.25,0,0.0,73.25,PayPal,False
+ORD-100288,2025-02-14,Aurora Hernandez,Southwest,In-Store,Airport Kiosk,Dresses,Maxi Dress,M,Burgundy,1,86.45,0,0.0,86.45,Credit Card,False
+ORD-100540,2025-02-15,Sophia Lopez,Southeast,In-Store,Riverside Plaza,Tops,Button-Up Shirt,XS,Mustard,1,59.08,40,23.63,35.45,PayPal,False
+ORD-100556,2025-02-15,Aisha Lopez,Midwest,In-Store,Downtown Flagship,Dresses,Wrap Dress,M,Cream,1,94.83,0,0.0,94.83,Credit Card,False
+ORD-100572,2025-02-15,Evelyn Anderson,West,Online,Web,Bottoms,Leggings,XS,Rust,1,78.39,0,0.0,78.39,Gift Card,True
+ORD-100036,2025-02-16,Riley Wilson,West,In-Store,Airport Kiosk,Dresses,Wrap Dress,L,Blush Pink,1,164.36,50,82.18,82.18,Debit Card,False
+ORD-100612,2025-02-16,Aisha Davis,West,Online,Web,Accessories,Statement Earrings,One Size,Lavender,1,61.57,0,0.0,61.57,Apple Pay,False
+ORD-100817,2025-02-16,Evelyn Cohen,Southeast,Online,Web,Dresses,Wrap Dress,M,Camel,1,48.59,0,0.0,48.59,Debit Card,False
+ORD-100509,2025-02-16,Mei Reyes,Midwest,Online,Web,Bottoms,Denim Shorts,XL,Camel,2,74.54,10,14.91,134.17,PayPal,False
+ORD-100957,2025-02-16,Olivia Reyes,Southwest,In-Store,Airport Kiosk,Outerwear,Blazer,S,Blush Pink,1,218.85,0,0.0,218.85,PayPal,False
+ORD-100678,2025-02-17,Harper Garcia,Southeast,In-Store,Airport Kiosk,Outerwear,Blazer,XL,Mustard,1,119.99,0,0.0,119.99,Credit Card,False
+ORD-100500,2025-02-17,Mia Rodriguez,Southwest,Online,Web,Bottoms,Culottes,S,Mustard,1,66.27,0,0.0,66.27,Credit Card,False
+ORD-100461,2025-02-17,Grace Patel,Southwest,Online,Web,Outerwear,Denim Jacket,M,Charcoal,1,94.8,15,14.22,80.58,Credit Card,False
+ORD-100040,2025-02-18,Fatima Rodriguez,Southeast,In-Store,Downtown Flagship,Tops,Cami Top,M,Lavender,1,74.43,0,0.0,74.43,Credit Card,True
+ORD-100160,2025-02-18,Emily Diaz,Southwest,Online,Web,Dresses,Midi Dress,XL,Emerald,1,143.52,0,0.0,143.52,Credit Card,False
+ORD-100367,2025-02-19,Olivia Singh,Southwest,Online,Web,Dresses,Wrap Dress,XL,Olive,1,94.17,15,14.13,80.04,Gift Card,False
+ORD-100008,2025-02-19,Layla Garcia,West,In-Store,Downtown Flagship,Tops,Cami Top,S,Navy,2,44.77,5,4.48,85.06,PayPal,False
+ORD-100786,2025-02-19,Ruby Reyes,West,Online,Web,Tops,Tank Top,S,Navy,2,38.5,0,0.0,77.0,Debit Card,False
+ORD-100491,2025-02-20,Aria Nguyen,Northeast,In-Store,Riverside Plaza,Dresses,Slip Dress,M,Lavender,1,146.25,15,21.94,124.31,Debit Card,False
+ORD-100800,2025-02-20,Charlotte Lee,Southeast,In-Store,Airport Kiosk,Footwear,Ankle Boots,9,Sky Blue,1,136.79,0,0.0,136.79,Credit Card,False
+ORD-100579,2025-02-20,Layla Lee,Northeast,Online,Web,Dresses,Bodycon Dress,M,Navy,1,87.4,5,4.37,83.03,Cash,True
+ORD-100013,2025-02-22,Emma Brown,West,Online,Web,Dresses,Shift Dress,S,Camel,2,135.75,0,0.0,271.5,Credit Card,False
+ORD-100351,2025-02-22,Charlotte Wright,West,Online,Web,Footwear,Ankle Boots,10,Sky Blue,1,77.67,20,15.53,62.14,PayPal,False
+ORD-100692,2025-02-22,Hazel Thomas,Southwest,Online,Web,Activewear,Track Jacket,M,Cream,1,42.81,0,0.0,42.81,Credit Card,True
+ORD-100454,2025-02-23,Riley Diaz,Southwest,Online,Web,Outerwear,Denim Jacket,M,Black,2,242.81,0,0.0,485.62,Credit Card,False
+ORD-100580,2025-02-23,Olivia Rossi,Northeast,Online,Web,Dresses,Shift Dress,L,Charcoal,1,82.28,0,0.0,82.28,Credit Card,False
+ORD-100848,2025-02-24,Harper Anderson,Northeast,Online,Web,Bottoms,Denim Shorts,XL,Camel,1,104.51,0,0.0,104.51,Credit Card,False
+ORD-100528,2025-02-26,Grace Andersson,Midwest,Online,Web,Dresses,Slip Dress,XL,Emerald,1,103.82,0,0.0,103.82,Gift Card,False
+ORD-100530,2025-02-26,Priya Rodriguez,Northeast,In-Store,Airport Kiosk,Bottoms,Pleated Skirt,M,Charcoal,4,51.07,0,0.0,204.28,Debit Card,False
+ORD-100396,2025-02-28,Mei Reyes,Southeast,Online,Web,Outerwear,Blazer,L,Cream,1,105.56,10,10.56,95.0,Credit Card,False
+ORD-100290,2025-02-28,Sophia Gonzalez,West,In-Store,Downtown Flagship,Accessories,Silk Scarf,One Size,Lavender,1,71.93,15,10.79,61.14,Credit Card,False
+ORD-100514,2025-03-01,Chloe Chen,West,Online,Web,Accessories,Leather Belt,One Size,Rust,1,32.6,0,0.0,32.6,Credit Card,True
+ORD-100216,2025-03-01,Mei Reyes,Midwest,Online,Web,Bottoms,Skinny Jeans,L,Navy,1,103.61,0,0.0,103.61,Credit Card,False
+ORD-100995,2025-03-01,Riley Reyes,Midwest,In-Store,Westfield Mall,Tops,Button-Up Shirt,XL,Blush Pink,2,55.23,0,0.0,110.46,Debit Card,False
+ORD-100819,2025-03-01,Evelyn Kim,West,Online,Web,Bottoms,Wide-Leg Trousers,S,Olive,2,113.66,0,0.0,227.32,Credit Card,True
+ORD-100285,2025-03-01,Nora Martinez,West,In-Store,Airport Kiosk,Activewear,Running Shorts,M,Navy,1,39.84,0,0.0,39.84,Credit Card,False
+ORD-100057,2025-03-02,Aisha Johnson,Northeast,In-Store,Riverside Plaza,Dresses,Shift Dress,XXL,Lavender,1,133.14,40,53.26,79.88,Credit Card,False
+ORD-100950,2025-03-02,Nora Müller,Northeast,In-Store,Westfield Mall,Bottoms,Culottes,M,Blush Pink,1,51.0,0,0.0,51.0,Apple Pay,False
+ORD-100470,2025-03-04,Amelia Miller,West,Online,Web,Tops,Blouse,S,Burgundy,2,56.5,0,0.0,113.0,Credit Card,True
+ORD-100374,2025-03-04,Hazel Rodriguez,Southeast,Online,Web,Accessories,Leather Belt,One Size,Camel,1,40.65,0,0.0,40.65,Apple Pay,False
+ORD-100229,2025-03-04,Aisha Davis,Southeast,In-Store,Westfield Mall,Outerwear,Trench Coat,L,Camel,1,188.63,25,47.16,141.47,Credit Card,False
+ORD-100805,2025-03-04,Fatima Reyes,Southwest,In-Store,Downtown Flagship,Dresses,Wrap Dress,S,Charcoal,3,113.0,20,67.8,271.2,Credit Card,False
+ORD-100343,2025-03-06,Aria Nguyen,Southeast,In-Store,Westfield Mall,Dresses,Shift Dress,M,Mustard,3,49.11,0,0.0,147.33,Gift Card,False
+ORD-100120,2025-03-07,Amelia Rodriguez,West,Online,Web,Bottoms,Culottes,L,Cream,2,61.29,0,0.0,122.58,Debit Card,False
+ORD-100009,2025-03-07,Sophia Rossi,Northeast,In-Store,Westfield Mall,Activewear,Track Jacket,M,Blush Pink,1,71.6,0,0.0,71.6,Credit Card,False
+ORD-100412,2025-03-07,Aisha Thomas,Northeast,Online,Web,Footwear,Ballet Flats,10,Sky Blue,2,55.08,0,0.0,110.16,Credit Card,False
+ORD-100377,2025-03-08,Ruby Patel,Southeast,In-Store,Westfield Mall,Activewear,Sports Bra,M,Mustard,1,88.54,10,8.85,79.69,Credit Card,False
+ORD-100757,2025-03-08,Olivia Williams,Southwest,Online,Web,Bottoms,Leggings,L,Lavender,1,52.12,20,10.42,41.7,Credit Card,False
+ORD-100792,2025-03-08,Nora Jones,Southwest,Online,Web,Dresses,Maxi Dress,XL,Charcoal,1,66.83,0,0.0,66.83,Credit Card,False
+ORD-100074,2025-03-08,Naomi Okafor,Northeast,In-Store,Airport Kiosk,Bottoms,Pleated Skirt,S,Olive,1,96.16,0,0.0,96.16,Apple Pay,False
+ORD-100053,2025-03-09,Fatima Patel,Southwest,In-Store,Riverside Plaza,Footwear,Heeled Sandals,9,White,1,75.56,0,0.0,75.56,Debit Card,False
+ORD-100293,2025-03-09,Zoe Andersson,Northeast,Online,Web,Dresses,Shift Dress,S,Lavender,2,155.99,5,15.6,296.38,Credit Card,False
+ORD-100075,2025-03-09,Riley Hernandez,West,Online,Web,Accessories,Tote Bag,One Size,Burgundy,1,67.1,10,6.71,60.39,Apple Pay,False
+ORD-100192,2025-03-09,Emma Patel,Southwest,Online,Web,Dresses,Bodycon Dress,XS,Blush Pink,1,65.33,0,0.0,65.33,Credit Card,True
+ORD-100615,2025-03-10,Zoe Andersson,Southwest,Online,Web,Dresses,Slip Dress,L,Rust,1,140.4,15,21.06,119.34,Apple Pay,False
+ORD-100037,2025-03-11,Emily Anderson,Midwest,Online,Web,Tops,Knit Sweater,L,Sky Blue,2,57.57,15,17.27,97.87,Credit Card,False
+ORD-100155,2025-03-12,Fatima Nguyen,Northeast,Online,Web,Accessories,Tote Bag,One Size,Blush Pink,1,12.69,0,0.0,12.69,PayPal,False
+ORD-100948,2025-03-12,Ella Smith,Southwest,In-Store,Downtown Flagship,Outerwear,Trench Coat,S,Burgundy,2,211.26,0,0.0,422.52,Credit Card,False
+ORD-100989,2025-03-12,Abigail Gonzalez,West,In-Store,Downtown Flagship,Outerwear,Denim Jacket,XL,Charcoal,1,165.62,0,0.0,165.62,Credit Card,False
+ORD-100644,2025-03-13,Olivia Okafor,Southeast,Online,Web,Activewear,Sports Bra,S,Camel,1,78.58,25,19.64,58.94,Credit Card,False
+ORD-100562,2025-03-15,Chloe Brown,Northeast,Online,Web,Outerwear,Denim Jacket,M,Emerald,1,86.09,10,8.61,77.48,Debit Card,False
+ORD-100822,2025-03-15,Mia Lopez,Southeast,Online,Web,Dresses,Shift Dress,S,Rust,1,47.64,0,0.0,47.64,Debit Card,False
+ORD-100205,2025-03-15,Priya Müller,Northeast,Online,Web,Accessories,Sun Hat,One Size,Burgundy,2,64.23,0,0.0,128.46,Cash,False
+ORD-100103,2025-03-16,Aisha Garcia,Midwest,Online,Web,Footwear,Loafers,9,Lavender,1,86.98,0,0.0,86.98,Credit Card,False
+ORD-100060,2025-03-16,Emily Anderson,Northeast,In-Store,Downtown Flagship,Dresses,Midi Dress,L,Camel,1,107.2,40,42.88,64.32,Credit Card,True
+ORD-100706,2025-03-16,Zoe Williams,Midwest,Online,Web,Dresses,Shift Dress,L,Lavender,1,162.12,10,16.21,145.91,PayPal,False
+ORD-100287,2025-03-17,Fatima Brown,West,Online,Web,Bottoms,Denim Shorts,S,Black,4,111.41,0,0.0,445.64,Credit Card,False
+ORD-100283,2025-03-17,Riley Rossi,Midwest,Online,Web,Tops,Tunic,L,Sky Blue,4,82.34,0,0.0,329.36,Credit Card,False
+ORD-100962,2025-03-17,Riley Chen,Northeast,In-Store,Riverside Plaza,Footwear,Heeled Sandals,10,Burgundy,2,138.27,0,0.0,276.54,Credit Card,False
+ORD-100882,2025-03-18,Ava Kim,West,Online,Web,Tops,Blouse,S,Olive,1,43.03,10,4.3,38.73,Gift Card,False
+ORD-100578,2025-03-18,Nora Martinez,West,Online,Web,Tops,Cami Top,M,Camel,3,62.77,0,0.0,188.31,Debit Card,False
+ORD-100587,2025-03-19,Harper Anderson,Midwest,Online,Web,Activewear,Yoga Pants,S,Mustard,1,71.41,0,0.0,71.41,Debit Card,False
+ORD-100165,2025-03-20,Sophia Gonzalez,West,In-Store,Riverside Plaza,Footwear,Heeled Sandals,10,Charcoal,2,42.67,0,0.0,85.34,Cash,False
+ORD-100998,2025-03-20,Olivia Davis,Southeast,In-Store,Downtown Flagship,Bottoms,Skinny Jeans,XL,Camel,2,91.14,0,0.0,182.28,Cash,False
+ORD-100996,2025-03-21,Riley Chen,West,In-Store,Westfield Mall,Dresses,Wrap Dress,M,Burgundy,1,56.01,0,0.0,56.01,Credit Card,False
+ORD-100108,2025-03-21,Lily Martinez,Southwest,Online,Web,Accessories,Silk Scarf,One Size,Charcoal,1,29.92,15,4.49,25.43,Credit Card,False
+ORD-100238,2025-03-21,Aria Lee,Southeast,In-Store,Riverside Plaza,Footwear,Ankle Boots,10,Cream,2,145.04,0,0.0,290.08,Credit Card,False
+ORD-100413,2025-03-22,Ruby Reyes,Midwest,In-Store,Airport Kiosk,Bottoms,Culottes,XS,Black,1,105.35,5,5.27,100.08,PayPal,False
+ORD-100080,2025-03-22,Chloe Andersson,Northeast,In-Store,Westfield Mall,Outerwear,Denim Jacket,M,Burgundy,3,179.94,20,107.96,431.86,Debit Card,False
+ORD-100047,2025-03-22,Nora Jones,West,Online,Web,Bottoms,Pleated Skirt,M,White,1,118.36,0,0.0,118.36,Gift Card,False
+ORD-100729,2025-03-22,Emma Brown,West,In-Store,Westfield Mall,Footwear,Ballet Flats,9,Rust,1,85.7,0,0.0,85.7,Gift Card,False
+ORD-100132,2025-03-23,Hazel Thomas,Southeast,Online,Web,Tops,Button-Up Shirt,L,Burgundy,1,67.44,10,6.74,60.7,Gift Card,False
+ORD-100931,2025-03-23,Zoe Andersson,Midwest,In-Store,Airport Kiosk,Bottoms,Pleated Skirt,L,Rust,3,90.19,20,54.11,216.46,Credit Card,False
+ORD-100524,2025-03-23,Aisha Davis,Southeast,Online,Web,Dresses,Bodycon Dress,L,Rust,1,139.49,0,0.0,139.49,Credit Card,False
+ORD-100153,2025-03-23,Naomi Anderson,Southwest,Online,Web,Tops,Button-Up Shirt,S,Sky Blue,1,41.49,0,0.0,41.49,Debit Card,False
+ORD-100362,2025-03-23,Ella Smith,Southeast,In-Store,Airport Kiosk,Tops,Tank Top,M,Cream,3,58.28,10,17.48,157.36,PayPal,False
+ORD-100439,2025-03-23,Sophia Johnson,Midwest,Online,Web,Tops,Blouse,M,Cream,1,59.43,0,0.0,59.43,Debit Card,False
+ORD-100341,2025-03-24,Amelia Garcia,Midwest,In-Store,Downtown Flagship,Dresses,Shift Dress,L,Charcoal,1,143.86,0,0.0,143.86,PayPal,False
+ORD-100949,2025-03-24,Isabella Lopez,Northeast,In-Store,Westfield Mall,Tops,Blouse,S,Navy,2,53.69,0,0.0,107.38,Credit Card,False
+ORD-100059,2025-03-24,Grace Miller,Northeast,In-Store,Riverside Plaza,Accessories,Sun Hat,One Size,Camel,1,28.4,0,0.0,28.4,Credit Card,False
+ORD-100232,2025-03-24,Naomi Wright,Southeast,In-Store,Airport Kiosk,Dresses,Maxi Dress,M,Olive,1,128.9,10,12.89,116.01,Debit Card,False
+ORD-100086,2025-03-26,Nora Reyes,Midwest,Online,Web,Accessories,Sun Hat,One Size,Charcoal,2,73.63,0,0.0,147.26,Credit Card,False
+ORD-100475,2025-03-26,Aisha Williams,Midwest,Online,Web,Bottoms,Skinny Jeans,L,Lavender,4,39.74,0,0.0,158.96,Gift Card,False
+ORD-100747,2025-03-27,Aisha Brown,Midwest,Online,Web,Accessories,Sun Hat,One Size,Camel,1,43.27,0,0.0,43.27,Credit Card,False
+ORD-100419,2025-03-27,Riley Okafor,West,Online,Web,Tops,Button-Up Shirt,S,Olive,3,23.23,0,0.0,69.69,Gift Card,False
+ORD-100089,2025-03-27,Naomi Patel,Northeast,Online,Web,Footwear,Loafers,8,Lavender,1,48.36,30,14.51,33.85,Apple Pay,False
+ORD-100778,2025-03-28,Lily Reyes,West,In-Store,Downtown Flagship,Dresses,Slip Dress,L,Burgundy,2,140.84,15,42.25,239.43,Debit Card,False
+ORD-100179,2025-03-28,Aria Williams,Midwest,In-Store,Riverside Plaza,Dresses,Bodycon Dress,M,Black,2,88.64,5,8.86,168.42,Apple Pay,False
+ORD-100668,2025-03-28,Abigail Wright,Southeast,In-Store,Airport Kiosk,Dresses,Midi Dress,S,Olive,1,148.16,0,0.0,148.16,PayPal,True
+ORD-100349,2025-03-29,Amelia Reyes,Northeast,In-Store,Downtown Flagship,Dresses,Wrap Dress,XL,Rust,1,109.0,15,16.35,92.65,Credit Card,False
+ORD-100979,2025-03-29,Ava Patel,Northeast,Online,Web,Dresses,Maxi Dress,M,Camel,1,75.2,0,0.0,75.2,Debit Card,False
+ORD-100694,2025-03-30,Aria Miller,Midwest,In-Store,Downtown Flagship,Dresses,Midi Dress,L,White,1,81.44,0,0.0,81.44,Credit Card,False
+ORD-100912,2025-03-30,Chloe Smith,Southeast,Online,Web,Bottoms,Skinny Jeans,XL,Lavender,1,85.17,30,25.55,59.62,Cash,False
+ORD-100055,2025-03-30,Nora Jones,Midwest,In-Store,Airport Kiosk,Activewear,Track Jacket,S,Olive,3,60.16,0,0.0,180.48,PayPal,False
+ORD-100837,2025-03-30,Fatima Lee,Northeast,Online,Web,Accessories,Sun Hat,One Size,Black,1,33.18,20,6.64,26.54,Apple Pay,False
+ORD-100953,2025-03-31,Maya Garcia,Northeast,In-Store,Downtown Flagship,Accessories,Leather Belt,One Size,Mustard,1,48.84,0,0.0,48.84,PayPal,False
+ORD-100862,2025-03-31,Grace Miller,Northeast,Online,Web,Tops,Blouse,M,Olive,1,84.72,0,0.0,84.72,Apple Pay,False
+ORD-100713,2025-04-01,Naomi Thomas,Northeast,Online,Web,Tops,Cami Top,XS,Rust,1,51.78,20,10.36,41.42,Debit Card,False
+ORD-100591,2025-04-01,Mia Nguyen,Northeast,Online,Web,Tops,Button-Up Shirt,S,Camel,1,21.27,0,0.0,21.27,Apple Pay,False
+ORD-100960,2025-04-01,Olivia Davis,Southwest,Online,Web,Bottoms,Culottes,M,Mustard,1,43.15,0,0.0,43.15,Credit Card,False
+ORD-100414,2025-04-02,Emily Martinez,Southwest,Online,Web,Dresses,Shift Dress,XS,Burgundy,1,161.93,0,0.0,161.93,Credit Card,False
+ORD-100626,2025-04-04,Nora Müller,West,In-Store,Riverside Plaza,Bottoms,Wide-Leg Trousers,XXL,Burgundy,1,62.6,0,0.0,62.6,Apple Pay,False
+ORD-100161,2025-04-05,Olivia Singh,Southeast,Online,Web,Footwear,Ballet Flats,6,Navy,1,128.1,0,0.0,128.1,Debit Card,False
+ORD-100599,2025-04-05,Nora Okafor,West,Online,Web,Bottoms,Skinny Jeans,M,Lavender,3,69.54,0,0.0,208.62,Credit Card,False
+ORD-100590,2025-04-05,Ava Diaz,Southwest,Online,Web,Bottoms,Wide-Leg Trousers,M,Rust,3,54.71,0,0.0,164.13,Credit Card,False
+ORD-100476,2025-04-05,Olivia Johnson,West,In-Store,Downtown Flagship,Activewear,Yoga Pants,S,Black,1,54.61,15,8.19,46.42,Gift Card,False
+ORD-100189,2025-04-05,Amelia Rodriguez,West,Online,Web,Tops,Knit Sweater,XS,Emerald,3,67.04,5,10.06,191.06,Credit Card,True
+ORD-100202,2025-04-06,Hazel Nguyen,Northeast,Online,Web,Footwear,Heeled Sandals,6,Blush Pink,3,88.26,0,0.0,264.78,Gift Card,False
+ORD-100571,2025-04-06,Isabella Singh,West,Online,Web,Tops,Cami Top,L,Charcoal,1,65.73,0,0.0,65.73,Debit Card,False
+ORD-100016,2025-04-06,Evelyn Cohen,West,Online,Web,Tops,Knit Sweater,S,Sky Blue,1,80.89,10,8.09,72.8,Credit Card,False
+ORD-100991,2025-04-06,Harper Davis,Southwest,Online,Web,Bottoms,Leggings,M,Charcoal,3,116.95,25,87.71,263.14,Credit Card,False
+ORD-100656,2025-04-07,Ruby Patel,Southwest,Online,Web,Tops,Knit Sweater,L,Cream,3,36.24,20,21.74,86.98,Credit Card,False
+ORD-100976,2025-04-07,Mia Johnson,Northeast,Online,Web,Dresses,Wrap Dress,L,Blush Pink,2,129.92,10,25.98,233.86,Debit Card,False
+ORD-100830,2025-04-07,Aisha Brown,West,In-Store,Downtown Flagship,Tops,Blouse,M,Charcoal,1,32.97,0,0.0,32.97,Credit Card,False
+ORD-100465,2025-04-07,Mei Hernandez,Midwest,In-Store,Westfield Mall,Dresses,Wrap Dress,M,Rust,1,71.34,10,7.13,64.21,Credit Card,False
+ORD-100688,2025-04-08,Charlotte Chen,West,In-Store,Riverside Plaza,Activewear,Yoga Pants,L,Charcoal,2,68.7,0,0.0,137.4,Credit Card,False
+ORD-100722,2025-04-09,Ava Singh,Southwest,Online,Web,Tops,Tunic,XXL,Cream,1,75.89,20,15.18,60.71,Credit Card,False
+ORD-100717,2025-04-09,Hazel Miller,Midwest,Online,Web,Footwear,Sneakers,6,Cream,1,116.39,0,0.0,116.39,Gift Card,False
+ORD-100370,2025-04-09,Lily Hernandez,Southwest,Online,Web,Tops,Button-Up Shirt,S,Charcoal,1,75.72,0,0.0,75.72,Debit Card,False
+ORD-100934,2025-04-10,Fatima Andersson,Northeast,Online,Web,Bottoms,Wide-Leg Trousers,S,Camel,2,88.71,0,0.0,177.42,Credit Card,False
+ORD-100658,2025-04-11,Aurora Chen,Northeast,In-Store,Downtown Flagship,Tops,Blouse,XS,Charcoal,1,47.86,0,0.0,47.86,PayPal,False
+ORD-100422,2025-04-11,Ava Williams,Southeast,In-Store,Airport Kiosk,Tops,Blouse,S,Burgundy,1,31.96,0,0.0,31.96,Credit Card,False
+ORD-100495,2025-04-12,Zoe Jones,Midwest,In-Store,Downtown Flagship,Accessories,Statement Earrings,One Size,Olive,2,16.7,15,5.01,28.39,Credit Card,False
+ORD-100100,2025-04-12,Aurora Martinez,West,In-Store,Riverside Plaza,Dresses,Maxi Dress,XL,Blush Pink,1,164.93,20,32.99,131.94,PayPal,False
+ORD-100582,2025-04-12,Priya Rodriguez,Northeast,In-Store,Downtown Flagship,Dresses,Slip Dress,L,Black,1,61.07,10,6.11,54.96,Credit Card,False
+ORD-100313,2025-04-12,Naomi Andersson,Southeast,Online,Web,Outerwear,Cardigan,XXL,Camel,1,152.73,0,0.0,152.73,Credit Card,False
+ORD-100560,2025-04-12,Olivia Davis,West,Online,Web,Bottoms,Skinny Jeans,S,Rust,3,60.37,0,0.0,181.11,Apple Pay,False
+ORD-100359,2025-04-12,Ava Hernandez,Southwest,Online,Web,Dresses,Maxi Dress,S,Sky Blue,2,65.43,40,52.34,78.52,Credit Card,False
+ORD-100224,2025-04-13,Amelia Müller,Southwest,Online,Web,Tops,Button-Up Shirt,S,Charcoal,1,28.79,0,0.0,28.79,PayPal,False
+ORD-100365,2025-04-13,Aisha Davis,Southwest,Online,Web,Tops,Button-Up Shirt,S,Cream,1,67.17,20,13.43,53.74,PayPal,False
+ORD-100536,2025-04-13,Fatima Nguyen,Northeast,Online,Web,Tops,Blouse,L,Charcoal,1,41.26,0,0.0,41.26,Debit Card,False
+ORD-100569,2025-04-13,Layla Hernandez,Southeast,In-Store,Westfield Mall,Activewear,Track Jacket,M,Burgundy,2,67.82,0,0.0,135.64,Credit Card,False
+ORD-100504,2025-04-15,Nora Cohen,West,Online,Web,Outerwear,Trench Coat,S,Lavender,1,116.86,15,17.53,99.33,PayPal,False
+ORD-100435,2025-04-15,Aisha Reyes,Southwest,In-Store,Westfield Mall,Accessories,Statement Earrings,One Size,Emerald,1,67.47,0,0.0,67.47,Credit Card,False
+ORD-100731,2025-04-17,Mei Müller,Midwest,In-Store,Downtown Flagship,Activewear,Running Shorts,S,Burgundy,1,87.47,15,13.12,74.35,Credit Card,False
+ORD-100065,2025-04-17,Olivia Cohen,Southeast,In-Store,Riverside Plaza,Dresses,Wrap Dress,S,Burgundy,3,125.42,0,0.0,376.26,PayPal,False
+ORD-100399,2025-04-17,Riley Rossi,Northeast,Online,Web,Tops,Blouse,S,Charcoal,1,58.71,0,0.0,58.71,PayPal,False
+ORD-100846,2025-04-18,Charlotte Wright,West,In-Store,Westfield Mall,Activewear,Sports Bra,M,Blush Pink,1,39.5,5,1.98,37.52,Credit Card,False
+ORD-100445,2025-04-18,Evelyn Wilson,Southeast,In-Store,Westfield Mall,Dresses,Shift Dress,M,Olive,1,85.99,5,4.3,81.69,PayPal,False
+ORD-100804,2025-04-18,Lily Martinez,West,In-Store,Airport Kiosk,Tops,Blouse,S,Blush Pink,1,68.39,0,0.0,68.39,Apple Pay,False
+ORD-100546,2025-04-18,Harper Diaz,Southwest,Online,Web,Tops,Knit Sweater,S,Lavender,2,83.36,0,0.0,166.72,Apple Pay,False
+ORD-100206,2025-04-19,Emily Chen,Southwest,In-Store,Westfield Mall,Tops,Tank Top,S,White,1,83.05,0,0.0,83.05,Cash,False
+ORD-100460,2025-04-19,Naomi Wright,Midwest,Online,Web,Accessories,Sun Hat,One Size,Emerald,2,15.94,20,6.38,25.5,Gift Card,False
+ORD-100462,2025-04-20,Harper Garcia,Southeast,In-Store,Riverside Plaza,Dresses,Wrap Dress,M,Lavender,1,162.99,0,0.0,162.99,Debit Card,False
+ORD-100907,2025-04-20,Olivia Singh,West,In-Store,Riverside Plaza,Accessories,Leather Belt,One Size,Charcoal,1,32.24,10,3.22,29.02,Credit Card,True
+ORD-100326,2025-04-20,Amelia Davis,Southeast,In-Store,Downtown Flagship,Footwear,Ankle Boots,7,Rust,1,120.28,0,0.0,120.28,Cash,False
+ORD-100167,2025-04-20,Aisha Lopez,Southeast,Online,Web,Tops,Button-Up Shirt,XS,Emerald,1,52.76,0,0.0,52.76,Debit Card,False
+ORD-100329,2025-04-20,Charlotte Patel,Southwest,Online,Web,Tops,Blouse,XL,Blush Pink,1,55.11,10,5.51,49.6,Apple Pay,False
+ORD-100541,2025-04-21,Emily Diaz,Southwest,Online,Web,Dresses,Shift Dress,M,Sky Blue,1,88.84,20,17.77,71.07,Debit Card,False
+ORD-100969,2025-04-21,Abigail Andersson,West,In-Store,Westfield Mall,Dresses,Bodycon Dress,XL,Mustard,1,136.08,0,0.0,136.08,PayPal,False
+ORD-100268,2025-04-21,Naomi Wright,West,In-Store,Downtown Flagship,Tops,Blouse,M,Charcoal,2,53.85,15,16.16,91.54,Debit Card,False
+ORD-100146,2025-04-23,Aurora Wright,Northeast,In-Store,Riverside Plaza,Outerwear,Cardigan,M,Mustard,1,74.81,15,11.22,63.59,Gift Card,False
+ORD-100207,2025-04-24,Sophia Williams,Midwest,Online,Web,Dresses,Bodycon Dress,M,Mustard,1,80.42,0,0.0,80.42,Debit Card,False
+ORD-100239,2025-04-24,Emma Nguyen,Southeast,In-Store,Downtown Flagship,Activewear,Track Jacket,S,Camel,1,88.04,0,0.0,88.04,Debit Card,False
+ORD-100944,2025-04-24,Aurora Martinez,West,Online,Web,Footwear,Ankle Boots,10,Blush Pink,4,72.28,0,0.0,289.12,Debit Card,False
+ORD-100071,2025-04-26,Lily Davis,Northeast,Online,Web,Tops,Tank Top,S,Rust,1,82.07,0,0.0,82.07,Credit Card,False
+ORD-100570,2025-04-26,Aisha Johnson,Midwest,Online,Web,Tops,Knit Sweater,S,Blush Pink,1,34.43,0,0.0,34.43,Debit Card,False
+ORD-100508,2025-04-26,Riley Rossi,Southeast,Online,Web,Outerwear,Denim Jacket,M,Sky Blue,2,128.25,5,12.82,243.68,Debit Card,False
+ORD-100574,2025-04-26,Nora Reyes,West,In-Store,Airport Kiosk,Bottoms,Wide-Leg Trousers,L,Rust,1,96.58,40,38.63,57.95,Credit Card,False
+ORD-100843,2025-04-26,Nora Wilson,Midwest,Online,Web,Dresses,Maxi Dress,XXL,Olive,2,85.24,50,85.24,85.24,Credit Card,False
+ORD-100768,2025-04-26,Zoe Miller,West,Online,Web,Footwear,Heeled Sandals,5,Cream,1,134.77,0,0.0,134.77,Credit Card,False
+ORD-100529,2025-04-26,Lily Kim,Midwest,Online,Web,Accessories,Leather Belt,One Size,Camel,1,47.15,30,14.14,33.01,Credit Card,False
+ORD-100681,2025-04-26,Sophia Gonzalez,Southeast,In-Store,Riverside Plaza,Outerwear,Denim Jacket,M,Camel,1,145.38,50,72.69,72.69,Credit Card,False
+ORD-100763,2025-04-27,Ruby Reyes,West,In-Store,Riverside Plaza,Activewear,Track Jacket,S,Emerald,2,64.68,0,0.0,129.36,Debit Card,False
+ORD-100223,2025-04-27,Aria Andersson,Northeast,In-Store,Downtown Flagship,Tops,Tank Top,XL,Lavender,4,63.9,0,0.0,255.6,PayPal,False
+ORD-100619,2025-04-27,Aisha Davis,Northeast,In-Store,Westfield Mall,Dresses,Midi Dress,S,White,2,151.69,0,0.0,303.38,PayPal,False
+ORD-100154,2025-04-27,Sophia Wright,Midwest,In-Store,Downtown Flagship,Tops,Blouse,XS,Mustard,1,24.22,0,0.0,24.22,Debit Card,False
+ORD-100609,2025-04-27,Charlotte Singh,Midwest,In-Store,Riverside Plaza,Tops,Blouse,M,Lavender,2,63.3,10,12.66,113.94,Apple Pay,True
+ORD-100385,2025-04-27,Grace Garcia,Midwest,Online,Web,Outerwear,Cardigan,M,Burgundy,1,141.72,0,0.0,141.72,Apple Pay,False
+ORD-100589,2025-04-28,Emily Diaz,West,Online,Web,Footwear,Heeled Sandals,9,Cream,1,40.42,0,0.0,40.42,Credit Card,False
+ORD-100494,2025-04-28,Ava Kim,Northeast,Online,Web,Accessories,Statement Earrings,One Size,Camel,1,53.01,30,15.9,37.11,PayPal,False
+ORD-100608,2025-04-29,Riley Wilson,Midwest,Online,Web,Dresses,Shift Dress,S,Sky Blue,1,122.98,0,0.0,122.98,Credit Card,False
+ORD-100474,2025-04-29,Olivia Davis,West,Online,Web,Dresses,Shift Dress,M,Rust,1,147.02,0,0.0,147.02,Credit Card,False
+ORD-100014,2025-04-29,Charlotte Singh,Northeast,In-Store,Airport Kiosk,Tops,Tank Top,S,Navy,1,81.94,0,0.0,81.94,Debit Card,False
+ORD-100787,2025-04-30,Maya Garcia,Southwest,Online,Web,Tops,Tunic,M,Sky Blue,1,61.06,0,0.0,61.06,Debit Card,False
+ORD-100667,2025-04-30,Aurora Diaz,Southwest,In-Store,Westfield Mall,Dresses,Midi Dress,M,Emerald,1,175.15,0,0.0,175.15,Gift Card,False
+ORD-100563,2025-05-01,Harper Singh,Midwest,In-Store,Riverside Plaza,Activewear,Track Jacket,XL,Charcoal,2,31.17,0,0.0,62.34,Debit Card,False
+ORD-100211,2025-05-02,Riley Chen,West,In-Store,Downtown Flagship,Bottoms,Wide-Leg Trousers,S,Sky Blue,1,99.56,0,0.0,99.56,Apple Pay,False
+ORD-100368,2025-05-02,Lily Davis,Northeast,Online,Web,Footwear,Heeled Sandals,8,Lavender,1,120.64,0,0.0,120.64,Debit Card,False
+ORD-100708,2025-05-02,Priya Rodriguez,Southeast,In-Store,Riverside Plaza,Activewear,Sports Bra,XS,Mustard,2,70.2,10,14.04,126.36,Cash,False
+ORD-100405,2025-05-02,Priya Williams,Midwest,Online,Web,Bottoms,Denim Shorts,M,Burgundy,1,86.12,10,8.61,77.51,Cash,False
+ORD-100567,2025-05-02,Fatima Andersson,West,Online,Web,Bottoms,Skinny Jeans,M,Mustard,1,54.38,0,0.0,54.38,PayPal,False
+ORD-100666,2025-05-03,Fatima Andersson,West,In-Store,Westfield Mall,Footwear,Ankle Boots,5,Lavender,1,142.82,30,42.85,99.97,Credit Card,False
+ORD-100523,2025-05-03,Hazel Diaz,West,In-Store,Westfield Mall,Tops,Knit Sweater,L,Cream,1,37.35,0,0.0,37.35,PayPal,True
+ORD-100129,2025-05-03,Aurora Diaz,Southwest,In-Store,Downtown Flagship,Dresses,Midi Dress,XXL,Burgundy,1,82.29,0,0.0,82.29,PayPal,False
+ORD-100963,2025-05-03,Naomi Brown,Southeast,Online,Web,Accessories,Tote Bag,One Size,Lavender,1,44.74,0,0.0,44.74,PayPal,False
+ORD-100049,2025-05-04,Ruby Garcia,Midwest,In-Store,Downtown Flagship,Bottoms,Culottes,M,Blush Pink,4,118.7,0,0.0,474.8,Gift Card,False
+ORD-100261,2025-05-04,Amelia Jones,West,Online,Web,Accessories,Sun Hat,One Size,Mustard,4,41.77,15,25.06,142.02,Credit Card,True
+ORD-100797,2025-05-04,Naomi Patel,Northeast,In-Store,Westfield Mall,Accessories,Statement Earrings,One Size,Sky Blue,2,31.61,0,0.0,63.22,PayPal,False
+ORD-100598,2025-05-05,Isabella Miller,West,In-Store,Riverside Plaza,Accessories,Statement Earrings,One Size,Charcoal,1,13.77,30,4.13,9.64,Debit Card,False
+ORD-100955,2025-05-05,Lily Williams,Southeast,In-Store,Riverside Plaza,Bottoms,Culottes,L,Lavender,3,36.26,25,27.2,81.58,Debit Card,False
+ORD-100857,2025-05-06,Ella Rossi,Southeast,In-Store,Westfield Mall,Tops,Cami Top,S,Sky Blue,2,58.04,25,29.02,87.06,Credit Card,False
+ORD-100251,2025-05-06,Amelia Rodriguez,Midwest,In-Store,Airport Kiosk,Tops,Cami Top,S,Cream,3,62.02,25,46.52,139.54,Debit Card,False
+ORD-100691,2025-05-06,Olivia Garcia,Midwest,In-Store,Westfield Mall,Activewear,Track Jacket,XL,Navy,4,57.94,15,34.76,197.0,Credit Card,False
+ORD-100517,2025-05-06,Olivia Okafor,Southwest,In-Store,Airport Kiosk,Outerwear,Cardigan,M,Black,1,70.13,0,0.0,70.13,Apple Pay,False
+ORD-100444,2025-05-07,Riley Wilson,Southwest,In-Store,Westfield Mall,Bottoms,Leggings,XS,Navy,1,80.09,0,0.0,80.09,Credit Card,True
+ORD-100187,2025-05-08,Emily Nguyen,Northeast,In-Store,Airport Kiosk,Bottoms,Culottes,XS,Rust,1,112.73,10,11.27,101.46,Credit Card,False
+ORD-100703,2025-05-09,Charlotte Patel,West,In-Store,Riverside Plaza,Dresses,Maxi Dress,XL,Charcoal,2,86.08,0,0.0,172.16,Debit Card,False
+ORD-100686,2025-05-09,Priya Patel,Southeast,Online,Web,Dresses,Slip Dress,S,Cream,1,91.42,0,0.0,91.42,Credit Card,False
+ORD-100303,2025-05-09,Aisha Rossi,Southeast,In-Store,Westfield Mall,Dresses,Wrap Dress,S,Rust,1,178.4,25,44.6,133.8,PayPal,False
+ORD-100376,2025-05-10,Mei Andersson,Southeast,Online,Web,Outerwear,Blazer,S,Olive,2,154.32,0,0.0,308.64,Debit Card,False
+ORD-100424,2025-05-10,Naomi Thomas,Southeast,In-Store,Airport Kiosk,Outerwear,Puffer Jacket,S,Camel,1,225.89,0,0.0,225.89,Credit Card,False
+ORD-100084,2025-05-10,Riley Chen,Southeast,Online,Web,Accessories,Leather Belt,One Size,Lavender,1,24.76,0,0.0,24.76,Debit Card,False
+ORD-100017,2025-05-10,Aurora Williams,Northeast,In-Store,Airport Kiosk,Footwear,Ballet Flats,6,Burgundy,1,100.09,5,5.0,95.09,Debit Card,False
+ORD-100304,2025-05-11,Chloe Jones,Northeast,Online,Web,Footwear,Ankle Boots,7,Mustard,2,155.35,0,0.0,310.7,PayPal,False
+ORD-100048,2025-05-11,Ruby Patel,Southeast,Online,Web,Dresses,Shift Dress,M,Lavender,1,143.88,0,0.0,143.88,PayPal,False
+ORD-100389,2025-05-11,Ava Diaz,Southeast,In-Store,Downtown Flagship,Tops,Knit Sweater,L,Rust,1,70.39,15,10.56,59.83,Credit Card,False
+ORD-100576,2025-05-15,Fatima Nguyen,Southeast,Online,Web,Bottoms,Skinny Jeans,M,Camel,1,77.82,15,11.67,66.15,Credit Card,False
+ORD-100726,2025-05-16,Evelyn Cohen,Southeast,Online,Web,Footwear,Ankle Boots,5,Black,1,98.51,15,14.78,83.73,Cash,False
+ORD-100704,2025-05-16,Emily Diaz,Northeast,In-Store,Downtown Flagship,Dresses,Maxi Dress,L,Charcoal,2,150.78,0,0.0,301.56,Credit Card,False
+ORD-100547,2025-05-17,Nora Johnson,Southwest,Online,Web,Dresses,Wrap Dress,L,Rust,1,81.56,0,0.0,81.56,PayPal,False
+ORD-100418,2025-05-17,Naomi Wright,Southwest,Online,Web,Bottoms,Wide-Leg Trousers,S,Olive,2,48.13,10,9.63,86.63,Apple Pay,False
+ORD-100240,2025-05-17,Sophia Lopez,Northeast,Online,Web,Activewear,Running Shorts,L,Olive,2,67.5,0,0.0,135.0,Debit Card,False
+ORD-100855,2025-05-18,Mei Reyes,Midwest,In-Store,Downtown Flagship,Accessories,Statement Earrings,One Size,Blush Pink,1,58.48,40,23.39,35.09,Cash,False
+ORD-100410,2025-05-18,Amelia Müller,Midwest,Online,Web,Dresses,Maxi Dress,S,Camel,3,104.33,10,31.3,281.69,Apple Pay,False
+ORD-100097,2025-05-18,Mia Andersson,Northeast,In-Store,Westfield Mall,Bottoms,Skinny Jeans,S,Navy,1,64.68,0,0.0,64.68,Credit Card,False
+ORD-100141,2025-05-18,Fatima Martinez,Southeast,Online,Web,Activewear,Running Shorts,M,Camel,1,59.55,30,17.86,41.69,Debit Card,False
+ORD-100620,2025-05-19,Riley Chen,Southeast,Online,Web,Tops,Tank Top,S,Emerald,1,76.95,10,7.7,69.25,Credit Card,False
+ORD-100342,2025-05-19,Emma Singh,Northeast,In-Store,Downtown Flagship,Activewear,Track Jacket,M,Mustard,2,55.96,0,0.0,111.92,Gift Card,True
+ORD-100684,2025-05-19,Isabella Rodriguez,Southeast,In-Store,Westfield Mall,Bottoms,Wide-Leg Trousers,XS,Olive,2,76.53,0,0.0,153.06,Debit Card,False
+ORD-100899,2025-05-20,Emma Singh,Northeast,Online,Web,Bottoms,Pleated Skirt,XS,Cream,1,96.25,15,14.44,81.81,Debit Card,True
+ORD-100984,2025-05-21,Fatima Garcia,Southeast,In-Store,Riverside Plaza,Activewear,Track Jacket,M,Navy,2,48.16,15,14.45,81.87,Credit Card,False
+ORD-100532,2025-05-21,Riley Chen,Midwest,Online,Web,Bottoms,Leggings,M,Olive,2,102.56,50,102.56,102.56,Gift Card,True
+ORD-100249,2025-05-21,Fatima Andersson,West,Online,Web,Activewear,Track Jacket,S,White,1,45.56,0,0.0,45.56,Apple Pay,False
+ORD-100464,2025-05-21,Olivia Davis,Southwest,Online,Web,Bottoms,Denim Shorts,M,Burgundy,1,76.23,20,15.25,60.98,Credit Card,False
+ORD-100854,2025-05-22,Zoe Smith,Midwest,Online,Web,Activewear,Sports Bra,S,White,1,27.17,10,2.72,24.45,PayPal,False
+ORD-100773,2025-05-23,Riley Wilson,West,In-Store,Westfield Mall,Outerwear,Trench Coat,L,Rust,1,168.92,0,0.0,168.92,Credit Card,False
+ORD-100888,2025-05-23,Nora Johnson,West,In-Store,Westfield Mall,Dresses,Wrap Dress,S,Blush Pink,1,135.21,0,0.0,135.21,Credit Card,False
+ORD-100674,2025-05-23,Sophia Lopez,Northeast,In-Store,Downtown Flagship,Tops,Button-Up Shirt,M,Sky Blue,4,54.37,0,0.0,217.48,Debit Card,False
+ORD-100248,2025-05-23,Fatima Wright,Northeast,Online,Web,Accessories,Tote Bag,One Size,Black,1,69.13,0,0.0,69.13,Credit Card,False
+ORD-100241,2025-05-24,Sophia Kim,Midwest,In-Store,Westfield Mall,Dresses,Shift Dress,L,Blush Pink,2,127.4,0,0.0,254.8,PayPal,False
+ORD-100090,2025-05-24,Aisha Davis,Southeast,In-Store,Riverside Plaza,Outerwear,Denim Jacket,XXL,Sky Blue,1,258.41,0,0.0,258.41,Debit Card,False
+ORD-100472,2025-05-25,Grace Jones,Northeast,In-Store,Riverside Plaza,Dresses,Midi Dress,L,Blush Pink,1,103.08,0,0.0,103.08,Credit Card,False
+ORD-100356,2025-05-25,Grace Garcia,West,In-Store,Downtown Flagship,Tops,Knit Sweater,S,Blush Pink,1,32.14,0,0.0,32.14,Credit Card,False
+ORD-100853,2025-05-25,Aria Andersson,Northeast,Online,Web,Dresses,Shift Dress,M,Burgundy,2,132.04,0,0.0,264.08,PayPal,False
+ORD-100137,2025-05-26,Chloe Brown,West,In-Store,Downtown Flagship,Footwear,Loafers,9,Burgundy,4,126.62,0,0.0,506.48,Credit Card,False
+ORD-100480,2025-05-26,Emma Nguyen,Northeast,In-Store,Westfield Mall,Bottoms,Leggings,S,Charcoal,1,66.28,0,0.0,66.28,Credit Card,False
+ORD-100919,2025-05-26,Mei Andersson,West,Online,Web,Outerwear,Puffer Jacket,S,Navy,1,143.35,0,0.0,143.35,Credit Card,False
+ORD-100244,2025-05-27,Grace Jones,Southeast,In-Store,Airport Kiosk,Bottoms,Denim Shorts,S,Blush Pink,1,81.37,0,0.0,81.37,Gift Card,False
+ORD-100921,2025-05-28,Abigail Müller,Midwest,In-Store,Riverside Plaza,Activewear,Sports Bra,S,Sky Blue,4,44.58,0,0.0,178.32,Credit Card,False
+ORD-100914,2025-05-28,Aisha Brown,Northeast,Online,Web,Bottoms,Culottes,XS,Sky Blue,1,81.99,10,8.2,73.79,Gift Card,False
+ORD-100883,2025-05-29,Mia Wilson,Northeast,In-Store,Westfield Mall,Accessories,Silk Scarf,One Size,Olive,1,42.18,25,10.54,31.64,PayPal,True
+ORD-100583,2025-05-29,Grace Johnson,Southeast,Online,Web,Accessories,Statement Earrings,One Size,Cream,1,36.56,0,0.0,36.56,Credit Card,False
+ORD-100727,2025-05-29,Grace Diaz,Midwest,Online,Web,Activewear,Track Jacket,L,Black,2,64.53,15,19.36,109.7,Credit Card,False
+ORD-100171,2025-05-30,Fatima Lopez,Midwest,Online,Web,Outerwear,Trench Coat,M,Blush Pink,1,258.56,0,0.0,258.56,Credit Card,False
+ORD-100639,2025-05-30,Fatima Lee,Midwest,Online,Web,Bottoms,Wide-Leg Trousers,S,Olive,4,30.79,20,24.63,98.53,Credit Card,False
+ORD-100987,2025-05-30,Aurora Hernandez,Northeast,Online,Web,Tops,Button-Up Shirt,XL,Black,1,36.91,0,0.0,36.91,Credit Card,False
+ORD-100117,2025-05-30,Charlotte Rodriguez,Southeast,In-Store,Riverside Plaza,Tops,Tank Top,M,Olive,1,70.1,0,0.0,70.1,Credit Card,False
+ORD-100110,2025-05-31,Ella Brown,Midwest,In-Store,Downtown Flagship,Dresses,Maxi Dress,XL,Mustard,2,132.98,0,0.0,265.96,Cash,True
+ORD-100646,2025-05-31,Fatima Garcia,Midwest,Online,Web,Outerwear,Blazer,S,Lavender,1,255.22,0,0.0,255.22,Credit Card,False
+ORD-100808,2025-06-01,Hazel Davis,Northeast,Online,Web,Tops,Button-Up Shirt,L,Navy,1,51.77,10,5.18,46.59,Credit Card,False
+ORD-100330,2025-06-01,Aurora Rossi,West,Online,Web,Bottoms,Skinny Jeans,XL,Cream,1,91.81,0,0.0,91.81,Credit Card,False
+ORD-100194,2025-06-01,Lily Martinez,Southwest,Online,Web,Accessories,Silk Scarf,One Size,Lavender,1,62.76,10,6.28,56.48,Cash,False
+ORD-100645,2025-06-01,Evelyn Davis,Southeast,Online,Web,Accessories,Sun Hat,One Size,Navy,4,51.31,10,20.52,184.72,Debit Card,False
+ORD-100114,2025-06-03,Emily Anderson,Midwest,In-Store,Airport Kiosk,Bottoms,Leggings,M,Emerald,1,71.08,5,3.55,67.53,Apple Pay,False
+ORD-100438,2025-06-03,Olivia Andersson,West,Online,Web,Tops,Button-Up Shirt,S,Mustard,1,79.49,0,0.0,79.49,Debit Card,False
+ORD-100920,2025-06-03,Layla Garcia,Southeast,In-Store,Downtown Flagship,Accessories,Statement Earrings,One Size,Mustard,1,21.12,10,2.11,19.01,Debit Card,False
+ORD-100702,2025-06-03,Olivia Davis,Midwest,In-Store,Westfield Mall,Bottoms,Culottes,M,Sky Blue,1,36.08,0,0.0,36.08,Apple Pay,False
+ORD-100133,2025-06-04,Ella Jones,West,Online,Web,Tops,Tank Top,S,Charcoal,1,37.82,0,0.0,37.82,Credit Card,False
+ORD-100698,2025-06-04,Nora Müller,Southwest,Online,Web,Tops,Tunic,L,White,2,76.12,0,0.0,152.24,PayPal,False
+ORD-100231,2025-06-05,Hazel Kim,Southeast,Online,Web,Tops,Tank Top,M,Cream,1,68.61,0,0.0,68.61,Credit Card,False
+ORD-100243,2025-06-05,Emily Anderson,Northeast,In-Store,Downtown Flagship,Tops,Tunic,L,Olive,2,77.8,0,0.0,155.6,Credit Card,False
+ORD-100091,2025-06-05,Aisha Rossi,West,In-Store,Airport Kiosk,Tops,Cami Top,L,White,2,71.19,0,0.0,142.38,Debit Card,False
+ORD-100779,2025-06-05,Priya Patel,Northeast,Online,Web,Tops,Button-Up Shirt,XS,Mustard,1,44.6,0,0.0,44.6,Credit Card,False
+ORD-100842,2025-06-07,Aria Anderson,Northeast,Online,Web,Activewear,Running Shorts,M,Cream,3,56.6,0,0.0,169.8,Credit Card,False
+ORD-100402,2025-06-07,Maya Johnson,Northeast,Online,Web,Bottoms,Leggings,M,Emerald,1,84.83,5,4.24,80.59,Debit Card,False
+ORD-100575,2025-06-07,Harper Diaz,Midwest,In-Store,Downtown Flagship,Dresses,Shift Dress,XXL,Lavender,2,132.23,0,0.0,264.46,PayPal,False
+ORD-100209,2025-06-07,Mei Wright,Southeast,In-Store,Westfield Mall,Tops,Cami Top,XL,White,2,69.9,40,55.92,83.88,Apple Pay,False
+ORD-100923,2025-06-07,Emma Müller,Northeast,Online,Web,Tops,Button-Up Shirt,L,Charcoal,1,42.03,0,0.0,42.03,Debit Card,False
+ORD-100035,2025-06-08,Charlotte Reyes,West,Online,Web,Activewear,Yoga Pants,XL,Black,1,65.95,10,6.59,59.36,Debit Card,False
+ORD-100535,2025-06-08,Fatima Wilson,Southwest,Online,Web,Tops,Cami Top,M,White,1,44.97,0,0.0,44.97,PayPal,False
+ORD-100649,2025-06-08,Nora Okafor,West,In-Store,Airport Kiosk,Tops,Tank Top,S,Emerald,1,58.55,0,0.0,58.55,Debit Card,False
+ORD-100616,2025-06-08,Layla Garcia,Southeast,In-Store,Riverside Plaza,Dresses,Slip Dress,M,Olive,1,141.24,0,0.0,141.24,Apple Pay,False
+ORD-100281,2025-06-09,Harper Johnson,Northeast,In-Store,Westfield Mall,Activewear,Yoga Pants,M,Mustard,1,38.56,0,0.0,38.56,Gift Card,False
+ORD-100961,2025-06-09,Sophia Wright,Southwest,Online,Web,Dresses,Bodycon Dress,S,White,1,130.25,10,13.03,117.22,Credit Card,False
+ORD-100128,2025-06-10,Charlotte Wilson,West,In-Store,Westfield Mall,Tops,Blouse,L,Lavender,1,74.22,0,0.0,74.22,Credit Card,False
+ORD-100116,2025-06-10,Charlotte Patel,Southeast,Online,Web,Bottoms,Leggings,S,White,2,86.34,0,0.0,172.68,Credit Card,False
+ORD-100635,2025-06-10,Zoe Andersson,Midwest,Online,Web,Tops,Tunic,M,Navy,1,35.92,0,0.0,35.92,Credit Card,False
+ORD-100451,2025-06-10,Nora Cohen,Southeast,In-Store,Westfield Mall,Accessories,Statement Earrings,One Size,Mustard,2,15.38,25,7.69,23.07,Apple Pay,False
+ORD-100185,2025-06-11,Harper Wright,West,Online,Web,Bottoms,Culottes,S,Camel,1,57.69,5,2.88,54.81,PayPal,False
+ORD-100789,2025-06-12,Fatima Lopez,Northeast,In-Store,Downtown Flagship,Dresses,Wrap Dress,S,Burgundy,2,177.9,0,0.0,355.8,Credit Card,False
+ORD-100983,2025-06-12,Aisha Johnson,Southeast,Online,Web,Activewear,Yoga Pants,L,Olive,1,41.54,0,0.0,41.54,Credit Card,False
+ORD-100538,2025-06-12,Emily Kim,West,Online,Web,Outerwear,Denim Jacket,M,Emerald,1,247.29,0,0.0,247.29,Debit Card,True
+ORD-100776,2025-06-12,Chloe Anderson,Northeast,In-Store,Riverside Plaza,Outerwear,Blazer,M,Navy,2,71.33,0,0.0,142.66,Cash,False
+ORD-100978,2025-06-13,Hazel Brown,Northeast,Online,Web,Tops,Knit Sweater,M,Charcoal,1,74.85,0,0.0,74.85,Credit Card,False
+ORD-100820,2025-06-13,Mia Rodriguez,Southwest,In-Store,Riverside Plaza,Bottoms,Skinny Jeans,M,Lavender,2,80.82,0,0.0,161.64,Debit Card,False
+ORD-100886,2025-06-13,Aisha Rossi,Midwest,In-Store,Westfield Mall,Activewear,Sports Bra,M,Cream,1,87.18,0,0.0,87.18,Credit Card,False
+ORD-100107,2025-06-13,Aria Johnson,Southeast,Online,Web,Tops,Button-Up Shirt,L,Camel,1,26.57,0,0.0,26.57,Credit Card,False
+ORD-100328,2025-06-15,Amelia Nguyen,Midwest,Online,Web,Tops,Tank Top,XS,Emerald,1,31.36,0,0.0,31.36,Credit Card,False
+ORD-100124,2025-06-15,Priya Wright,Southeast,In-Store,Riverside Plaza,Tops,Blouse,L,Blush Pink,1,35.66,15,5.35,30.31,Credit Card,False
+ORD-100482,2025-06-15,Olivia Smith,West,In-Store,Westfield Mall,Bottoms,Culottes,M,Mustard,2,51.74,20,20.7,82.78,Credit Card,False
+ORD-100999,2025-06-16,Fatima Nguyen,West,Online,Web,Bottoms,Pleated Skirt,XS,Charcoal,1,59.64,0,0.0,59.64,Gift Card,False
+ORD-100748,2025-06-17,Amelia Reyes,Southeast,Online,Web,Outerwear,Trench Coat,L,Navy,1,119.76,0,0.0,119.76,Apple Pay,False
+ORD-100125,2025-06-17,Ella Brown,West,Online,Web,Footwear,Sneakers,8,Lavender,3,99.75,0,0.0,299.25,Gift Card,False
+ORD-100258,2025-06-18,Ruby Patel,West,In-Store,Riverside Plaza,Bottoms,Leggings,L,White,1,43.18,10,4.32,38.86,PayPal,False
+ORD-100966,2025-06-18,Harper Johnson,Southeast,In-Store,Downtown Flagship,Tops,Cami Top,XXL,Rust,1,56.07,0,0.0,56.07,Credit Card,False
+ORD-100744,2025-06-18,Aria Williams,Midwest,Online,Web,Bottoms,Denim Shorts,L,Black,2,107.7,0,0.0,215.4,PayPal,False
+ORD-100041,2025-06-18,Ava Williams,Southeast,In-Store,Downtown Flagship,Dresses,Maxi Dress,XL,Sky Blue,1,156.67,0,0.0,156.67,Cash,False
+ORD-100705,2025-06-18,Charlotte Wilson,Northeast,In-Store,Riverside Plaza,Activewear,Yoga Pants,XL,Sky Blue,1,47.39,0,0.0,47.39,Credit Card,False
+ORD-100971,2025-06-19,Isabella Chen,Northeast,Online,Web,Accessories,Tote Bag,One Size,Emerald,1,55.03,0,0.0,55.03,Debit Card,False
+ORD-100459,2025-06-19,Abigail Wilson,Southwest,In-Store,Riverside Plaza,Bottoms,Wide-Leg Trousers,XL,Emerald,2,76.74,0,0.0,153.48,Debit Card,False
+ORD-100324,2025-06-19,Ella Brown,Southeast,Online,Web,Activewear,Yoga Pants,L,Camel,2,86.55,0,0.0,173.1,PayPal,False
+ORD-100799,2025-06-20,Olivia Singh,Northeast,Online,Web,Dresses,Shift Dress,M,Olive,3,65.24,50,97.86,97.86,Cash,False
+ORD-100437,2025-06-20,Chloe Lopez,Northeast,In-Store,Riverside Plaza,Bottoms,Denim Shorts,M,Charcoal,1,39.1,50,19.55,19.55,Credit Card,False
+ORD-100628,2025-06-20,Ava Diaz,Midwest,In-Store,Airport Kiosk,Bottoms,Leggings,S,Burgundy,3,83.76,40,100.51,150.77,Apple Pay,False
+ORD-100227,2025-06-21,Amelia Rodriguez,West,In-Store,Riverside Plaza,Outerwear,Cardigan,XS,Emerald,1,67.99,0,0.0,67.99,Credit Card,False
+ORD-100791,2025-06-21,Zoe Jones,Northeast,In-Store,Downtown Flagship,Outerwear,Denim Jacket,S,Sky Blue,1,202.25,15,30.34,171.91,Credit Card,False
+ORD-100300,2025-06-21,Emma Singh,Southwest,Online,Web,Accessories,Tote Bag,One Size,Lavender,2,39.18,0,0.0,78.36,PayPal,False
+ORD-100415,2025-06-21,Olivia Davis,Northeast,Online,Web,Footwear,Ballet Flats,9,Sky Blue,1,93.17,0,0.0,93.17,Credit Card,False
+ORD-100312,2025-06-21,Fatima Brown,West,Online,Web,Tops,Blouse,S,Burgundy,1,33.24,0,0.0,33.24,Credit Card,True
+ORD-100210,2025-06-21,Emily Wilson,Southwest,In-Store,Westfield Mall,Tops,Cami Top,M,Camel,2,63.38,20,25.35,101.41,Credit Card,False
+ORD-100766,2025-06-22,Isabella Rodriguez,West,Online,Web,Tops,Blouse,M,Burgundy,1,46.39,10,4.64,41.75,Apple Pay,True
+ORD-100260,2025-06-22,Aria Miller,Northeast,Online,Web,Tops,Button-Up Shirt,S,Burgundy,3,43.09,0,0.0,129.27,Debit Card,False
+ORD-100568,2025-06-22,Isabella Patel,Northeast,Online,Web,Tops,Cami Top,XS,Black,4,42.35,0,0.0,169.4,Credit Card,False
+ORD-100135,2025-06-22,Priya Chen,Southwest,In-Store,Westfield Mall,Dresses,Shift Dress,XL,Rust,2,150.41,0,0.0,300.82,Gift Card,False
+ORD-100872,2025-06-22,Abigail Rodriguez,Southeast,In-Store,Westfield Mall,Dresses,Wrap Dress,XXL,Olive,2,163.7,0,0.0,327.4,Apple Pay,False
+ORD-100278,2025-06-23,Chloe Jones,Northeast,Online,Web,Footwear,Loafers,10,Blush Pink,1,148.28,0,0.0,148.28,Credit Card,False
+ORD-100004,2025-06-23,Isabella Miller,Northeast,In-Store,Downtown Flagship,Tops,Cami Top,L,Navy,1,74.1,0,0.0,74.1,Credit Card,False
+ORD-100511,2025-06-23,Emma Brown,Southeast,Online,Web,Tops,Tunic,XL,White,1,56.14,0,0.0,56.14,Debit Card,False
+ORD-100201,2025-06-23,Amelia Anderson,West,Online,Web,Bottoms,Denim Shorts,S,Cream,1,51.14,0,0.0,51.14,Credit Card,False
+ORD-100531,2025-06-24,Ava Williams,Midwest,Online,Web,Tops,Tank Top,M,Camel,2,60.97,0,0.0,121.94,Credit Card,False
+ORD-100537,2025-06-24,Aria Johnson,West,Online,Web,Bottoms,Culottes,XL,Black,2,64.16,0,0.0,128.32,Credit Card,False
+ORD-100473,2025-06-24,Nora Rossi,Midwest,Online,Web,Tops,Button-Up Shirt,S,Burgundy,2,70.23,0,0.0,140.46,Cash,True
+ORD-100889,2025-06-25,Naomi Andersson,Southeast,Online,Web,Tops,Button-Up Shirt,L,Emerald,1,54.02,15,8.1,45.92,Credit Card,False
+ORD-100420,2025-06-25,Charlotte Okafor,Southeast,In-Store,Riverside Plaza,Tops,Cami Top,M,Sky Blue,2,69.17,0,0.0,138.34,Cash,False
+ORD-100188,2025-06-25,Ava Nguyen,Northeast,In-Store,Airport Kiosk,Dresses,Wrap Dress,L,White,3,102.83,0,0.0,308.49,Credit Card,False
+ORD-100245,2025-06-27,Ruby Davis,Midwest,In-Store,Downtown Flagship,Bottoms,Denim Shorts,S,Mustard,2,30.45,0,0.0,60.9,PayPal,False
+ORD-100856,2025-06-29,Sophia Gonzalez,Midwest,In-Store,Riverside Plaza,Dresses,Slip Dress,XL,Black,3,86.37,20,51.82,207.29,Debit Card,False
+ORD-100980,2025-06-29,Riley Rossi,Southeast,In-Store,Downtown Flagship,Outerwear,Denim Jacket,M,Emerald,3,184.07,0,0.0,552.21,Credit Card,False
+ORD-100247,2025-07-01,Sophia Johnson,West,Online,Web,Tops,Cami Top,M,Burgundy,1,48.99,0,0.0,48.99,Gift Card,True
+ORD-100650,2025-07-02,Riley Wilson,Southeast,Online,Web,Bottoms,Skinny Jeans,XS,Sky Blue,2,51.34,0,0.0,102.68,Gift Card,False
+ORD-100751,2025-07-03,Naomi Thomas,West,In-Store,Downtown Flagship,Tops,Knit Sweater,XL,Lavender,1,81.55,5,4.08,77.47,Credit Card,False
+ORD-100242,2025-07-03,Chloe Jones,Northeast,Online,Web,Dresses,Slip Dress,M,Blush Pink,1,156.94,25,39.23,117.71,Credit Card,False
+ORD-100322,2025-07-03,Fatima Jones,Northeast,In-Store,Airport Kiosk,Tops,Knit Sweater,S,Sky Blue,1,75.37,0,0.0,75.37,Debit Card,False
+ORD-100685,2025-07-04,Amelia Singh,Southeast,Online,Web,Dresses,Slip Dress,S,Cream,1,88.12,15,13.22,74.9,Apple Pay,False
+ORD-100358,2025-07-04,Maya Patel,West,In-Store,Airport Kiosk,Outerwear,Puffer Jacket,M,Camel,1,192.09,0,0.0,192.09,Debit Card,True
+ORD-100123,2025-07-05,Olivia Johnson,Southeast,Online,Web,Dresses,Maxi Dress,L,Lavender,2,109.95,0,0.0,219.9,Credit Card,False
+ORD-100072,2025-07-05,Isabella Patel,West,In-Store,Airport Kiosk,Footwear,Loafers,5,Olive,1,118.3,10,11.83,106.47,Apple Pay,False
+ORD-100142,2025-07-05,Zoe Smith,Northeast,In-Store,Airport Kiosk,Accessories,Leather Belt,One Size,Mustard,1,70.08,5,3.5,66.58,Cash,False
+ORD-100902,2025-07-06,Sophia Rossi,Northeast,Online,Web,Tops,Tunic,S,Black,1,62.17,0,0.0,62.17,PayPal,False
+ORD-100479,2025-07-06,Mia Nguyen,Northeast,In-Store,Airport Kiosk,Accessories,Statement Earrings,One Size,Navy,1,69.48,0,0.0,69.48,PayPal,False
+ORD-100174,2025-07-07,Aisha Rossi,Southwest,Online,Web,Tops,Blouse,XS,Mustard,4,80.4,20,64.32,257.28,Gift Card,True
+ORD-100783,2025-07-07,Mei Lee,Northeast,Online,Web,Bottoms,Culottes,L,Rust,2,104.26,0,0.0,208.52,PayPal,False
+ORD-100841,2025-07-08,Aisha Brown,Southeast,Online,Web,Footwear,Heeled Sandals,8,Charcoal,1,132.14,20,26.43,105.71,PayPal,False
+ORD-100327,2025-07-08,Charlotte Okafor,Southwest,Online,Web,Footwear,Ankle Boots,7,Sky Blue,1,124.44,25,31.11,93.33,Apple Pay,False
+ORD-100712,2025-07-09,Harper Johnson,West,Online,Web,Dresses,Slip Dress,M,Black,1,64.08,0,0.0,64.08,PayPal,False
+ORD-100596,2025-07-10,Olivia Williams,West,Online,Web,Outerwear,Blazer,S,Mustard,2,119.67,10,23.93,215.41,Apple Pay,False
+ORD-100033,2025-07-11,Evelyn Williams,Northeast,In-Store,Downtown Flagship,Dresses,Shift Dress,S,Mustard,2,77.51,0,0.0,155.02,Credit Card,False
+ORD-100442,2025-07-12,Aurora Hernandez,Southwest,In-Store,Downtown Flagship,Accessories,Silk Scarf,One Size,Black,2,59.38,0,0.0,118.76,Cash,False
+ORD-100835,2025-07-12,Nora Hernandez,Midwest,In-Store,Westfield Mall,Dresses,Shift Dress,L,Mustard,1,91.53,0,0.0,91.53,Cash,False
+ORD-100936,2025-07-12,Ella Williams,West,Online,Web,Outerwear,Cardigan,S,Sky Blue,1,188.76,0,0.0,188.76,PayPal,False
+ORD-100151,2025-07-12,Grace Smith,Southeast,Online,Web,Accessories,Silk Scarf,One Size,Camel,1,70.77,0,0.0,70.77,Cash,False
+ORD-100406,2025-07-13,Amelia Cohen,Southeast,Online,Web,Dresses,Midi Dress,M,Lavender,1,123.48,0,0.0,123.48,Apple Pay,False
+ORD-100736,2025-07-13,Naomi Brown,Midwest,In-Store,Airport Kiosk,Dresses,Shift Dress,XL,Blush Pink,3,107.83,0,0.0,323.49,Credit Card,False
+ORD-100798,2025-07-13,Zoe Smith,West,Online,Web,Bottoms,Skinny Jeans,S,Cream,3,50.29,0,0.0,150.87,Credit Card,False
+ORD-100073,2025-07-13,Ava Diaz,West,In-Store,Airport Kiosk,Footwear,Loafers,10,Olive,1,48.62,0,0.0,48.62,Debit Card,False
+ORD-100829,2025-07-13,Priya Müller,Southwest,Online,Web,Bottoms,Skinny Jeans,M,Camel,2,45.7,0,0.0,91.4,Credit Card,True
+ORD-100215,2025-07-13,Aria Wilson,Midwest,Online,Web,Tops,Knit Sweater,S,Black,1,45.62,0,0.0,45.62,Debit Card,False
+ORD-100387,2025-07-15,Aisha Brown,Southeast,In-Store,Airport Kiosk,Activewear,Yoga Pants,L,Rust,1,46.59,10,4.66,41.93,Credit Card,False
+ORD-100905,2025-07-16,Lily Thomas,Northeast,Online,Web,Activewear,Sports Bra,L,Camel,3,58.09,20,34.85,139.42,PayPal,False
+ORD-100742,2025-07-16,Emily Chen,Midwest,In-Store,Westfield Mall,Bottoms,Leggings,XXL,Sky Blue,1,49.56,15,7.43,42.13,Apple Pay,False
+ORD-100197,2025-07-16,Sophia Wright,Northeast,Online,Web,Footwear,Sneakers,6,White,1,110.5,0,0.0,110.5,Debit Card,False
+ORD-100204,2025-07-16,Chloe Patel,Midwest,In-Store,Riverside Plaza,Dresses,Bodycon Dress,M,Olive,1,75.6,0,0.0,75.6,Apple Pay,False
+ORD-100477,2025-07-17,Aurora Wright,West,In-Store,Airport Kiosk,Outerwear,Blazer,M,Rust,1,62.03,30,18.61,43.42,Cash,False
+ORD-100689,2025-07-19,Amelia Miller,Northeast,Online,Web,Tops,Cami Top,XS,Olive,2,20.74,10,4.15,37.33,Credit Card,False
+ORD-100163,2025-07-19,Grace Kim,Northeast,Online,Web,Bottoms,Culottes,M,Blush Pink,3,105.85,30,95.26,222.29,Credit Card,False
+ORD-100061,2025-07-19,Aisha Johnson,Southeast,Online,Web,Accessories,Sun Hat,One Size,Blush Pink,2,12.3,25,6.15,18.45,Apple Pay,False
+ORD-100597,2025-07-20,Aria Hernandez,Southeast,Online,Web,Dresses,Maxi Dress,XL,Blush Pink,4,130.57,0,0.0,522.28,Credit Card,False
+ORD-100134,2025-07-20,Naomi Wright,Southeast,Online,Web,Activewear,Yoga Pants,XL,Cream,2,38.71,5,3.87,73.55,Debit Card,False
+ORD-100754,2025-07-20,Ruby Anderson,West,Online,Web,Dresses,Shift Dress,S,Mustard,1,155.14,0,0.0,155.14,Credit Card,False
+ORD-100423,2025-07-20,Nora Davis,Southwest,Online,Web,Dresses,Midi Dress,S,White,1,64.61,0,0.0,64.61,PayPal,False
+ORD-100750,2025-07-21,Ava Williams,Southwest,Online,Web,Bottoms,Pleated Skirt,S,Sky Blue,2,97.93,0,0.0,195.86,PayPal,False
+ORD-100158,2025-07-21,Emma Williams,Northeast,In-Store,Downtown Flagship,Footwear,Ankle Boots,6,Olive,3,64.16,0,0.0,192.48,PayPal,False
+ORD-100457,2025-07-22,Chloe Singh,Northeast,Online,Web,Tops,Tunic,S,Sky Blue,1,54.26,0,0.0,54.26,Cash,False
+ORD-100564,2025-07-22,Ava Smith,Midwest,Online,Web,Bottoms,Pleated Skirt,L,Olive,2,102.78,10,20.56,185.0,Debit Card,False
+ORD-100401,2025-07-23,Abigail Gonzalez,West,Online,Web,Dresses,Bodycon Dress,M,Mustard,1,84.32,0,0.0,84.32,Apple Pay,False
+ORD-100042,2025-07-24,Priya Wright,Northeast,Online,Web,Tops,Cami Top,L,Camel,1,64.7,10,6.47,58.23,Credit Card,False
+ORD-100493,2025-07-24,Riley Wilson,Northeast,In-Store,Westfield Mall,Accessories,Statement Earrings,One Size,Lavender,2,47.65,25,23.82,71.48,Apple Pay,False
+ORD-100378,2025-07-25,Hazel Nguyen,Midwest,In-Store,Riverside Plaza,Tops,Tank Top,XL,Olive,1,59.77,0,0.0,59.77,Credit Card,False
+ORD-100443,2025-07-26,Riley Chen,West,In-Store,Airport Kiosk,Bottoms,Culottes,L,Olive,1,68.41,0,0.0,68.41,Credit Card,False
+ORD-100320,2025-07-26,Hazel Brown,Southwest,In-Store,Riverside Plaza,Dresses,Shift Dress,S,Blush Pink,1,115.45,5,5.77,109.68,Credit Card,False
+ORD-100379,2025-07-26,Layla Wilson,West,Online,Web,Tops,Blouse,M,Mustard,1,59.34,0,0.0,59.34,PayPal,False
+ORD-100709,2025-07-26,Grace Miller,Midwest,Online,Web,Tops,Knit Sweater,L,Mustard,1,63.76,15,9.56,54.2,Credit Card,False
+ORD-100496,2025-07-26,Charlotte Chen,West,Online,Web,Dresses,Bodycon Dress,L,White,1,133.62,15,20.04,113.58,Debit Card,False
+ORD-100144,2025-07-27,Ella Smith,Northeast,In-Store,Airport Kiosk,Tops,Button-Up Shirt,S,Sky Blue,2,29.98,0,0.0,59.96,PayPal,False
+ORD-100506,2025-07-27,Aisha Rossi,Southwest,In-Store,Airport Kiosk,Dresses,Slip Dress,L,Navy,1,120.18,15,18.03,102.15,Cash,False
+ORD-100321,2025-07-28,Abigail Wright,Midwest,In-Store,Airport Kiosk,Footwear,Ballet Flats,10,Olive,1,90.77,5,4.54,86.23,Credit Card,False
+ORD-100054,2025-07-29,Layla Garcia,Southeast,In-Store,Airport Kiosk,Bottoms,Leggings,M,Camel,1,42.09,15,6.31,35.78,Debit Card,False
+ORD-100469,2025-07-29,Nora Davis,West,Online,Web,Dresses,Wrap Dress,S,Sky Blue,1,116.42,0,0.0,116.42,Credit Card,False
+ORD-100557,2025-07-29,Fatima Williams,West,Online,Web,Outerwear,Denim Jacket,M,Sky Blue,2,249.48,10,49.9,449.06,Debit Card,False
+ORD-100630,2025-07-30,Fatima Wilson,Southwest,Online,Web,Bottoms,Pleated Skirt,XS,Blush Pink,1,106.36,15,15.95,90.41,Apple Pay,True
+ORD-100964,2025-07-31,Harper Andersson,Northeast,Online,Web,Dresses,Midi Dress,XS,Emerald,3,118.15,0,0.0,354.45,Apple Pay,False
+ORD-100203,2025-08-02,Riley Rodriguez,Midwest,In-Store,Riverside Plaza,Dresses,Midi Dress,XXL,Camel,2,137.21,40,109.77,164.65,PayPal,False
+ORD-100878,2025-08-02,Grace Patel,West,In-Store,Riverside Plaza,Tops,Tank Top,M,Cream,4,47.16,0,0.0,188.64,Credit Card,False
+ORD-100092,2025-08-02,Lily Thomas,Southeast,Online,Web,Dresses,Shift Dress,XS,Sky Blue,1,163.67,5,8.18,155.49,PayPal,True
+ORD-100034,2025-08-02,Abigail Wright,West,Online,Web,Dresses,Bodycon Dress,XS,Cream,2,159.67,0,0.0,319.34,Credit Card,False
+ORD-100622,2025-08-03,Ella Smith,Southwest,Online,Web,Dresses,Maxi Dress,M,Mustard,2,62.18,10,12.44,111.92,Credit Card,False
+ORD-100725,2025-08-03,Naomi Rossi,Northeast,Online,Web,Outerwear,Puffer Jacket,M,Sky Blue,1,175.66,10,17.57,158.09,PayPal,False
+ORD-100764,2025-08-03,Lily Williams,Southeast,In-Store,Airport Kiosk,Dresses,Bodycon Dress,XL,Emerald,2,135.91,40,108.73,163.09,PayPal,False
+ORD-100492,2025-08-03,Aurora Chen,West,In-Store,Riverside Plaza,Dresses,Midi Dress,S,Black,1,110.55,0,0.0,110.55,Credit Card,False
+ORD-100319,2025-08-04,Zoe Smith,Southeast,In-Store,Airport Kiosk,Footwear,Loafers,8,Burgundy,1,52.72,20,10.54,42.18,Credit Card,False
+ORD-100289,2025-08-04,Ava Hernandez,Southeast,In-Store,Riverside Plaza,Tops,Blouse,XL,Black,2,66.96,0,0.0,133.92,Gift Card,False
+ORD-100974,2025-08-04,Riley Rossi,Midwest,In-Store,Westfield Mall,Dresses,Wrap Dress,S,Rust,2,82.58,0,0.0,165.16,PayPal,False
+ORD-100487,2025-08-05,Olivia Singh,Midwest,Online,Web,Outerwear,Trench Coat,M,Burgundy,1,172.37,0,0.0,172.37,Credit Card,False
+ORD-100088,2025-08-06,Aisha Lopez,Northeast,In-Store,Airport Kiosk,Accessories,Silk Scarf,One Size,Cream,2,20.71,0,0.0,41.42,Credit Card,False
+ORD-100277,2025-08-06,Layla Wilson,Northeast,Online,Web,Tops,Tunic,L,Lavender,1,64.14,0,0.0,64.14,Credit Card,False
+ORD-100941,2025-08-06,Evelyn Gonzalez,West,In-Store,Westfield Mall,Dresses,Wrap Dress,M,Rust,2,113.96,20,45.58,182.34,Debit Card,False
+ORD-100050,2025-08-06,Riley Miller,Southwest,In-Store,Riverside Plaza,Activewear,Yoga Pants,M,White,1,27.4,0,0.0,27.4,Apple Pay,False
+ORD-100605,2025-08-06,Riley Brown,West,In-Store,Downtown Flagship,Activewear,Yoga Pants,S,Sky Blue,1,75.47,0,0.0,75.47,Credit Card,False
+ORD-100296,2025-08-07,Ruby Garcia,Southeast,In-Store,Westfield Mall,Accessories,Silk Scarf,One Size,Emerald,1,32.29,25,8.07,24.22,Debit Card,False
+ORD-100222,2025-08-08,Zoe Jones,Southwest,Online,Web,Dresses,Maxi Dress,L,Black,3,164.08,0,0.0,492.24,Apple Pay,False
+ORD-100093,2025-08-08,Olivia Davis,Southeast,Online,Web,Dresses,Slip Dress,XL,Charcoal,2,64.83,0,0.0,129.66,PayPal,False
+ORD-100375,2025-08-08,Riley Cohen,Southwest,Online,Web,Dresses,Midi Dress,S,White,1,60.03,0,0.0,60.03,PayPal,True
+ORD-100851,2025-08-08,Mei Andersson,Southwest,Online,Web,Footwear,Ankle Boots,5,Rust,2,126.38,0,0.0,252.76,Cash,True
+ORD-100690,2025-08-08,Naomi Brown,Northeast,In-Store,Riverside Plaza,Dresses,Maxi Dress,L,Camel,1,151.24,5,7.56,143.68,Gift Card,False
+ORD-100629,2025-08-08,Chloe Andersson,Southwest,Online,Web,Outerwear,Puffer Jacket,S,Sky Blue,1,132.0,10,13.2,118.8,Credit Card,False
+ORD-100218,2025-08-09,Evelyn Kim,Northeast,Online,Web,Outerwear,Puffer Jacket,M,Sky Blue,2,166.55,0,0.0,333.1,Credit Card,False
+ORD-100652,2025-08-09,Maya Johnson,Southeast,In-Store,Riverside Plaza,Tops,Cami Top,S,Lavender,1,81.35,0,0.0,81.35,Credit Card,True
+ORD-100481,2025-08-10,Ella Rodriguez,Northeast,Online,Web,Bottoms,Pleated Skirt,M,Burgundy,1,86.33,5,4.32,82.01,Credit Card,False
+ORD-100381,2025-08-10,Charlotte Okafor,Midwest,Online,Web,Footwear,Heeled Sandals,7,Blush Pink,1,105.39,40,42.16,63.23,Apple Pay,False
+ORD-100077,2025-08-10,Nora Müller,Southwest,Online,Web,Tops,Button-Up Shirt,M,Emerald,1,59.53,50,29.77,29.76,Debit Card,False
+ORD-100339,2025-08-10,Priya Müller,Northeast,Online,Web,Dresses,Wrap Dress,M,Blush Pink,1,53.32,0,0.0,53.32,Debit Card,False
+ORD-100624,2025-08-10,Fatima Lopez,West,Online,Web,Dresses,Maxi Dress,S,Rust,1,93.56,0,0.0,93.56,Credit Card,False
+ORD-100533,2025-08-10,Amelia Anderson,West,In-Store,Downtown Flagship,Tops,Cami Top,L,Rust,3,25.3,5,3.79,72.11,PayPal,False
+ORD-100143,2025-08-10,Charlotte Lee,Midwest,Online,Web,Bottoms,Leggings,M,Black,3,99.7,0,0.0,299.1,Credit Card,False
+ORD-100542,2025-08-11,Olivia Johnson,Southeast,Online,Web,Dresses,Wrap Dress,L,Navy,1,53.49,0,0.0,53.49,Credit Card,False
+ORD-100554,2025-08-11,Priya Lopez,Midwest,Online,Web,Footwear,Ankle Boots,10,Charcoal,1,80.47,0,0.0,80.47,Apple Pay,False
+ORD-100298,2025-08-11,Nora Brown,Southeast,In-Store,Westfield Mall,Tops,Tunic,L,Emerald,1,57.31,0,0.0,57.31,PayPal,False
+ORD-100173,2025-08-11,Evelyn Gonzalez,West,In-Store,Airport Kiosk,Footwear,Heeled Sandals,5,Black,1,151.42,0,0.0,151.42,Apple Pay,False
+ORD-100139,2025-08-12,Aisha Brown,Northeast,Online,Web,Bottoms,Leggings,XS,Emerald,1,74.6,15,11.19,63.41,PayPal,False
+ORD-100409,2025-08-12,Olivia Martinez,Southeast,In-Store,Riverside Plaza,Dresses,Bodycon Dress,M,Mustard,2,170.06,0,0.0,340.12,Debit Card,False
+ORD-100910,2025-08-12,Mei Brown,Midwest,In-Store,Westfield Mall,Activewear,Track Jacket,M,Navy,2,79.96,0,0.0,159.92,Cash,False
+ORD-100046,2025-08-12,Isabella Lee,Southeast,In-Store,Downtown Flagship,Bottoms,Denim Shorts,S,Mustard,1,45.98,0,0.0,45.98,Debit Card,False
+ORD-100887,2025-08-14,Aurora Wright,Northeast,In-Store,Downtown Flagship,Dresses,Slip Dress,XL,Navy,1,98.67,0,0.0,98.67,PayPal,False
+ORD-100958,2025-08-14,Naomi Jones,Southwest,Online,Web,Tops,Button-Up Shirt,S,Emerald,1,84.35,0,0.0,84.35,Apple Pay,False
+ORD-100824,2025-08-15,Abigail Gonzalez,West,In-Store,Westfield Mall,Footwear,Ankle Boots,7,Black,2,109.15,15,32.74,185.56,Apple Pay,False
+ORD-100898,2025-08-15,Nora Reyes,Midwest,In-Store,Airport Kiosk,Bottoms,Culottes,M,Emerald,1,116.09,10,11.61,104.48,Credit Card,False
+ORD-100673,2025-08-16,Emily Anderson,Southeast,In-Store,Westfield Mall,Bottoms,Culottes,XS,Blush Pink,2,30.55,0,0.0,61.1,Debit Card,False
+ORD-100721,2025-08-16,Sophia Wright,Midwest,Online,Web,Bottoms,Leggings,XL,Lavender,1,69.03,0,0.0,69.03,Cash,False
+ORD-100759,2025-08-16,Olivia Chen,Midwest,Online,Web,Activewear,Track Jacket,L,Camel,1,33.9,0,0.0,33.9,Credit Card,False
+ORD-100661,2025-08-16,Aisha Rodriguez,Northeast,Online,Web,Accessories,Sun Hat,One Size,Sky Blue,1,62.88,0,0.0,62.88,Apple Pay,False
+ORD-100680,2025-08-17,Aisha Thomas,Southwest,In-Store,Airport Kiosk,Tops,Knit Sweater,XS,Camel,2,54.74,15,16.42,93.06,Debit Card,False
+ORD-100499,2025-08-17,Grace Kim,Midwest,In-Store,Riverside Plaza,Outerwear,Blazer,M,Olive,1,157.75,0,0.0,157.75,Credit Card,False
+ORD-100845,2025-08-17,Hazel Gonzalez,Midwest,In-Store,Westfield Mall,Tops,Knit Sweater,S,Sky Blue,1,73.08,0,0.0,73.08,Debit Card,False
+ORD-100488,2025-08-17,Charlotte Wright,Southeast,Online,Web,Tops,Knit Sweater,M,Charcoal,1,45.49,0,0.0,45.49,Debit Card,False
+ORD-100236,2025-08-18,Abigail Gonzalez,Northeast,In-Store,Riverside Plaza,Dresses,Bodycon Dress,L,Rust,1,124.62,0,0.0,124.62,Debit Card,False
+ORD-100357,2025-08-18,Charlotte Okafor,Northeast,In-Store,Riverside Plaza,Dresses,Maxi Dress,S,Olive,1,85.01,0,0.0,85.01,Debit Card,False
+ORD-100809,2025-08-19,Evelyn Wilson,Southwest,Online,Web,Bottoms,Pleated Skirt,XS,Camel,1,92.42,0,0.0,92.42,PayPal,False
+ORD-100897,2025-08-19,Chloe Chen,Northeast,Online,Web,Tops,Tank Top,S,Lavender,1,42.84,10,4.28,38.56,Gift Card,False
+ORD-100657,2025-08-20,Aisha Brown,Southeast,In-Store,Westfield Mall,Tops,Tunic,M,Rust,2,34.25,0,0.0,68.5,Cash,False
