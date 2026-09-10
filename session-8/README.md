@@ -88,6 +88,14 @@ Two things worth catching, and the second is the one that matters.
 
 ## Part 3 — Sign in to GitHub (Claude can’t do this for you)
 
+Install the GitHub command line by following these instructions in VSCode.
+1. Go to Terminal > New Terminal
+2. Copy and paste the following and type `Y` when prompted and then `Enter`.
+
+```
+winget install --id GitHub.cli
+```
+
 Your work lives in a GitHub repository. You need to give Claude access to your GitHub account.
 
 `gh` is GitHub's command-line tool — the same GitHub you clicked through in Session 6, minus the web page. It is already installed on this machine.
