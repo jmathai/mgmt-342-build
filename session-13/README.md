@@ -1,13 +1,9 @@
 # Session 13 — The folder is the agent
 
 **Tuesday, September 29 · 4:00–5:15 PM · CFI · lab machine**
-
-**Bring these:**
-- Nothing. No GitHub login today. Everything happens on this machine.
-
 ---
 
-## Where today goes
+## Today's agenda
 
 Session 10 you added instructions to a folder that already existed — your website. Today the folder is the whole job. There is no site, no code, no deliverable except the instructions you write.
 
