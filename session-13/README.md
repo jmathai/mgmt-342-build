@@ -11,7 +11,7 @@
 
 Session 10 you added instructions to a folder that already existed — your website. Today the folder is the whole job. There is no site, no code, no deliverable except the instructions you write.
 
-You run customer service for the Riverbend University bookstore. Every morning, customer emails land in an inbox. You are building the thing that reads each email, checks the order history, and drafts a reply you would be comfortable sending.
+You run customer service for the Xavier University bookstore. Every morning, customer emails land in an inbox. You are building the thing that reads each email, checks the order history, and drafts a reply you would be comfortable sending.
 
 **You will not write a single reply.** You will write the instructions the agent follows, watch what it does with them, and then fix the instructions.
 
