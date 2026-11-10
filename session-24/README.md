@@ -4,13 +4,13 @@
 
 ---
 
-## Bring these
+## What to bring
 
 - **A problem from your career field.** Something that wastes your time, costs money or causes mistakes in a job you have or want.
 
 ---
 
-## Where today goes
+## What we’ll do today
 
 Module 4 is a small web app that solves a real problem in your field. It runs on your computer and works on a phone. The app should be small - don’t spend all your time on the app.
 
@@ -31,11 +31,11 @@ Every one of these gets handed to an agent later. The agent builds the app from 
 
 ## Part 1 — When to provide details?
 
-How detailed do you think your .md files should be?
+A couple questions to consider.
 
-When’s a good time to be open ended and when is a good time to be detailed?
-
-
+1. What .md files should you have?
+2. How detailed do you think your .md files should be?
+3. When’s a good time to be open ended and when is a good time to be detailed?
 
 ---
 
@@ -118,7 +118,7 @@ What I need to show: [TAKE IT FROM "WHAT IT COSTS THEM" IN problem.md.]
 [WHAT THE AGENT FOUND: HOW COMMON THE PROBLEM IS AND WHAT IT COSTS. EACH CLAIM WITH A SOURCE YOU OPENED.]
 
 ### What people who have it say
-Survey link: [PASTE IT HERE.]
+Survey results: [PASTE IT HERE.]
 Who I sent it to: [1 OR 2 PEOPLE IN YOUR FIELD WHO HAVE THE PROBLEM.]
 What would tell me I am wrong: [THE ANSWER THAT MEANS THE PROBLEM IS SMALLER THAN YOU THINK.]
 
@@ -129,7 +129,7 @@ What I write down: [WHERE THEY GOT STUCK AND HOW LONG IT TOOK.]
 What would tell me I am wrong: [WHAT THE TESTER DOES THAT MEANS THE APP DID NOT HELP.]
 ```
 
-**Send the survey first.** Three to five questions, taken from `problem.md`: Does this happen to you? How often? What does it cost you when it does? How do you handle it today? Build it in Microsoft Forms or Google Forms and send it now. Ask for answers by Thursday. On Thursday you give the answers to the agent along with `solution.md`, and change the plan where they disagree with it.
+**Send the survey first.** Three to five questions, taken from `problem.md`: Does this happen to you? How often? What does it cost you when it does? How do you handle it today? Can be built in Microsoft Forms or Google Forms. Ask for answers by Thursday, if possible. On Thursday you give the answers to the agent along with `solution.md`, and change the plan where they disagree with it.
 
 A classmate cannot answer the survey unless they have the problem too. Classmates test the app. People in your field answer the survey.
 
@@ -185,33 +185,7 @@ Then run the interview.
 
 ---
 
-## Discussion (if time)
-
-- What did the interview ask that you had not thought about?
-- Whose "What it does not do" list was the longest? Did it make the app clearer?
-- Read your problem in one sentence to the person next to you. Can they tell you who has it?
-
----
-
-## Done early?
-
-- **Run the interview a third time** on `solution.md`. That is the file the agent builds from on Thursday.
-- **Sketch the main screen.** On paper or with the agent. Save it in `module4-app/`.
-- **Have the agent read all your files** and tell you where they disagree with each other.
-- **Start the web page or the ad** below.
-
----
-
-## Before you leave the room
-
-1. Send the survey to 1 or 2 people who have the problem.
-2. Commit `module4-app/` with `CLAUDE.md`, `problem.md`, `evidence.md` and `solution.md`.
-
-On Thursday you hand `solution.md` and your survey answers to the agent and build the first version.
-
----
-
-## After class — the web page and the ad
+## The web page
 
 Write `web-page.md` before November 17. Your classmate reads the web page before testing the app. Write `ad-script.md` before November 19. Run the interview on each, the same as in class.
 
@@ -243,7 +217,7 @@ Write `web-page.md`. This is the copy, not the page. The agent builds the page f
 
 You are not selling anything. The page explains to someone in your field why this problem is worth solving and how the app does it.
 
-### The ad
+## The ad
 
 Write `ad-script.md`. A 30 to 60 second commercial. On November 19 you make it with AI image, video and sound tools, so describe what is on screen and what is heard, not just what is said.
 
@@ -270,6 +244,34 @@ Write `ad-script.md`. A 30 to 60 second commercial. On November 19 you make it w
 Ask the agent for three versions of the hook scene, each in a different tone. Pick one and say why. The choice has to be yours.
 
 </details>
+
+---
+
+## Discussion (if time)
+
+- What did the interview ask that you had not thought about?
+- Whose "What it does not do" list was the longest? Did it make the app clearer?
+- Read your problem in one sentence to the person next to you. Can they tell you who has it?
+
+---
+
+## Done early?
+
+- **Run the interview a third time** on `solution.md`. That is the file the agent builds from on Thursday.
+- **Sketch the main screen.** On paper or with the agent. Save it in `module4-app/`.
+- **Have the agent read all your files** and tell you where they disagree with each other.
+- **Start the web page or the ad** below.
+
+---
+
+## Before you leave the room
+
+1. Send the survey to 1 or 2 people who have the problem.
+2. Submit one of your .md files.
+
+On Thursday you hand `solution.md` and your survey answers to the agent and build the first version.
+
+
 
 ---
 
